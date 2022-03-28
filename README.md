@@ -11,8 +11,8 @@ Thanks [Shields.io](https://shields.io/) for the star counts!
 **Current Goal:**
 Catch up to Toronto!
 
-| Icon                                                                         | Handle                                                          | Municipality                                              | Stars                                                                                               |
-| ---------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Icon                                                                         | Handle                                                          | Municipality                                              | Stars                                                                                                         |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ![VilledeMontreal](https://github.com/VilledeMontreal.png?size=40)           | [VilledeMontreal](https://github.com/VilledeMontreal)           | [Montreal, Quebec](https://montreal.ca/)                  | ![GitHub Org's stars](https://img.shields.io/github/stars/VilledeMontreal?label=%20&style=for-the-badge)      |
 | ![CityofToronto](https://github.com/CityofToronto.png?size=40)               | [CityofToronto](https://github.com/CityofToronto)               | [Toronto, Ontario](https://www.toronto.ca/)               | ![GitHub Org's stars](https://img.shields.io/github/stars/CityofToronto?label=%20&style=for-the-badge)        |
 | ![CityOfEdmonton](https://github.com/CityOfEdmonton.png?size=40)             | [CityOfEdmonton](https://github.com/CityOfEdmonton)             | [Edmonton, Alberta](https://edmonton.ca/)                 | ![GitHub Org's stars](https://img.shields.io/github/stars/CityOfEdmonton?label=%20&style=for-the-badge)       |
@@ -28,4 +28,4 @@ with the municipality's account handle.
 
 ## Helpful Links
 
-- [Other Government Agencies on GitHub](https://government.github.com/community/)
+-   [Other Government Agencies on GitHub](https://government.github.com/community/)
