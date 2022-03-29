@@ -20,6 +20,9 @@ Catch up to Toronto!
 |         ![cityofsurrey](https://github.com/cityofsurrey.png?size=40)         | [cityofsurrey](https://github.com/cityofsurrey)<br /> Surrey, British Columbia                 |     ![GitHub Org's stars](https://img.shields.io/github/stars/cityofsurrey?label=%20&style=for-the-badge)     |
 |         ![cityofottawa](https://github.com/cityofottawa.png?size=40)         | [cityofottawa](https://github.com/cityofottawa)<br /> Ottawa, Ontario                          |     ![GitHub Org's stars](https://img.shields.io/github/stars/cityofottawa?label=%20&style=for-the-badge)     |
 | ![cityofgreatersudbury](https://github.com/cityofgreatersudbury.png?size=40) | [cityofgreatersudbury](https://github.com/cityofgreatersudbury)<br /> Greater Sudbury, Ontario | ![GitHub Org's stars](https://img.shields.io/github/stars/cityofgreatersudbury?label=%20&style=for-the-badge) |
+|       ![CityofRichmond](https://github.com/CityofRichmond.png?size=40)       | [CityofRichmond](https://github.com/CityofRichmond)<br /> Richmond, British Columbia           |    ![GitHub Org's stars](https://img.shields.io/github/stars/CityofRichmond?label=%20&style=for-the-badge)    |
+|         ![CityOfSarnia](https://github.com/CityOfSarnia.png?size=40)         | [CityOfSarnia](https://github.com/CityOfSarnia)<br /> Sarnia, Ontario                          |     ![GitHub Org's stars](https://img.shields.io/github/stars/CityOfSarnia?label=%20&style=for-the-badge)     |
+|       ![CityOfVictoria](https://github.com/CityOfVictoria.png?size=40)       | [CityOfVictoria](https://github.com/CityOfVictoria)<br /> Victoria, British Columbia           |    ![GitHub Org's stars](https://img.shields.io/github/stars/CityOfVictoria?label=%20&style=for-the-badge)    |
 
 ## Missing Another Active Canadian Municipality?
 
