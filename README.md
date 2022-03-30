@@ -2,7 +2,7 @@
 
 To motivate us to continuously improve our GitHub presence,
 the table below shows how [The City of Sault Ste. Marie](https://saultstemarie.ca)
-compares to other Canadian municipalities that are releasing their code on GitHub.
+compares to other Canadian cities that are releasing their code on GitHub.
 
 Note that the table _does not_ resort itself after star counts change.
 
@@ -24,7 +24,7 @@ Catch up to Toronto!
 |         ![CityOfSarnia](https://github.com/CityOfSarnia.png?size=40)         | [CityOfSarnia](https://github.com/CityOfSarnia)<br /> Sarnia, Ontario                          |     ![GitHub Org's stars](https://img.shields.io/github/stars/CityOfSarnia?label=%20&style=for-the-badge)     |
 |       ![CityOfVictoria](https://github.com/CityOfVictoria.png?size=40)       | [CityOfVictoria](https://github.com/CityOfVictoria)<br /> Victoria, British Columbia           |    ![GitHub Org's stars](https://img.shields.io/github/stars/CityOfVictoria?label=%20&style=for-the-badge)    |
 
-## Missing Another Active Canadian Municipality?
+## Missing Another Active Canadian City or Town?
 
 [Create an issue](https://github.com/cityssm/municipal-github-rakings/issues/new)
 with the municipality's account handle.
