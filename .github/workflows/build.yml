@@ -2,7 +2,7 @@ name: Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 1,13 * * *'
 jobs:
   build:
     runs-on: ubuntu-18.04
@@ -19,7 +19,7 @@ jobs:
         run: npm run build
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - name: Commit report
+      - name: Commit latest data
         run: |
           git config --global user.name 'Dan Gowans'
           git config --global user.email 'dangowans@users.noreply.github.com'
