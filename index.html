@@ -58,10 +58,10 @@
           }
 
           trElement.innerHTML = "<td class=\"has-text-centered\">" +
-            "<img src=\"https://github.com/" + organization.handle + ".png?size=40\" alt=\"" + organization.handle + "\" width=\"40\" height=\"40\" />" +
+            "<img src=\"https://github.com/" + organization.handle + ".png?size=40\" alt=\"" + organization.handle + "\" width=\"40\" height=\"40\" loading=\"lazy\" />" +
             "</td>" +
             "<td>" +
-            "<a href=\"https://github.com/" + organization.handle + "\" target=\"_blank\">" + organization.handle + "</a><br />" +
+            "<a href=\"https://github.com/" + organization.handle + "\" rel=\"noopener\" target=\"_blank\">" + organization.handle + "</a><br />" +
             organization.title +
             "</td>" +
             "<td class=\"has-text-right\">" + organization.stars + "</td>" +
