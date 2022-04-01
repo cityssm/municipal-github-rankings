@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-CA">
 
 <head>
   <title>Canadian Municipal GitHub Rankings</title>
@@ -34,10 +34,10 @@
   <script src="https://cdn.jsdelivr.net/npm/axios@0.26.1/dist/axios.min.js" integrity="sha256-iSkNRnKsHORmMCNgQIxzyW0QzHrWeko/lyVjyI78G2c=" crossorigin="anonymous"></script>
   <script>
     axios.get("./data.json")
-      .then(function (response) {
+      .then((response) => {
         return response.data;
       })
-      .then(function (data) {
+      .then((data) => {
         const tableElement = document.createElement("table");
         tableElement.className = "table is-fullwidth is-striped";
 
