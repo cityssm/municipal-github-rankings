@@ -20,11 +20,11 @@ export let organizations: Organization[] = [
     handle: "CityOfSarnia",
     title: "Sarnia, Ontario"
   }, {
-    handle: "CityofToronto",
-    title: "Toronto, Ontario"
-  }, {
     handle: "cityofsurrey",
     title: "Surrey, British Columbia"
+  }, {
+    handle: "CityofToronto",
+    title: "Toronto, Ontario"
   }, {
     handle: "CityOfVictoria",
     title: "Victoria, British Columbia"
