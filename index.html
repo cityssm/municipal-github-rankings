@@ -34,10 +34,10 @@
   <script src="https://cdn.jsdelivr.net/npm/axios@0.26.1/dist/axios.min.js" integrity="sha256-iSkNRnKsHORmMCNgQIxzyW0QzHrWeko/lyVjyI78G2c=" crossorigin="anonymous"></script>
   <script>
     axios.get("./data.json")
-      .then((response) => {
+      .then(function (response) {
         return response.data;
       })
-      .then((data) => {
+      .then(function (data) {
         const tableElement = document.createElement("table");
         tableElement.className = "table is-fullwidth is-striped";
 
