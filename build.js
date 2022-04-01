@@ -29,11 +29,14 @@ for (const organization of organizations) {
         const organizationData = {
             handle: organization.handle,
             title: organization.title,
-            repositories: repos.length,
+            repositories: 0,
             stars: 0,
             forks: 0
         };
         for (const repo of repos) {
+            if (!repo.private) {
+                organizationData.repositories += 1;
+            }
             organizationData.stars += repo.stargazers_count;
             organizationData.forks += repo.forks;
         }
