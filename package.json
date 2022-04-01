@@ -1,0 +1,27 @@
+{
+  "name": "municipal-github-rankings",
+  "version": "1.0.0",
+  "description": "To motivate us to continuously improve our GitHub presence, the table below shows how [The City of Sault Ste. Marie](https://saultstemarie.ca) compares to other Canadian cities that are releasing their code on GitHub.",
+  "type": "module",
+  "exports": "./build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cityssm/municipal-github-rankings.git"
+  },
+  "author": "The Corporation of the City of Sault Ste. Marie",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/cityssm/municipal-github-rankings/issues"
+  },
+  "homepage": "https://github.com/cityssm/municipal-github-rankings#readme",
+  "private": true,
+  "dependencies": {
+    "github-api": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}

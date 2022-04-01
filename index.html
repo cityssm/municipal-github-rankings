@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Canadian Municipal GitHub Rankings</title>
+  <meta name="keywords" content="open source, open government, canada, city, town, municipality, github" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@cityssm/bulma-a11y@0.4.0/bulma-a11y.min.css">
+</head>
+
+<body>
+  <main class="container" style="max-width:600px;margin:0 auto;">
+    <h1 class="title has-text-centered">Canadian Municipal GitHub Rankings</h1>
+
+    <div class="message is-info">
+      <p class="message-body">
+        To motivate us to continuously improve our GitHub presence,
+        the table below shows how <a href="https://saultstemarie.ca/" target="_blank">The City of Sault Ste. Marie</a>
+        compares to other Canadian cities that are releasing their code on GitHub.
+      </p>
+    </div>
+
+    <div class="my-4" id="table-container">
+      <p class="has-text-centered">Loading...</p>
+    </div>
+  </main>
+  <footer class="footer mt-4">
+    <p class="has-text-centered">
+      A friendly project by The City of Sault Ste. Marie.<br />
+      <a href="https://github.com/cityssm/municipal-github-rankings">View on GitHub</a>
+    </p>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/axios@0.26.1/dist/axios.min.js" integrity="sha256-iSkNRnKsHORmMCNgQIxzyW0QzHrWeko/lyVjyI78G2c=" crossorigin="anonymous"></script>
+  <script>
+    axios.get("./data.json")
+      .then((response) => {
+        return response.data;
+      })
+      .then((data) => {
+        const tableElement = document.createElement("table");
+        tableElement.className = "table is-fullwidth is-striped";
+
+        tableElement.innerHTML = "<thead><tr>" +
+          "<th class=\"has-text-centered\">Icon</th>" +
+          "<th>Municipality</th>" +
+          "<th class=\"has-text-right\">Stars</th>" +
+          "<th class=\"has-text-right\">Public Repos</th>" +
+          "</tr></thead>" +
+          "<tbody></tbody>";
+
+        for (const organization of data.organizations) {
+
+          const trElement = document.createElement("tr");
+
+          if (organization.handle === "cityssm") {
+            trElement.className = "has-text-weight-bold";
+          }
+
+          trElement.innerHTML = "<td class=\"has-text-centered\">" +
+            "<img src=\"https://github.com/" + organization.handle + ".png?size=40\" alt=\"" + organization.handle + "\" />" +
+            "</td>" +
+            "<td>" +
+            "<a href=\"https://github.com/" + organization.handle + "\" target=\"_blank\">" + organization.handle + "</a><br />" +
+            organization.title +
+            "</td>" +
+            "<td class=\"has-text-right\">" + organization.stars + "</td>" +
+            "<td class=\"has-text-right\">" + organization.repositories + "</td>";
+
+          tableElement.querySelector("tbody").append(trElement);
+        }
+//"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"
+        const containerElement = document.querySelector("#table-container");
+        containerElement.innerHTML = "";
+        containerElement.append(tableElement);
+
+        const refreshElement = document.createElement("p");
+        refreshElement.className = "has-text-centered";
+
+        refreshElement.innerHTML = "Last Updated<br />" + new Date(data.refreshMillis).toLocaleString();
+
+        containerElement.append(refreshElement);
+      });
+  </script>
+</body>
+
+</html>
