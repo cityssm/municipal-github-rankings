@@ -49,14 +49,17 @@ while (outstandingCount > 0) {
     await new Promise(resolve => setTimeout(resolve, 2000));
 }
 data.sort((organizationA, organizationB) => {
-    if (organizationA.stars > organizationB.stars) {
-        return -1;
+    if (organizationA.stars !== organizationB.stars) {
+        return organizationB.stars - organizationA.stars;
     }
-    else if (organizationA.stars < organizationB.stars) {
+    else if (organizationA.repositories !== organizationB.repositories) {
+        return organizationB.repositories - organizationA.repositories;
+    }
+    else if (organizationA.handle < organizationB.handle) {
         return 1;
     }
     else {
-        return organizationB.repositories - organizationA.repositories;
+        return 1;
     }
 });
 const outputData = {
