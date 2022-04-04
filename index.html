@@ -77,7 +77,7 @@
         const refreshElement = document.createElement("p");
         refreshElement.className = "has-text-centered";
 
-        refreshElement.innerHTML = "Last Updated<br />" + new Date(data.refreshMillis).toLocaleString();
+        refreshElement.innerHTML = "Updated Twice Daily<br />Last Updated<br />" + new Date(data.refreshMillis).toLocaleString();
 
         containerElement.append(refreshElement);
       });
