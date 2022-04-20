@@ -11,6 +11,9 @@ export let organizations: Organization[] = [
     handle: "cityofgreatersudbury",
     title: "Greater Sudbury, Ontario"
   }, {
+    handle: "cityofkamloops",
+    title: "Kamloops, British Columbia"
+  }, {
     handle: "cityofottawa",
     title: "Ottawa, Ontario"
   }, {
