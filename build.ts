@@ -48,7 +48,10 @@ for (const organization of organizations) {
       title: organization.title,
       repositories: 0,
       stars: 0,
-      forks: 0
+      forks: 0,
+      issues: 0,
+      watchers: 0,
+      lastUpdate: ""
     };
 
     for (const repo of repos) {
@@ -57,6 +60,16 @@ for (const organization of organizations) {
       }
       organizationData.stars += repo.stargazers_count;
       organizationData.forks += repo.forks;
+      organizationData.issues += repo.open_issues;
+      organizationData.watchers += repo.watchers_count;
+
+      if (organizationData.lastUpdate < repo.updated_at) {
+        organizationData.lastUpdate = repo.updated_at;
+      }
+
+      if (organizationData.lastUpdate < repo.pushed_at) {
+        organizationData.lastUpdate = repo.pushed_at;
+      }
     }
 
     data.push(organizationData);
