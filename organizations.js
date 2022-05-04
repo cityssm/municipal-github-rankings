@@ -1,4 +1,4 @@
-export let organizations = [
+export const organizations = [
     {
         handle: "CityOfEdmonton",
         title: "Edmonton, Alberta"

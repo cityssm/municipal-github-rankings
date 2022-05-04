@@ -78,7 +78,7 @@ const outputData = {
     refreshMillis: Date.now()
 };
 try {
-    fs.writeFile("./data.json", JSON.stringify(outputData), {}, () => {
+    fs.writeFile("./data.json", JSON.stringify(outputData, null, 2), {}, () => {
         console.log("Data written for " + data.length.toString() + " municipalities.");
         return true;
     });

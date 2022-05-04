@@ -3,7 +3,7 @@ interface Organization {
   title: string;
 }
 
-export let organizations: Organization[] = [
+export const organizations: Organization[] = [
   {
     handle: "CityOfEdmonton",
     title: "Edmonton, Alberta"
