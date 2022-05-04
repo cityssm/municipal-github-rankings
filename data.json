@@ -18,7 +18,7 @@
       "forks": 25,
       "issues": 313,
       "watchers": 85,
-      "lastUpdate": "2022-05-04T13:33:22Z"
+      "lastUpdate": "2022-05-04T14:33:38Z"
     },
     {
       "handle": "CityofToronto",
@@ -71,16 +71,6 @@
       "lastUpdate": "2013-01-03T18:26:46Z"
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 22,
-      "watchers": 0,
-      "lastUpdate": "2022-04-29T00:35:43Z"
-    },
-    {
       "handle": "CityOfVictoria",
       "title": "Victoria, British Columbia",
       "repositories": 3,
@@ -89,6 +79,16 @@
       "issues": 0,
       "watchers": 0,
       "lastUpdate": "2022-01-08T14:39:19Z"
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 22,
+      "watchers": 0,
+      "lastUpdate": "2022-04-29T00:35:43Z"
     },
     {
       "handle": "CityofRichmond",
@@ -111,5 +111,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1651674763963
+  "refreshMillis": 1651675041076
 }
