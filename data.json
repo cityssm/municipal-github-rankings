@@ -16,9 +16,9 @@
       "repositories": 76,
       "stars": 85,
       "forks": 25,
-      "issues": 298,
+      "issues": 297,
       "watchers": 85,
-      "lastUpdate": "2022-05-05T01:58:20Z"
+      "lastUpdate": "2022-05-05T03:26:24Z"
     },
     {
       "handle": "CityofToronto",
@@ -26,7 +26,7 @@
       "repositories": 69,
       "stars": 80,
       "forks": 40,
-      "issues": 328,
+      "issues": 330,
       "watchers": 80,
       "lastUpdate": "2022-04-29T19:55:16Z"
     },
@@ -111,5 +111,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1651718674895
+  "refreshMillis": 1651757358994
 }
