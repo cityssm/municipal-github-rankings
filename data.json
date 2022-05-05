@@ -6,9 +6,9 @@
       "repositories": 71,
       "stars": 134,
       "forks": 73,
-      "issues": 102,
+      "issues": 101,
       "watchers": 134,
-      "lastUpdate": "2022-05-03T18:05:16Z"
+      "lastUpdate": "2022-05-04T21:49:09Z"
     },
     {
       "handle": "cityssm",
@@ -16,9 +16,9 @@
       "repositories": 76,
       "stars": 85,
       "forks": 25,
-      "issues": 313,
+      "issues": 298,
       "watchers": 85,
-      "lastUpdate": "2022-05-04T14:39:29Z"
+      "lastUpdate": "2022-05-05T01:58:20Z"
     },
     {
       "handle": "CityofToronto",
@@ -111,5 +111,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1651675206063
+  "refreshMillis": 1651718674895
 }
