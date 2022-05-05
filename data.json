@@ -18,7 +18,7 @@
       "forks": 25,
       "issues": 297,
       "watchers": 85,
-      "lastUpdate": "2022-05-05T03:26:24Z"
+      "lastUpdate": "2022-05-05T13:29:19Z"
     },
     {
       "handle": "CityofToronto",
@@ -74,11 +74,11 @@
       "handle": "CityOfVictoria",
       "title": "Victoria, British Columbia",
       "repositories": 3,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "issues": 0,
-      "watchers": 0,
-      "lastUpdate": "2022-01-08T14:39:19Z"
+      "watchers": 1,
+      "lastUpdate": "2022-05-05T14:41:09Z"
     },
     {
       "handle": "CityOfSarnia",
@@ -111,5 +111,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1651757358994
+  "refreshMillis": 1651761896381
 }
