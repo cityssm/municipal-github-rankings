@@ -13,12 +13,12 @@
     {
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
-      "repositories": 76,
+      "repositories": 77,
       "stars": 85,
       "forks": 25,
-      "issues": 283,
+      "issues": 284,
       "watchers": 85,
-      "lastUpdate": "2022-05-06T12:07:25Z"
+      "lastUpdate": "2022-05-07T01:50:41Z"
     },
     {
       "handle": "CityofToronto",
@@ -28,7 +28,7 @@
       "forks": 40,
       "issues": 330,
       "watchers": 82,
-      "lastUpdate": "2022-05-06T13:23:41Z"
+      "lastUpdate": "2022-05-06T18:44:57Z"
     },
     {
       "handle": "CityOfEdmonton",
@@ -111,5 +111,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1651843628482
+  "refreshMillis": 1651890355720
 }
