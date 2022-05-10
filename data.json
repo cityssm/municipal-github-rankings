@@ -18,7 +18,7 @@
       "forks": 25,
       "issues": 304,
       "watchers": 85,
-      "lastUpdate": "2022-05-10T13:37:25Z"
+      "lastUpdate": "2022-05-10T14:37:54Z"
     },
     {
       "handle": "CityofToronto",
@@ -26,7 +26,7 @@
       "repositories": 69,
       "stars": 82,
       "forks": 40,
-      "issues": 332,
+      "issues": 333,
       "watchers": 82,
       "lastUpdate": "2022-05-06T18:44:57Z"
     },
@@ -101,6 +101,16 @@
       "lastUpdate": "2019-12-12T00:57:46Z"
     },
     {
+      "handle": "CityOfLangford",
+      "title": "Langford, British Columbia",
+      "repositories": 1,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "watchers": 0,
+      "lastUpdate": "2022-05-09T19:16:56Z"
+    },
+    {
       "handle": "cityofkamloops",
       "title": "Kamloops, British Columbia",
       "repositories": 0,
@@ -111,5 +121,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1652189969213
+  "refreshMillis": 1652193513930
 }
