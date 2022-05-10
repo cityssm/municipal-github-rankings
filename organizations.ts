@@ -14,6 +14,9 @@ export const organizations: Organization[] = [
     handle: "cityofkamloops",
     title: "Kamloops, British Columbia"
   }, {
+    handle: "CityOfLangford",
+    title: "Langford, British Columbia"
+  }, {
     handle: "cityofottawa",
     title: "Ottawa, Ontario"
   }, {
