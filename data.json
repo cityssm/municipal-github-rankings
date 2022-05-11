@@ -16,19 +16,19 @@
       "repositories": 77,
       "stars": 85,
       "forks": 25,
-      "issues": 304,
+      "issues": 296,
       "watchers": 85,
-      "lastUpdate": "2022-05-10T14:37:54Z"
+      "lastUpdate": "2022-05-11T02:05:10Z"
     },
     {
       "handle": "CityofToronto",
       "title": "Toronto, Ontario",
       "repositories": 69,
-      "stars": 82,
+      "stars": 83,
       "forks": 40,
       "issues": 333,
-      "watchers": 82,
-      "lastUpdate": "2022-05-06T18:44:57Z"
+      "watchers": 83,
+      "lastUpdate": "2022-05-10T21:11:25Z"
     },
     {
       "handle": "CityOfEdmonton",
@@ -121,5 +121,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1652193513930
+  "refreshMillis": 1652237508633
 }
