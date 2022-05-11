@@ -50,18 +50,29 @@ for (const organization of organizations) {
       stars: 0,
       forks: 0,
       issues: 0,
-      watchers: 0,
-      lastUpdate: ""
+      // watchers: 0,
+      lastUpdate: "",
+      languages: {}
     };
 
     for (const repo of repos) {
-      if (!repo.private) {
-        organizationData.repositories += 1;
+
+      if (repo.private) {
+        continue;
       }
+
+      organizationData.repositories += 1;
+
       organizationData.stars += repo.stargazers_count;
       organizationData.forks += repo.forks;
       organizationData.issues += repo.open_issues;
-      organizationData.watchers += repo.watchers_count;
+      // organizationData.watchers += repo.watchers_count;
+
+      if (!organizationData.languages[repo.language]) {
+        organizationData.languages[repo.language] = 0;
+      }
+
+      organizationData.languages[repo.language] += 1;
 
       if (organizationData.lastUpdate < repo.updated_at) {
         organizationData.lastUpdate = repo.updated_at;

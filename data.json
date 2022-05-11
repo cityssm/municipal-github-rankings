@@ -7,8 +7,24 @@
       "stars": 134,
       "forks": 73,
       "issues": 96,
-      "watchers": 134,
-      "lastUpdate": "2022-05-11T16:02:55Z"
+      "lastUpdate": "2022-05-11T16:02:55Z",
+      "languages": {
+        "TypeScript": 13,
+        "null": 18,
+        "Python": 8,
+        "Go": 6,
+        "JavaScript": 4,
+        "C#": 1,
+        "HTML": 3,
+        "Shell": 1,
+        "Java": 3,
+        "Lua": 1,
+        "TSQL": 1,
+        "PHP": 9,
+        "CSS": 1,
+        "Swift": 1,
+        "Dockerfile": 1
+      }
     },
     {
       "handle": "cityssm",
@@ -17,8 +33,18 @@
       "stars": 85,
       "forks": 25,
       "issues": 297,
-      "watchers": 85,
-      "lastUpdate": "2022-05-11T18:18:02Z"
+      "lastUpdate": "2022-05-11T19:14:35Z",
+      "languages": {
+        "HTML": 11,
+        "TypeScript": 26,
+        "JavaScript": 17,
+        "Java": 4,
+        "null": 10,
+        "Classic ASP": 1,
+        "SCSS": 6,
+        "ASP": 1,
+        "CSS": 1
+      }
     },
     {
       "handle": "CityofToronto",
@@ -27,8 +53,22 @@
       "stars": 83,
       "forks": 40,
       "issues": 335,
-      "watchers": 83,
-      "lastUpdate": "2022-05-11T17:54:26Z"
+      "lastUpdate": "2022-05-11T17:54:26Z",
+      "languages": {
+        "PLpgSQL": 4,
+        "null": 15,
+        "Jupyter Notebook": 11,
+        "JavaScript": 19,
+        "Python": 10,
+        "Apex": 1,
+        "TypeScript": 1,
+        "Vue": 1,
+        "TSQL": 1,
+        "PHP": 1,
+        "R": 3,
+        "Java": 1,
+        "Shell": 1
+      }
     },
     {
       "handle": "CityOfEdmonton",
@@ -37,8 +77,19 @@
       "stars": 77,
       "forks": 65,
       "issues": 41,
-      "watchers": 77,
-      "lastUpdate": "2022-05-06T07:01:38Z"
+      "lastUpdate": "2022-05-06T07:01:38Z",
+      "languages": {
+        "Makefile": 1,
+        "Python": 9,
+        "JavaScript": 7,
+        "C#": 3,
+        "Smarty": 1,
+        "null": 5,
+        "R": 1,
+        "HTML": 1,
+        "Java": 1,
+        "C": 1
+      }
     },
     {
       "handle": "cityofsurrey",
@@ -47,8 +98,14 @@
       "stars": 10,
       "forks": 15,
       "issues": 77,
-      "watchers": 10,
-      "lastUpdate": "2022-04-09T02:13:39Z"
+      "lastUpdate": "2022-04-09T02:13:39Z",
+      "languages": {
+        "Dockerfile": 4,
+        "null": 6,
+        "JavaScript": 8,
+        "Python": 1,
+        "Makefile": 1
+      }
     },
     {
       "handle": "cityofottawa",
@@ -57,8 +114,16 @@
       "stars": 8,
       "forks": 6,
       "issues": 17,
-      "watchers": 8,
-      "lastUpdate": "2022-01-11T18:10:42Z"
+      "lastUpdate": "2022-01-11T18:10:42Z",
+      "languages": {
+        "SCSS": 1,
+        "null": 4,
+        "JavaScript": 8,
+        "PHP": 9,
+        "Ruby": 1,
+        "Java": 1,
+        "CSS": 4
+      }
     },
     {
       "handle": "cityofgreatersudbury",
@@ -67,8 +132,10 @@
       "stars": 2,
       "forks": 0,
       "issues": 0,
-      "watchers": 2,
-      "lastUpdate": "2013-01-03T18:26:46Z"
+      "lastUpdate": "2013-01-03T18:26:46Z",
+      "languages": {
+        "null": 1
+      }
     },
     {
       "handle": "CityOfVictoria",
@@ -77,8 +144,11 @@
       "stars": 1,
       "forks": 0,
       "issues": 0,
-      "watchers": 1,
-      "lastUpdate": "2022-05-05T14:41:09Z"
+      "lastUpdate": "2022-05-05T14:41:09Z",
+      "languages": {
+        "JavaScript": 2,
+        "null": 1
+      }
     },
     {
       "handle": "Guelph-Digital-Service",
@@ -87,8 +157,12 @@
       "stars": 0,
       "forks": 1,
       "issues": 2,
-      "watchers": 0,
-      "lastUpdate": "2022-04-12T07:30:31Z"
+      "lastUpdate": "2022-04-12T07:30:31Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
+      }
     },
     {
       "handle": "CityOfSarnia",
@@ -97,8 +171,12 @@
       "stars": 0,
       "forks": 1,
       "issues": 22,
-      "watchers": 0,
-      "lastUpdate": "2022-04-29T00:35:43Z"
+      "lastUpdate": "2022-04-29T00:35:43Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
+      }
     },
     {
       "handle": "CityofRichmond",
@@ -107,8 +185,11 @@
       "stars": 0,
       "forks": 0,
       "issues": 0,
-      "watchers": 0,
-      "lastUpdate": "2019-12-12T00:57:46Z"
+      "lastUpdate": "2019-12-12T00:57:46Z",
+      "languages": {
+        "Go": 1,
+        "Java": 1
+      }
     },
     {
       "handle": "CityOfLangford",
@@ -117,8 +198,10 @@
       "stars": 0,
       "forks": 0,
       "issues": 0,
-      "watchers": 0,
-      "lastUpdate": "2022-05-09T19:16:56Z"
+      "lastUpdate": "2022-05-09T19:16:56Z",
+      "languages": {
+        "TypeScript": 1
+      }
     },
     {
       "handle": "cityofkamloops",
@@ -127,9 +210,9 @@
       "stars": 0,
       "forks": 0,
       "issues": 0,
-      "watchers": 0,
-      "lastUpdate": ""
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1652293128953
+  "refreshMillis": 1652297025549
 }
