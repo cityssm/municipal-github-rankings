@@ -38,6 +38,9 @@ export const organizations: Organization[] = [
     handle: "cityssm",
     title: "Sault Ste. Marie, Ontario"
   }, {
+    handle: "Guelph-Digital-Service",
+    title: "Guelph, Ontario"
+  }, {
     handle: "VilledeMontreal",
     title: "Montreal, Quebec"
   }
