@@ -13,4 +13,5 @@ with the municipality's account handle.
 
 ## Helpful Links
 
+-   [Government of Canada's Open Resource Exchange](https://code.open.canada.ca/en/index.html)
 -   [Other Government Agencies on GitHub](https://government.github.com/community/)
