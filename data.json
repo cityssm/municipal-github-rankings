@@ -6,9 +6,9 @@
       "repositories": 71,
       "stars": 134,
       "forks": 73,
-      "issues": 97,
+      "issues": 96,
       "watchers": 134,
-      "lastUpdate": "2022-05-11T12:54:17Z"
+      "lastUpdate": "2022-05-11T16:02:55Z"
     },
     {
       "handle": "cityssm",
@@ -18,7 +18,7 @@
       "forks": 25,
       "issues": 297,
       "watchers": 85,
-      "lastUpdate": "2022-05-11T12:20:10Z"
+      "lastUpdate": "2022-05-11T18:18:02Z"
     },
     {
       "handle": "CityofToronto",
@@ -26,9 +26,9 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 333,
+      "issues": 335,
       "watchers": 83,
-      "lastUpdate": "2022-05-10T21:11:25Z"
+      "lastUpdate": "2022-05-11T17:54:26Z"
     },
     {
       "handle": "CityOfEdmonton",
@@ -81,6 +81,16 @@
       "lastUpdate": "2022-05-05T14:41:09Z"
     },
     {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "watchers": 0,
+      "lastUpdate": "2022-04-12T07:30:31Z"
+    },
+    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -121,5 +131,5 @@
       "lastUpdate": ""
     }
   ],
-  "refreshMillis": 1652275952142
+  "refreshMillis": 1652293128953
 }
