@@ -7,11 +7,11 @@
       "stars": 134,
       "forks": 73,
       "issues": 96,
-      "lastUpdate": "2022-05-11T16:02:55Z",
+      "lastUpdate": "2022-05-12T14:18:46Z",
       "languages": {
+        "Python": 8,
         "TypeScript": 13,
         "null": 18,
-        "Python": 8,
         "Go": 6,
         "JavaScript": 4,
         "C#": 1,
@@ -29,15 +29,15 @@
     {
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
-      "repositories": 77,
-      "stars": 85,
+      "repositories": 78,
+      "stars": 86,
       "forks": 25,
-      "issues": 299,
-      "lastUpdate": "2022-05-12T09:02:10Z",
+      "issues": 303,
+      "lastUpdate": "2022-05-12T18:21:02Z",
       "languages": {
-        "HTML": 11,
-        "TypeScript": 26,
-        "JavaScript": 17,
+        "JavaScript": 16,
+        "HTML": 12,
+        "TypeScript": 27,
         "Java": 4,
         "null": 10,
         "Classic ASP": 1,
@@ -214,5 +214,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1652362679122
+  "refreshMillis": 1652379744264
 }
