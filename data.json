@@ -32,11 +32,11 @@
       "repositories": 78,
       "stars": 86,
       "forks": 25,
-      "issues": 299,
-      "lastUpdate": "2022-05-13T02:15:08Z",
+      "issues": 300,
+      "lastUpdate": "2022-05-13T12:36:36Z",
       "languages": {
-        "TypeScript": 27,
         "HTML": 12,
+        "TypeScript": 27,
         "JavaScript": 16,
         "Java": 4,
         "null": 10,
@@ -214,5 +214,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1652411298748
+  "refreshMillis": 1652449115289
 }
