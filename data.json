@@ -7,7 +7,7 @@
       "stars": 134,
       "forks": 73,
       "issues": 96,
-      "lastUpdate": "2022-05-12T14:18:46Z",
+      "lastUpdate": "2022-05-15T18:47:54Z",
       "languages": {
         "Python": 8,
         "TypeScript": 13,
@@ -33,7 +33,7 @@
       "stars": 86,
       "forks": 25,
       "issues": 301,
-      "lastUpdate": "2022-05-15T03:20:16Z",
+      "lastUpdate": "2022-05-16T01:55:04Z",
       "languages": {
         "HTML": 12,
         "TypeScript": 27,
@@ -151,20 +151,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-04-12T07:30:31Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -176,6 +162,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "lastUpdate": "2022-04-12T07:30:31Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -214,5 +214,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1652621112974
+  "refreshMillis": 1652668087204
 }
