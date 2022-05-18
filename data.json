@@ -5,9 +5,9 @@
       "title": "Montreal, Quebec",
       "repositories": 71,
       "stars": 134,
-      "forks": 73,
-      "issues": 97,
-      "lastUpdate": "2022-05-16T23:22:17Z",
+      "forks": 74,
+      "issues": 96,
+      "lastUpdate": "2022-05-17T13:29:58Z",
       "languages": {
         "Python": 8,
         "TypeScript": 13,
@@ -32,11 +32,11 @@
       "repositories": 78,
       "stars": 86,
       "forks": 25,
-      "issues": 293,
-      "lastUpdate": "2022-05-17T12:41:39Z",
+      "issues": 291,
+      "lastUpdate": "2022-05-18T02:04:55Z",
       "languages": {
-        "HTML": 12,
         "TypeScript": 27,
+        "HTML": 12,
         "JavaScript": 16,
         "Java": 4,
         "null": 10,
@@ -52,8 +52,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 334,
-      "lastUpdate": "2022-05-16T18:46:19Z",
+      "issues": 335,
+      "lastUpdate": "2022-05-17T21:07:09Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -214,5 +214,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1652794129956
+  "refreshMillis": 1652842071023
 }
