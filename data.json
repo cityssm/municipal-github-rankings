@@ -33,7 +33,7 @@
       "stars": 88,
       "forks": 25,
       "issues": 275,
-      "lastUpdate": "2022-05-22T01:58:04Z",
+      "lastUpdate": "2022-05-22T07:31:48Z",
       "languages": {
         "HTML": 12,
         "SCSS": 7,
@@ -214,5 +214,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1653187250281
+  "refreshMillis": 1653225608668
 }
