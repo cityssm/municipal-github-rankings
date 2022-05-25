@@ -7,7 +7,7 @@
       "stars": 134,
       "forks": 75,
       "issues": 97,
-      "lastUpdate": "2022-05-20T22:04:21Z",
+      "lastUpdate": "2022-05-24T15:11:27Z",
       "languages": {
         "Python": 8,
         "TypeScript": 13,
@@ -32,13 +32,13 @@
       "repositories": 78,
       "stars": 88,
       "forks": 25,
-      "issues": 290,
-      "lastUpdate": "2022-05-24T12:13:05Z",
+      "issues": 267,
+      "lastUpdate": "2022-05-25T02:05:13Z",
       "languages": {
+        "JavaScript": 18,
         "HTML": 12,
         "SCSS": 7,
-        "TypeScript": 26,
-        "JavaScript": 17,
+        "TypeScript": 25,
         "Java": 4,
         "null": 9,
         "Classic ASP": 1,
@@ -52,8 +52,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 335,
-      "lastUpdate": "2022-05-18T20:19:47Z",
+      "issues": 336,
+      "lastUpdate": "2022-05-24T22:44:40Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -214,5 +214,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1653399103712
+  "refreshMillis": 1653447122116
 }
