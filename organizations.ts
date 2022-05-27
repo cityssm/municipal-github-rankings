@@ -41,6 +41,15 @@ export const organizations: Organization[] = [
     handle: "Guelph-Digital-Service",
     title: "Guelph, Ontario"
   }, {
+    handle: "soreltracy",
+    title: "Sorel-Tracy, Quebec"
+  }, {
+    handle: "Ville-La-Tuque",
+    title: "La Tuque, Quebec"
+  }, {
+    handle: "villelaval",
+    title: "Laval, Quebec"
+  }, {
     handle: "VilledeMontreal",
     title: "Montreal, Quebec"
   }
