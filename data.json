@@ -33,12 +33,12 @@
       "stars": 89,
       "forks": 25,
       "issues": 259,
-      "lastUpdate": "2022-05-30T10:14:20Z",
+      "lastUpdate": "2022-05-31T02:09:16Z",
       "languages": {
+        "TypeScript": 25,
         "HTML": 13,
         "JavaScript": 18,
         "SCSS": 7,
-        "TypeScript": 25,
         "Java": 4,
         "null": 9,
         "Classic ASP": 1,
@@ -53,7 +53,7 @@
       "stars": 83,
       "forks": 40,
       "issues": 336,
-      "lastUpdate": "2022-05-27T05:47:40Z",
+      "lastUpdate": "2022-05-30T22:48:00Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -164,20 +164,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-05-19T02:22:17Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -189,6 +175,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "lastUpdate": "2022-05-19T02:22:17Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -217,16 +217,6 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -245,7 +235,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1653917677244
+  "refreshMillis": 1653965645027
 }
