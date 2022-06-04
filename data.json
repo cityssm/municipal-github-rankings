@@ -33,7 +33,7 @@
       "stars": 89,
       "forks": 25,
       "issues": 275,
-      "lastUpdate": "2022-06-03T12:20:05Z",
+      "lastUpdate": "2022-06-04T01:53:59Z",
       "languages": {
         "TypeScript": 25,
         "HTML": 13,
@@ -52,7 +52,7 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 337,
+      "issues": 339,
       "lastUpdate": "2022-06-02T21:01:39Z",
       "languages": {
         "PLpgSQL": 4,
@@ -247,5 +247,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1654262680161
+  "refreshMillis": 1654310414980
 }
