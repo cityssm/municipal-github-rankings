@@ -5,9 +5,9 @@
       "title": "Montreal, Quebec",
       "repositories": 73,
       "stars": 140,
-      "forks": 76,
-      "issues": 125,
-      "lastUpdate": "2022-06-21T03:24:20Z",
+      "forks": 77,
+      "issues": 126,
+      "lastUpdate": "2022-06-21T21:28:32Z",
       "languages": {
         "TypeScript": 14,
         "JavaScript": 5,
@@ -33,8 +33,8 @@
       "repositories": 79,
       "stars": 91,
       "forks": 25,
-      "issues": 275,
-      "lastUpdate": "2022-06-21T12:11:24Z",
+      "issues": 273,
+      "lastUpdate": "2022-06-22T02:21:32Z",
       "languages": {
         "JavaScript": 18,
         "TypeScript": 25,
@@ -53,8 +53,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 340,
-      "lastUpdate": "2022-06-21T00:55:07Z",
+      "issues": 344,
+      "lastUpdate": "2022-06-21T23:09:26Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -238,8 +238,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1655818421663
+  "refreshMillis": 1655866802946
 }
