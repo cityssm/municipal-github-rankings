@@ -33,8 +33,8 @@
       "repositories": 79,
       "stars": 91,
       "forks": 25,
-      "issues": 274,
-      "lastUpdate": "2022-06-24T02:12:19Z",
+      "issues": 276,
+      "lastUpdate": "2022-06-24T07:26:07Z",
       "languages": {
         "JavaScript": 18,
         "TypeScript": 25,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 23,
-      "lastUpdate": "2022-06-01T06:31:38Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
+      }
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 23,
+      "lastUpdate": "2022-06-01T06:31:38Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -238,8 +238,8 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1656039740638
+  "refreshMillis": 1656077482828
 }
