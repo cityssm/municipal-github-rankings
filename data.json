@@ -34,7 +34,7 @@
       "stars": 91,
       "forks": 25,
       "issues": 276,
-      "lastUpdate": "2022-06-24T07:26:07Z",
+      "lastUpdate": "2022-06-25T02:21:55Z",
       "languages": {
         "JavaScript": 18,
         "TypeScript": 25,
@@ -53,8 +53,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 344,
-      "lastUpdate": "2022-06-22T16:26:45Z",
+      "issues": 345,
+      "lastUpdate": "2022-06-24T21:53:47Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-05-19T02:22:17Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "lastUpdate": "2022-05-19T02:22:17Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -218,6 +218,16 @@
       }
     },
     {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
+    },
+    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -236,17 +246,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1656077482828
+  "refreshMillis": 1656126129730
 }
