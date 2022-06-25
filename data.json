@@ -34,7 +34,7 @@
       "stars": 91,
       "forks": 25,
       "issues": 276,
-      "lastUpdate": "2022-06-25T02:21:55Z",
+      "lastUpdate": "2022-06-25T03:39:11Z",
       "languages": {
         "JavaScript": 18,
         "TypeScript": 25,
@@ -228,16 +228,6 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -246,7 +236,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1656126129730
+  "refreshMillis": 1656163024510
 }
