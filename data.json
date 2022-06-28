@@ -3,13 +3,13 @@
     {
       "handle": "VilledeMontreal",
       "title": "Montreal, Quebec",
-      "repositories": 73,
+      "repositories": 74,
       "stars": 140,
       "forks": 77,
-      "issues": 129,
-      "lastUpdate": "2022-06-27T05:30:49Z",
+      "issues": 130,
+      "lastUpdate": "2022-06-27T22:57:43Z",
       "languages": {
-        "null": 18,
+        "null": 19,
         "Mustache": 1,
         "TypeScript": 14,
         "JavaScript": 5,
@@ -34,7 +34,7 @@
       "stars": 91,
       "forks": 25,
       "issues": 280,
-      "lastUpdate": "2022-06-27T07:06:20Z",
+      "lastUpdate": "2022-06-28T02:11:39Z",
       "languages": {
         "JavaScript": 18,
         "TypeScript": 25,
@@ -53,8 +53,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 345,
-      "lastUpdate": "2022-06-24T21:53:47Z",
+      "issues": 347,
+      "lastUpdate": "2022-06-27T20:04:16Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -115,7 +115,7 @@
       "stars": 8,
       "forks": 6,
       "issues": 17,
-      "lastUpdate": "2022-01-11T18:10:42Z",
+      "lastUpdate": "2022-06-27T16:29:17Z",
       "languages": {
         "SCSS": 1,
         "null": 4,
@@ -228,16 +228,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -246,7 +236,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1656336914934
+  "refreshMillis": 1656385557667
 }
