@@ -33,11 +33,11 @@
       "repositories": 80,
       "stars": 91,
       "forks": 25,
-      "issues": 282,
-      "lastUpdate": "2022-06-28T13:15:53Z",
+      "issues": 284,
+      "lastUpdate": "2022-06-29T02:22:00Z",
       "languages": {
-        "TypeScript": 26,
-        "JavaScript": 18,
+        "JavaScript": 19,
+        "TypeScript": 25,
         "HTML": 13,
         "SCSS": 7,
         "Java": 4,
@@ -53,8 +53,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 347,
-      "lastUpdate": "2022-06-27T20:04:16Z",
+      "issues": 350,
+      "lastUpdate": "2022-06-28T21:41:30Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -77,7 +77,7 @@
       "repositories": 30,
       "stars": 77,
       "forks": 66,
-      "issues": 41,
+      "issues": 42,
       "lastUpdate": "2022-05-06T07:01:38Z",
       "languages": {
         "Makefile": 1,
@@ -218,6 +218,16 @@
       }
     },
     {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
+    },
+    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -236,17 +246,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1656423128514
+  "refreshMillis": 1656472254791
 }
