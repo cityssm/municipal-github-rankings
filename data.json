@@ -6,8 +6,8 @@
       "repositories": 74,
       "stars": 140,
       "forks": 77,
-      "issues": 133,
-      "lastUpdate": "2022-07-05T12:22:14Z",
+      "issues": 134,
+      "lastUpdate": "2022-07-06T01:10:30Z",
       "languages": {
         "TypeScript": 15,
         "null": 18,
@@ -33,11 +33,11 @@
       "repositories": 80,
       "stars": 91,
       "forks": 25,
-      "issues": 278,
-      "lastUpdate": "2022-07-05T13:42:14Z",
+      "issues": 281,
+      "lastUpdate": "2022-07-06T02:29:57Z",
       "languages": {
-        "JavaScript": 19,
         "TypeScript": 25,
+        "JavaScript": 19,
         "HTML": 13,
         "SCSS": 7,
         "Java": 4,
@@ -53,8 +53,8 @@
       "repositories": 69,
       "stars": 83,
       "forks": 40,
-      "issues": 350,
-      "lastUpdate": "2022-07-04T19:54:18Z",
+      "issues": 351,
+      "lastUpdate": "2022-07-05T23:17:02Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -115,7 +115,7 @@
       "stars": 8,
       "forks": 6,
       "issues": 17,
-      "lastUpdate": "2022-06-27T16:29:17Z",
+      "lastUpdate": "2022-07-05T18:17:57Z",
       "languages": {
         "SCSS": 1,
         "null": 4,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-05-19T02:22:17Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "lastUpdate": "2022-05-19T02:22:17Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1657028554411
+  "refreshMillis": 1657077277855
 }
