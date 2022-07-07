@@ -7,7 +7,7 @@
       "stars": 140,
       "forks": 77,
       "issues": 134,
-      "lastUpdate": "2022-07-06T01:10:30Z",
+      "lastUpdate": "2022-07-06T23:22:14Z",
       "languages": {
         "TypeScript": 15,
         "null": 18,
@@ -34,7 +34,7 @@
       "stars": 91,
       "forks": 25,
       "issues": 284,
-      "lastUpdate": "2022-07-06T10:14:17Z",
+      "lastUpdate": "2022-07-07T02:27:06Z",
       "languages": {
         "TypeScript": 25,
         "JavaScript": 19,
@@ -54,7 +54,7 @@
       "stars": 83,
       "forks": 40,
       "issues": 351,
-      "lastUpdate": "2022-07-05T23:17:02Z",
+      "lastUpdate": "2022-07-06T21:25:38Z",
       "languages": {
         "PLpgSQL": 4,
         "null": 15,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-05-19T02:22:17Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "lastUpdate": "2022-05-19T02:22:17Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -228,8 +228,8 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1657114592299
+  "refreshMillis": 1657163622383
 }
