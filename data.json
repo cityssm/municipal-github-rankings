@@ -7,7 +7,7 @@
       "stars": 141,
       "forks": 77,
       "issues": 136,
-      "lastUpdate": "2022-07-07T23:48:10Z",
+      "lastUpdate": "2022-07-08T07:41:49Z",
       "languages": {
         "TypeScript": 17,
         "null": 18,
@@ -33,8 +33,8 @@
       "repositories": 80,
       "stars": 91,
       "forks": 25,
-      "issues": 275,
-      "lastUpdate": "2022-07-08T02:23:49Z",
+      "issues": 271,
+      "lastUpdate": "2022-07-08T13:14:32Z",
       "languages": {
         "TypeScript": 25,
         "JavaScript": 19,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 23,
-      "lastUpdate": "2022-07-07T12:15:48Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
+      }
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 23,
+      "lastUpdate": "2022-07-07T12:15:48Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -238,8 +238,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1657249515958
+  "refreshMillis": 1657286917988
 }
