@@ -33,8 +33,8 @@
       "repositories": 80,
       "stars": 92,
       "forks": 25,
-      "issues": 287,
-      "lastUpdate": "2022-07-19T12:09:11Z",
+      "issues": 288,
+      "lastUpdate": "2022-07-20T02:20:48Z",
       "languages": {
         "TypeScript": 25,
         "JavaScript": 19,
@@ -54,7 +54,7 @@
       "stars": 81,
       "forks": 40,
       "issues": 332,
-      "lastUpdate": "2022-07-18T20:41:50Z",
+      "lastUpdate": "2022-07-20T00:00:30Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-05-19T02:22:17Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 2,
+      "lastUpdate": "2022-05-19T02:22:17Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -212,14 +212,14 @@
       "stars": 0,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "2022-05-12T23:24:37Z",
+      "lastUpdate": "2022-07-19T22:54:33Z",
       "languages": {
         "TypeScript": 1
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -228,8 +228,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1658237586380
+  "refreshMillis": 1658286477552
 }
