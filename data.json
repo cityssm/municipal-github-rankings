@@ -6,8 +6,8 @@
       "repositories": 76,
       "stars": 143,
       "forks": 77,
-      "issues": 139,
-      "lastUpdate": "2022-07-21T14:41:10Z",
+      "issues": 140,
+      "lastUpdate": "2022-07-22T09:12:14Z",
       "languages": {
         "Mustache": 1,
         "TypeScript": 17,
@@ -34,7 +34,7 @@
       "stars": 92,
       "forks": 25,
       "issues": 288,
-      "lastUpdate": "2022-07-22T02:23:58Z",
+      "lastUpdate": "2022-07-22T07:06:22Z",
       "languages": {
         "TypeScript": 25,
         "JavaScript": 19,
@@ -184,8 +184,8 @@
       "repositories": 3,
       "stars": 0,
       "forks": 1,
-      "issues": 2,
-      "lastUpdate": "2022-05-19T02:22:17Z",
+      "issues": 3,
+      "lastUpdate": "2022-07-22T08:00:25Z",
       "languages": {
         "JavaScript": 1,
         "HTML": 1,
@@ -228,16 +228,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -246,7 +236,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1658459535898
+  "refreshMillis": 1658496534898
 }
