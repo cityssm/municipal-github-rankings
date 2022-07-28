@@ -34,7 +34,7 @@
       "stars": 93,
       "forks": 25,
       "issues": 286,
-      "lastUpdate": "2022-07-28T02:21:03Z",
+      "lastUpdate": "2022-07-28T10:10:06Z",
       "languages": {
         "Java": 4,
         "TypeScript": 25,
@@ -51,10 +51,10 @@
       "handle": "CityofToronto",
       "title": "Toronto, Ontario",
       "repositories": 68,
-      "stars": 81,
+      "stars": 82,
       "forks": 40,
       "issues": 334,
-      "lastUpdate": "2022-07-27T20:14:56Z",
+      "lastUpdate": "2022-07-28T07:17:23Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1658977371537
+  "refreshMillis": 1659015250964
 }
