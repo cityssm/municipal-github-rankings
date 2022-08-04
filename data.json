@@ -34,7 +34,7 @@
       "stars": 97,
       "forks": 25,
       "issues": 288,
-      "lastUpdate": "2022-08-04T02:10:44Z",
+      "lastUpdate": "2022-08-04T07:32:11Z",
       "languages": {
         "TypeScript": 25,
         "Java": 4,
@@ -76,7 +76,7 @@
       "title": "Edmonton, Alberta",
       "repositories": 31,
       "stars": 78,
-      "forks": 65,
+      "forks": 64,
       "issues": 43,
       "lastUpdate": "2022-07-15T02:42:38Z",
       "languages": {
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1659581843910
+  "refreshMillis": 1659619887773
 }
