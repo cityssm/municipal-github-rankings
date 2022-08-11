@@ -6,8 +6,8 @@
       "repositories": 76,
       "stars": 146,
       "forks": 79,
-      "issues": 142,
-      "lastUpdate": "2022-08-10T13:19:32Z",
+      "issues": 141,
+      "lastUpdate": "2022-08-10T21:32:20Z",
       "languages": {
         "null": 18,
         "TypeScript": 17,
@@ -34,7 +34,7 @@
       "stars": 97,
       "forks": 25,
       "issues": 291,
-      "lastUpdate": "2022-08-10T04:03:28Z",
+      "lastUpdate": "2022-08-11T02:03:57Z",
       "languages": {
         "TypeScript": 25,
         "Java": 4,
@@ -53,8 +53,8 @@
       "repositories": 68,
       "stars": 82,
       "forks": 41,
-      "issues": 338,
-      "lastUpdate": "2022-08-10T04:54:41Z",
+      "issues": 343,
+      "lastUpdate": "2022-08-10T23:11:13Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -78,15 +78,15 @@
       "stars": 79,
       "forks": 64,
       "issues": 43,
-      "lastUpdate": "2022-08-04T22:57:01Z",
+      "lastUpdate": "2022-08-11T00:31:45Z",
       "languages": {
+        "R": 2,
         "Makefile": 1,
-        "null": 6,
         "JavaScript": 8,
         "Python": 9,
         "C#": 3,
         "Smarty": 1,
-        "R": 1,
+        "null": 5,
         "HTML": 1,
         "Java": 1,
         "C": 1
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
+      }
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -228,16 +228,6 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -246,7 +236,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1660137911290
+  "refreshMillis": 1660186303809
 }
