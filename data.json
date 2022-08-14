@@ -34,7 +34,7 @@
       "stars": 97,
       "forks": 25,
       "issues": 292,
-      "lastUpdate": "2022-08-13T07:27:14Z",
+      "lastUpdate": "2022-08-14T02:27:04Z",
       "languages": {
         "TypeScript": 25,
         "Java": 4,
@@ -218,16 +218,6 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -246,7 +236,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1660396790546
+  "refreshMillis": 1660446290451
 }
