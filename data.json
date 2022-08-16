@@ -33,8 +33,8 @@
       "repositories": 80,
       "stars": 97,
       "forks": 25,
-      "issues": 292,
-      "lastUpdate": "2022-08-15T10:10:29Z",
+      "issues": 293,
+      "lastUpdate": "2022-08-16T02:24:30Z",
       "languages": {
         "TypeScript": 25,
         "Java": 4,
@@ -53,8 +53,8 @@
       "repositories": 68,
       "stars": 82,
       "forks": 41,
-      "issues": 343,
-      "lastUpdate": "2022-08-12T22:23:40Z",
+      "issues": 344,
+      "lastUpdate": "2022-08-15T22:05:54Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -75,10 +75,10 @@
       "handle": "CityOfEdmonton",
       "title": "Edmonton, Alberta",
       "repositories": 32,
-      "stars": 79,
+      "stars": 80,
       "forks": 64,
       "issues": 43,
-      "lastUpdate": "2022-08-11T16:02:48Z",
+      "lastUpdate": "2022-08-15T21:22:19Z",
       "languages": {
         "R": 2,
         "Makefile": 1,
@@ -114,8 +114,8 @@
       "repositories": 29,
       "stars": 8,
       "forks": 6,
-      "issues": 18,
-      "lastUpdate": "2022-08-05T19:23:04Z",
+      "issues": 17,
+      "lastUpdate": "2022-08-15T15:29:11Z",
       "languages": {
         "SCSS": 1,
         "null": 5,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1660570406399
+  "refreshMillis": 1660619521327
 }
