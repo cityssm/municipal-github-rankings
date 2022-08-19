@@ -34,7 +34,7 @@
       "stars": 99,
       "forks": 25,
       "issues": 295,
-      "lastUpdate": "2022-08-19T02:29:26Z",
+      "lastUpdate": "2022-08-19T04:03:46Z",
       "languages": {
         "JavaScript": 19,
         "TypeScript": 25,
@@ -75,10 +75,10 @@
       "handle": "CityOfEdmonton",
       "title": "Edmonton, Alberta",
       "repositories": 32,
-      "stars": 80,
+      "stars": 81,
       "forks": 64,
       "issues": 43,
-      "lastUpdate": "2022-08-18T16:24:34Z",
+      "lastUpdate": "2022-08-19T12:18:19Z",
       "languages": {
         "R": 2,
         "Makefile": 1,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1660878711696
+  "refreshMillis": 1660915883277
 }
