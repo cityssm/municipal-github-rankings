@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 79,
       "issues": 142,
-      "lastUpdate": "2022-08-26T15:57:24Z",
+      "lastUpdate": "2022-08-29T14:52:58Z",
       "languages": {
         "null": 18,
         "JavaScript": 5,
@@ -32,9 +32,9 @@
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 81,
       "stars": 100,
-      "forks": 25,
-      "issues": 316,
-      "lastUpdate": "2022-08-29T10:13:17Z",
+      "forks": 26,
+      "issues": 317,
+      "lastUpdate": "2022-08-30T02:45:45Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -53,8 +53,8 @@
       "repositories": 68,
       "stars": 82,
       "forks": 40,
-      "issues": 347,
-      "lastUpdate": "2022-08-26T21:32:57Z",
+      "issues": 344,
+      "lastUpdate": "2022-08-29T21:03:15Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -114,8 +114,8 @@
       "repositories": 29,
       "stars": 8,
       "forks": 6,
-      "issues": 17,
-      "lastUpdate": "2022-08-15T15:29:11Z",
+      "issues": 18,
+      "lastUpdate": "2022-08-29T16:48:57Z",
       "languages": {
         "SCSS": 1,
         "null": 5,
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -228,8 +228,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1661779957225
+  "refreshMillis": 1661830681891
 }
