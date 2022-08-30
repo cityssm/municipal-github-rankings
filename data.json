@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 79,
       "issues": 142,
-      "lastUpdate": "2022-08-29T14:52:58Z",
+      "lastUpdate": "2022-08-30T12:41:21Z",
       "languages": {
         "null": 18,
         "JavaScript": 5,
@@ -34,7 +34,7 @@
       "stars": 100,
       "forks": 26,
       "issues": 317,
-      "lastUpdate": "2022-08-30T02:45:45Z",
+      "lastUpdate": "2022-08-30T12:16:54Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-07-22T08:00:25Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-07-22T08:00:25Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -238,8 +238,8 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1661830681891
+  "refreshMillis": 1661866478223
 }
