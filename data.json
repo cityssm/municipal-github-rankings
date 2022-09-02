@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 79,
       "issues": 146,
-      "lastUpdate": "2022-09-02T12:51:29Z",
+      "lastUpdate": "2022-09-02T14:46:37Z",
       "languages": {
         "null": 18,
         "JavaScript": 5,
@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 81,
-      "stars": 100,
+      "stars": 101,
       "forks": 26,
       "issues": 316,
-      "lastUpdate": "2022-09-02T07:33:58Z",
+      "lastUpdate": "2022-09-02T15:25:17Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
+      }
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -228,16 +228,6 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -246,7 +236,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1662125577505
+  "refreshMillis": 1662133362044
 }
