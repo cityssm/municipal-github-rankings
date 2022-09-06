@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 79,
       "issues": 146,
-      "lastUpdate": "2022-09-03T14:55:21Z",
+      "lastUpdate": "2022-09-06T00:52:04Z",
       "languages": {
         "null": 18,
         "JavaScript": 5,
@@ -33,8 +33,8 @@
       "repositories": 81,
       "stars": 101,
       "forks": 26,
-      "issues": 317,
-      "lastUpdate": "2022-09-05T13:23:41Z",
+      "issues": 321,
+      "lastUpdate": "2022-09-06T02:46:03Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -75,15 +75,15 @@
       "handle": "CityOfEdmonton",
       "title": "Edmonton, Alberta",
       "repositories": 32,
-      "stars": 81,
+      "stars": 82,
       "forks": 64,
       "issues": 43,
-      "lastUpdate": "2022-08-22T18:17:50Z",
+      "lastUpdate": "2022-09-06T02:39:57Z",
       "languages": {
+        "Python": 9,
         "R": 2,
         "Makefile": 1,
         "JavaScript": 8,
-        "Python": 9,
         "C#": 3,
         "Smarty": 1,
         "null": 5,
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -238,8 +238,8 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1662384876421
+  "refreshMillis": 1662435660661
 }
