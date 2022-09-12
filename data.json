@@ -6,8 +6,8 @@
       "repositories": 76,
       "stars": 149,
       "forks": 79,
-      "issues": 150,
-      "lastUpdate": "2022-09-11T21:48:45Z",
+      "issues": 147,
+      "lastUpdate": "2022-09-12T13:11:33Z",
       "languages": {
         "TypeScript": 17,
         "null": 18,
@@ -34,7 +34,7 @@
       "stars": 101,
       "forks": 26,
       "issues": 321,
-      "lastUpdate": "2022-09-12T02:49:13Z",
+      "lastUpdate": "2022-09-12T10:14:27Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -228,8 +228,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1662954327841
+  "refreshMillis": 1662989945011
 }
