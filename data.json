@@ -34,7 +34,7 @@
       "stars": 101,
       "forks": 26,
       "issues": 321,
-      "lastUpdate": "2022-09-13T02:45:09Z",
+      "lastUpdate": "2022-09-13T12:12:24Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -45,6 +45,27 @@
         "Classic ASP": 1,
         "ASP": 1,
         "CSS": 1
+      }
+    },
+    {
+      "handle": "CityOfEdmonton",
+      "title": "Edmonton, Alberta",
+      "repositories": 32,
+      "stars": 83,
+      "forks": 64,
+      "issues": 43,
+      "lastUpdate": "2022-09-13T03:43:18Z",
+      "languages": {
+        "Makefile": 1,
+        "Python": 9,
+        "R": 2,
+        "JavaScript": 8,
+        "C#": 3,
+        "Smarty": 1,
+        "null": 5,
+        "HTML": 1,
+        "Java": 1,
+        "C": 1
       }
     },
     {
@@ -69,27 +90,6 @@
         "R": 3,
         "Java": 1,
         "Shell": 1
-      }
-    },
-    {
-      "handle": "CityOfEdmonton",
-      "title": "Edmonton, Alberta",
-      "repositories": 32,
-      "stars": 82,
-      "forks": 64,
-      "issues": 43,
-      "lastUpdate": "2022-09-06T02:39:57Z",
-      "languages": {
-        "Python": 9,
-        "R": 2,
-        "Makefile": 1,
-        "JavaScript": 8,
-        "C#": 3,
-        "Smarty": 1,
-        "null": 5,
-        "HTML": 1,
-        "Java": 1,
-        "C": 1
       }
     },
     {
@@ -218,8 +218,8 @@
       }
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -228,8 +228,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1663040369640
+  "refreshMillis": 1663076373911
 }
