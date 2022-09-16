@@ -6,8 +6,8 @@
       "repositories": 76,
       "stars": 149,
       "forks": 79,
-      "issues": 147,
-      "lastUpdate": "2022-09-14T14:20:14Z",
+      "issues": 148,
+      "lastUpdate": "2022-09-15T20:49:08Z",
       "languages": {
         "TypeScript": 17,
         "null": 18,
@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 81,
-      "stars": 101,
+      "stars": 102,
       "forks": 26,
       "issues": 324,
-      "lastUpdate": "2022-09-15T10:12:22Z",
+      "lastUpdate": "2022-09-16T02:51:00Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -75,7 +75,7 @@
       "stars": 82,
       "forks": 40,
       "issues": 337,
-      "lastUpdate": "2022-09-12T21:06:14Z",
+      "lastUpdate": "2022-09-15T18:29:53Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-07-22T08:00:25Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-07-22T08:00:25Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -218,6 +218,16 @@
       }
     },
     {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
+    },
+    {
       "handle": "cityofkamloops",
       "title": "Kamloops, British Columbia",
       "repositories": 0,
@@ -236,17 +246,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1663249255109
+  "refreshMillis": 1663299882650
 }
