@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 80,
       "issues": 149,
-      "lastUpdate": "2022-09-19T20:45:10Z",
+      "lastUpdate": "2022-09-21T17:24:25Z",
       "languages": {
         "TypeScript": 17,
         "null": 18,
@@ -33,8 +33,8 @@
       "repositories": 81,
       "stars": 102,
       "forks": 26,
-      "issues": 307,
-      "lastUpdate": "2022-09-21T07:04:30Z",
+      "issues": 309,
+      "lastUpdate": "2022-09-22T02:37:38Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -74,8 +74,8 @@
       "repositories": 68,
       "stars": 82,
       "forks": 40,
-      "issues": 337,
-      "lastUpdate": "2022-09-21T13:31:50Z",
+      "issues": 338,
+      "lastUpdate": "2022-09-21T22:31:29Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -111,16 +111,16 @@
     {
       "handle": "cityofottawa",
       "title": "Ottawa, Ontario",
-      "repositories": 29,
+      "repositories": 30,
       "stars": 8,
       "forks": 6,
-      "issues": 17,
-      "lastUpdate": "2022-09-19T18:18:11Z",
+      "issues": 18,
+      "lastUpdate": "2022-09-21T15:24:18Z",
       "languages": {
+        "PHP": 10,
         "SCSS": 1,
         "null": 5,
         "JavaScript": 8,
-        "PHP": 9,
         "Ruby": 1,
         "Java": 1,
         "CSS": 4
@@ -218,6 +218,16 @@
       }
     },
     {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
+    },
+    {
       "handle": "cityofkamloops",
       "title": "Kamloops, British Columbia",
       "repositories": 0,
@@ -236,17 +246,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1663767850922
+  "refreshMillis": 1663817447533
 }
