@@ -5,9 +5,9 @@
       "title": "Montreal, Quebec",
       "repositories": 76,
       "stars": 149,
-      "forks": 80,
-      "issues": 149,
-      "lastUpdate": "2022-09-26T13:19:53Z",
+      "forks": 81,
+      "issues": 150,
+      "lastUpdate": "2022-09-26T20:44:05Z",
       "languages": {
         "TypeScript": 17,
         "null": 18,
@@ -33,8 +33,8 @@
       "repositories": 81,
       "stars": 102,
       "forks": 27,
-      "issues": 311,
-      "lastUpdate": "2022-09-26T13:11:22Z",
+      "issues": 314,
+      "lastUpdate": "2022-09-27T02:37:04Z",
       "languages": {
         "TypeScript": 26,
         "JavaScript": 19,
@@ -210,7 +210,7 @@
       "title": "Langford, British Columbia",
       "repositories": 1,
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "issues": 0,
       "lastUpdate": "2022-07-19T22:54:33Z",
       "languages": {
@@ -248,5 +248,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664199860155
+  "refreshMillis": 1664249349585
 }
