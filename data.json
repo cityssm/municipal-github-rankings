@@ -31,13 +31,13 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 81,
-      "stars": 102,
+      "stars": 103,
       "forks": 27,
-      "issues": 314,
-      "lastUpdate": "2022-09-27T12:14:01Z",
+      "issues": 317,
+      "lastUpdate": "2022-09-28T02:40:48Z",
       "languages": {
-        "TypeScript": 26,
         "JavaScript": 19,
+        "TypeScript": 26,
         "Java": 4,
         "HTML": 13,
         "SCSS": 7,
@@ -53,8 +53,8 @@
       "repositories": 32,
       "stars": 83,
       "forks": 64,
-      "issues": 43,
-      "lastUpdate": "2022-09-13T03:43:18Z",
+      "issues": 44,
+      "lastUpdate": "2022-09-27T17:02:17Z",
       "languages": {
         "Makefile": 1,
         "Python": 9,
@@ -75,7 +75,7 @@
       "stars": 82,
       "forks": 40,
       "issues": 337,
-      "lastUpdate": "2022-09-23T14:20:05Z",
+      "lastUpdate": "2022-09-27T21:48:00Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -115,7 +115,7 @@
       "stars": 8,
       "forks": 6,
       "issues": 18,
-      "lastUpdate": "2022-09-21T15:24:18Z",
+      "lastUpdate": "2022-09-27T19:43:08Z",
       "languages": {
         "PHP": 10,
         "SCSS": 1,
@@ -165,6 +165,20 @@
       }
     },
     {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
+      }
+    },
+    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -179,17 +193,16 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
+      "handle": "CityOfLangford",
+      "title": "Langford, British Columbia",
+      "repositories": 2,
       "stars": 0,
       "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
+      "issues": 0,
+      "lastUpdate": "2022-09-27T23:16:42Z",
       "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
+        "null": 1,
+        "TypeScript": 1
       }
     },
     {
@@ -206,20 +219,8 @@
       }
     },
     {
-      "handle": "CityOfLangford",
-      "title": "Langford, British Columbia",
-      "repositories": 1,
-      "stars": 0,
-      "forks": 1,
-      "issues": 0,
-      "lastUpdate": "2022-07-19T22:54:33Z",
-      "languages": {
-        "TypeScript": 1
-      }
-    },
-    {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -228,8 +229,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,5 +249,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664286389768
+  "refreshMillis": 1664336038222
 }
