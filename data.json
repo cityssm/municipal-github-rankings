@@ -31,15 +31,15 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 81,
-      "stars": 103,
+      "stars": 104,
       "forks": 27,
-      "issues": 324,
-      "lastUpdate": "2022-09-29T02:46:44Z",
+      "issues": 326,
+      "lastUpdate": "2022-09-29T07:46:20Z",
       "languages": {
+        "HTML": 13,
         "JavaScript": 19,
         "TypeScript": 26,
         "Java": 4,
-        "HTML": 13,
         "SCSS": 7,
         "null": 9,
         "Classic ASP": 1,
@@ -52,7 +52,7 @@
       "title": "Edmonton, Alberta",
       "repositories": 32,
       "stars": 83,
-      "forks": 64,
+      "forks": 65,
       "issues": 43,
       "lastUpdate": "2022-09-28T22:00:00Z",
       "languages": {
@@ -75,7 +75,7 @@
       "stars": 82,
       "forks": 40,
       "issues": 337,
-      "lastUpdate": "2022-09-28T22:34:41Z",
+      "lastUpdate": "2022-09-29T13:37:51Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-07-22T08:00:25Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -190,6 +176,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-07-22T08:00:25Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -249,5 +249,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664422627361
+  "refreshMillis": 1664459007097
 }
