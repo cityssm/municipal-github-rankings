@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 83,
       "issues": 149,
-      "lastUpdate": "2022-09-30T11:49:13Z",
+      "lastUpdate": "2022-09-30T17:54:07Z",
       "languages": {
         "JavaScript": 6,
         "TypeScript": 17,
@@ -33,8 +33,8 @@
       "repositories": 81,
       "stars": 104,
       "forks": 27,
-      "issues": 317,
-      "lastUpdate": "2022-09-30T03:50:49Z",
+      "issues": 319,
+      "lastUpdate": "2022-10-01T03:05:47Z",
       "languages": {
         "HTML": 13,
         "JavaScript": 19,
@@ -75,7 +75,7 @@
       "stars": 82,
       "forks": 40,
       "issues": 337,
-      "lastUpdate": "2022-09-29T20:59:14Z",
+      "lastUpdate": "2022-09-30T18:44:14Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -229,16 +229,6 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -247,7 +237,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1664545572128
+  "refreshMillis": 1664595958083
 }
