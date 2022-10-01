@@ -34,7 +34,7 @@
       "stars": 104,
       "forks": 27,
       "issues": 319,
-      "lastUpdate": "2022-10-01T03:05:47Z",
+      "lastUpdate": "2022-10-01T03:45:58Z",
       "languages": {
         "HTML": 13,
         "JavaScript": 19,
@@ -193,19 +193,6 @@
       }
     },
     {
-      "handle": "CityOfLangford",
-      "title": "Langford, British Columbia",
-      "repositories": 2,
-      "stars": 0,
-      "forks": 1,
-      "issues": 0,
-      "lastUpdate": "2022-09-27T23:16:42Z",
-      "languages": {
-        "null": 1,
-        "TypeScript": 1
-      }
-    },
-    {
       "handle": "CityofRichmond",
       "title": "Richmond, British Columbia",
       "repositories": 2,
@@ -216,6 +203,19 @@
       "languages": {
         "Go": 1,
         "Java": 1
+      }
+    },
+    {
+      "handle": "CityOfLangford",
+      "title": "Langford, British Columbia",
+      "repositories": 2,
+      "stars": 0,
+      "forks": 1,
+      "issues": 0,
+      "lastUpdate": "2022-09-27T23:16:42Z",
+      "languages": {
+        "null": 1,
+        "TypeScript": 1
       }
     },
     {
@@ -249,5 +249,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664595958083
+  "refreshMillis": 1664631271584
 }
