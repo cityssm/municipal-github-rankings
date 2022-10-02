@@ -4,15 +4,15 @@
       "handle": "VilledeMontreal",
       "title": "Montreal, Quebec",
       "repositories": 76,
-      "stars": 149,
+      "stars": 148,
       "forks": 83,
       "issues": 149,
-      "lastUpdate": "2022-09-30T17:54:07Z",
+      "lastUpdate": "2022-10-01T21:40:39Z",
       "languages": {
+        "null": 17,
         "JavaScript": 6,
         "TypeScript": 17,
         "Mustache": 1,
-        "null": 17,
         "HTML": 2,
         "Python": 8,
         "Go": 6,
@@ -34,7 +34,7 @@
       "stars": 104,
       "forks": 27,
       "issues": 319,
-      "lastUpdate": "2022-10-01T03:45:58Z",
+      "lastUpdate": "2022-10-02T02:52:06Z",
       "languages": {
         "HTML": 13,
         "JavaScript": 19,
@@ -219,8 +219,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -239,8 +239,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -249,5 +249,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664631271584
+  "refreshMillis": 1664681954006
 }
