@@ -34,7 +34,7 @@
       "stars": 104,
       "forks": 27,
       "issues": 319,
-      "lastUpdate": "2022-10-02T02:52:06Z",
+      "lastUpdate": "2022-10-02T04:20:24Z",
       "languages": {
         "HTML": 13,
         "JavaScript": 19,
@@ -165,20 +165,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -193,16 +179,17 @@
       }
     },
     {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
-      "repositories": 2,
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
       "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2019-12-12T00:57:46Z",
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
       "languages": {
-        "Go": 1,
-        "Java": 1
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -216,6 +203,19 @@
       "languages": {
         "null": 1,
         "TypeScript": 1
+      }
+    },
+    {
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
+      "repositories": 2,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2019-12-12T00:57:46Z",
+      "languages": {
+        "Go": 1,
+        "Java": 1
       }
     },
     {
@@ -249,5 +249,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664681954006
+  "refreshMillis": 1664717460654
 }
