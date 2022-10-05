@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 148,
       "forks": 86,
-      "issues": 151,
-      "lastUpdate": "2022-10-05T03:03:22Z",
+      "issues": 154,
+      "lastUpdate": "2022-10-05T14:01:20Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,7 +34,7 @@
       "stars": 104,
       "forks": 26,
       "issues": 325,
-      "lastUpdate": "2022-10-05T02:26:36Z",
+      "lastUpdate": "2022-10-05T13:38:39Z",
       "languages": {
         "Markdown": 1,
         "HTML": 13,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "CityOfLangford",
-      "title": "Langford, British Columbia",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 1,
-      "issues": 0,
-      "lastUpdate": "2022-10-04T19:51:23Z",
-      "languages": {
-        "TypeScript": 1,
-        "null": 1
-      }
-    },
-    {
       "handle": "villelaval",
       "title": "Laval, Quebec",
       "repositories": 2,
@@ -176,6 +163,19 @@
       "languages": {
         "C#": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "CityOfLangford",
+      "title": "Langford, British Columbia",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 1,
+      "issues": 0,
+      "lastUpdate": "2022-10-04T19:51:23Z",
+      "languages": {
+        "TypeScript": 1,
+        "null": 1
       }
     },
     {
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -240,8 +240,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664939078833
+  "refreshMillis": 1664978749564
 }
