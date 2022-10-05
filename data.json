@@ -7,7 +7,7 @@
       "stars": 148,
       "forks": 86,
       "issues": 151,
-      "lastUpdate": "2022-10-04T12:42:00Z",
+      "lastUpdate": "2022-10-05T03:03:22Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,7 +34,7 @@
       "stars": 104,
       "forks": 26,
       "issues": 325,
-      "lastUpdate": "2022-10-04T12:23:01Z",
+      "lastUpdate": "2022-10-05T02:26:36Z",
       "languages": {
         "Markdown": 1,
         "HTML": 13,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 82,
       "forks": 40,
-      "issues": 340,
-      "lastUpdate": "2022-10-03T23:38:04Z",
+      "issues": 341,
+      "lastUpdate": "2022-10-04T21:01:21Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -116,7 +116,7 @@
       "stars": 8,
       "forks": 6,
       "issues": 18,
-      "lastUpdate": "2022-09-27T19:43:08Z",
+      "lastUpdate": "2022-10-04T17:37:44Z",
       "languages": {
         "PHP": 10,
         "SCSS": 1,
@@ -153,6 +153,19 @@
       }
     },
     {
+      "handle": "CityOfLangford",
+      "title": "Langford, British Columbia",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 1,
+      "issues": 0,
+      "lastUpdate": "2022-10-04T19:51:23Z",
+      "languages": {
+        "TypeScript": 1,
+        "null": 1
+      }
+    },
+    {
       "handle": "villelaval",
       "title": "Laval, Quebec",
       "repositories": 2,
@@ -162,6 +175,20 @@
       "lastUpdate": "2016-10-11T19:39:48Z",
       "languages": {
         "C#": 1,
+        "HTML": 1
+      }
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
         "HTML": 1
       }
     },
@@ -180,33 +207,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
-      "handle": "CityOfLangford",
-      "title": "Langford, British Columbia",
-      "repositories": 2,
-      "stars": 0,
-      "forks": 1,
-      "issues": 0,
-      "lastUpdate": "2022-09-27T23:16:42Z",
-      "languages": {
-        "null": 1,
-        "TypeScript": 1
-      }
-    },
-    {
       "handle": "CityofRichmond",
       "title": "Richmond, British Columbia",
       "repositories": 2,
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -230,8 +230,8 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1664891266057
+  "refreshMillis": 1664939078833
 }
