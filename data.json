@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 148,
       "forks": 88,
-      "issues": 158,
-      "lastUpdate": "2022-10-05T20:29:41Z",
+      "issues": 157,
+      "lastUpdate": "2022-10-06T16:12:49Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -31,18 +31,18 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 82,
-      "stars": 104,
+      "stars": 105,
       "forks": 26,
-      "issues": 325,
-      "lastUpdate": "2022-10-06T07:05:56Z",
+      "issues": 326,
+      "lastUpdate": "2022-10-06T18:44:15Z",
       "languages": {
+        "JavaScript": 20,
         "Markdown": 1,
         "HTML": 13,
-        "JavaScript": 19,
-        "null": 9,
         "TypeScript": 26,
         "Java": 4,
         "SCSS": 7,
+        "null": 8,
         "Classic ASP": 1,
         "ASP": 1,
         "CSS": 1
@@ -76,7 +76,7 @@
       "stars": 82,
       "forks": 40,
       "issues": 341,
-      "lastUpdate": "2022-10-05T22:14:49Z",
+      "lastUpdate": "2022-10-06T18:39:33Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -179,13 +166,26 @@
       }
     },
     {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
+      }
+    },
+    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
       "stars": 0,
       "forks": 1,
       "issues": 3,
-      "lastUpdate": "2022-07-22T08:00:25Z",
+      "lastUpdate": "2022-10-06T14:56:00Z",
       "languages": {
         "JavaScript": 1,
         "HTML": 1,
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -230,8 +230,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1665063869116
+  "refreshMillis": 1665082440836
 }
