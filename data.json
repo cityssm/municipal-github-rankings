@@ -34,7 +34,7 @@
       "stars": 105,
       "forks": 26,
       "issues": 327,
-      "lastUpdate": "2022-10-09T02:41:05Z",
+      "lastUpdate": "2022-10-09T04:10:23Z",
       "languages": {
         "JavaScript": 20,
         "Markdown": 1,
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -240,8 +240,8 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1665286016461
+  "refreshMillis": 1665322335738
 }
