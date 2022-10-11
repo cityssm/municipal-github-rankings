@@ -33,8 +33,8 @@
       "repositories": 82,
       "stars": 105,
       "forks": 26,
-      "issues": 332,
-      "lastUpdate": "2022-10-10T10:18:53Z",
+      "issues": 338,
+      "lastUpdate": "2022-10-11T02:35:59Z",
       "languages": {
         "JavaScript": 20,
         "Markdown": 1,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -176,6 +163,19 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1665409827250
+  "refreshMillis": 1665458870706
 }
