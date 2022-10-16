@@ -34,7 +34,7 @@
       "stars": 106,
       "forks": 26,
       "issues": 324,
-      "lastUpdate": "2022-10-16T02:53:10Z",
+      "lastUpdate": "2022-10-16T07:38:54Z",
       "languages": {
         "JavaScript": 21,
         "Markdown": 1,
@@ -76,13 +76,13 @@
       "handle": "CityOfEdmonton",
       "title": "Edmonton, Alberta",
       "repositories": 32,
-      "stars": 83,
+      "stars": 84,
       "forks": 65,
       "issues": 45,
-      "lastUpdate": "2022-10-14T14:43:55Z",
+      "lastUpdate": "2022-10-16T09:03:17Z",
       "languages": {
-        "Makefile": 1,
         "Python": 9,
+        "Makefile": 1,
         "R": 2,
         "JavaScript": 8,
         "C#": 3,
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -230,8 +230,8 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1665891488743
+  "refreshMillis": 1665927133871
 }
