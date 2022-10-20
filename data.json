@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 148,
       "forks": 91,
-      "issues": 156,
-      "lastUpdate": "2022-10-20T01:50:16Z",
+      "issues": 157,
+      "lastUpdate": "2022-10-20T15:42:42Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,7 +34,7 @@
       "stars": 106,
       "forks": 27,
       "issues": 334,
-      "lastUpdate": "2022-10-20T12:11:51Z",
+      "lastUpdate": "2022-10-20T19:24:03Z",
       "languages": {
         "JavaScript": 21,
         "Markdown": 1,
@@ -55,7 +55,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 343,
-      "lastUpdate": "2022-10-19T21:53:03Z",
+      "lastUpdate": "2022-10-20T14:38:00Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -78,8 +78,8 @@
       "repositories": 32,
       "stars": 84,
       "forks": 65,
-      "issues": 45,
-      "lastUpdate": "2022-10-16T09:03:17Z",
+      "issues": 46,
+      "lastUpdate": "2022-10-20T19:16:16Z",
       "languages": {
         "Python": 9,
         "Makefile": 1,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -179,16 +166,15 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
       "languages": {
-        "Hack": 1,
-        "PHP": 1,
+        "C#": 1,
         "HTML": 1
       }
     },
@@ -204,6 +190,20 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
+      }
+    },
+    {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1666273847182
+  "refreshMillis": 1666293895833
 }
