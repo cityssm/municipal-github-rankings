@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/cityssm/municipal-github-rankings#readme",
   "private": true,
-  "dependencies": {
-    "github-api": "^3.4.0"
-  },
   "devDependencies": {
     "@types/node": "^17.0.35"
+  },
+  "dependencies": {
+    "github-api": "^3.4.0"
   }
 }

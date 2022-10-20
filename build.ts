@@ -46,6 +46,7 @@ for (const organization of organizations) {
     const organizationData = {
       handle: organization.handle,
       title: organization.title,
+      followers: ghOrganization.followers,
       repositories: 0,
       stars: 0,
       forks: 0,
