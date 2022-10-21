@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 148,
       "forks": 91,
-      "issues": 157,
-      "lastUpdate": "2022-10-20T15:42:42Z",
+      "issues": 156,
+      "lastUpdate": "2022-10-21T01:16:36Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,7 +34,7 @@
       "stars": 106,
       "forks": 27,
       "issues": 334,
-      "lastUpdate": "2022-10-20T19:24:03Z",
+      "lastUpdate": "2022-10-21T02:12:28Z",
       "languages": {
         "JavaScript": 21,
         "Markdown": 1,
@@ -54,8 +54,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 343,
-      "lastUpdate": "2022-10-20T14:38:00Z",
+      "issues": 344,
+      "lastUpdate": "2022-10-20T20:41:05Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -179,20 +179,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -207,6 +193,20 @@
       }
     },
     {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
+      }
+    },
+    {
       "handle": "CityofRichmond",
       "title": "Richmond, British Columbia",
       "repositories": 2,
@@ -218,6 +218,16 @@
         "Go": 1,
         "Java": 1
       }
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     },
     {
       "handle": "soreltracy",
@@ -238,17 +248,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1666293895833
+  "refreshMillis": 1666321213089
 }
