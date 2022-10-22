@@ -7,7 +7,7 @@
       "stars": 148,
       "forks": 91,
       "issues": 156,
-      "lastUpdate": "2022-10-21T01:16:36Z",
+      "lastUpdate": "2022-10-21T20:46:43Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,13 +34,13 @@
       "stars": 106,
       "forks": 27,
       "issues": 334,
-      "lastUpdate": "2022-10-21T10:47:04Z",
+      "lastUpdate": "2022-10-22T02:31:37Z",
       "languages": {
+        "Java": 4,
         "JavaScript": 21,
         "Markdown": 1,
         "HTML": 13,
         "TypeScript": 26,
-        "Java": 4,
         "SCSS": 7,
         "null": 8,
         "Classic ASP": 1,
@@ -54,8 +54,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 344,
-      "lastUpdate": "2022-10-20T20:41:05Z",
+      "issues": 343,
+      "lastUpdate": "2022-10-21T21:04:52Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -76,14 +76,14 @@
       "handle": "CityOfEdmonton",
       "title": "Edmonton, Alberta",
       "repositories": 32,
-      "stars": 84,
-      "forks": 65,
+      "stars": 85,
+      "forks": 66,
       "issues": 46,
-      "lastUpdate": "2022-10-20T19:16:16Z",
+      "lastUpdate": "2022-10-21T22:17:41Z",
       "languages": {
         "Python": 9,
-        "Makefile": 1,
         "R": 2,
+        "Makefile": 1,
         "JavaScript": 8,
         "C#": 3,
         "Smarty": 1,
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1666360314555
+  "refreshMillis": 1666408645114
 }
