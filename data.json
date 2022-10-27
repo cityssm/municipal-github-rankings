@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 148,
       "forks": 91,
-      "issues": 159,
-      "lastUpdate": "2022-10-26T13:14:10Z",
+      "issues": 161,
+      "lastUpdate": "2022-10-26T21:10:20Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,7 +34,7 @@
       "stars": 106,
       "forks": 27,
       "issues": 339,
-      "lastUpdate": "2022-10-26T07:04:18Z",
+      "lastUpdate": "2022-10-27T02:22:31Z",
       "languages": {
         "Java": 4,
         "JavaScript": 21,
@@ -54,8 +54,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 344,
-      "lastUpdate": "2022-10-25T19:47:44Z",
+      "issues": 343,
+      "lastUpdate": "2022-10-26T20:44:08Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -78,8 +78,8 @@
       "repositories": 32,
       "stars": 85,
       "forks": 66,
-      "issues": 46,
-      "lastUpdate": "2022-10-25T20:46:38Z",
+      "issues": 45,
+      "lastUpdate": "2022-10-26T22:08:24Z",
       "languages": {
         "Python": 9,
         "R": 2,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -176,6 +163,19 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1666791711698
+  "refreshMillis": 1666839886983
 }
