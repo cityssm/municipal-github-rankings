@@ -5,7 +5,7 @@
       "title": "Montreal, Quebec",
       "repositories": 77,
       "stars": 149,
-      "forks": 91,
+      "forks": 90,
       "issues": 164,
       "lastUpdate": "2022-10-29T05:07:00Z",
       "languages": {
@@ -34,7 +34,7 @@
       "stars": 106,
       "forks": 27,
       "issues": 327,
-      "lastUpdate": "2022-10-29T02:59:24Z",
+      "lastUpdate": "2022-10-30T02:40:21Z",
       "languages": {
         "Java": 4,
         "JavaScript": 21,
@@ -179,20 +179,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -204,6 +190,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1667049855605
+  "refreshMillis": 1667099739436
 }
