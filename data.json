@@ -7,7 +7,7 @@
       "stars": 149,
       "forks": 90,
       "issues": 164,
-      "lastUpdate": "2022-10-29T05:07:00Z",
+      "lastUpdate": "2022-10-31T09:45:34Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -34,7 +34,7 @@
       "stars": 106,
       "forks": 27,
       "issues": 327,
-      "lastUpdate": "2022-10-31T02:35:09Z",
+      "lastUpdate": "2022-10-31T13:21:55Z",
       "languages": {
         "Java": 4,
         "JavaScript": 21,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -179,17 +166,16 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
       "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -204,6 +190,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1667185958441
+  "refreshMillis": 1667223770021
 }
