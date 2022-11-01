@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <main class="container mt-4" style="max-width:600px;margin:0 auto;">
+  <main class="container mt-4" style="max-width:650px;margin:0 auto;">
     <h1 class="title has-text-centered">Canadian Municipal GitHub Rankings</h1>
 
     <div class="message is-info">
@@ -23,6 +23,25 @@
 
     <div class="my-4" id="table-container">
       <p class="has-text-centered">Loading...</p>
+    </div>
+
+    <h2 class="title is-5">What do the numbers mean?</h2>
+
+    <div class="content">
+      <ul>
+        <li>
+          Having a high number of <strong>stars</strong>
+          indicates that the code being released by the municipality is of interest to a large number of people.
+        </li>
+        <li>
+          Having a high number of <strong>public repos</strong>
+          shows that the municipality prioritizes releasing code in the open.
+        </li>
+        <li>
+          Having a high <strong>ratio</strong> of stars to public repos
+          shows that the code being released is of a high quality.
+        </li>
+      </ul>
     </div>
   </main>
   <footer class="footer mt-4">
@@ -38,14 +57,29 @@
         return response.data;
       })
       .then((data) => {
+
+        let maxStars = 0;
+        let maxRepos = 0;
+        let maxRatio = 0;
+
+        for (const organization of data.organizations) {
+          maxStars = Math.max(maxStars, organization.stars);
+          maxRepos = Math.max(maxRepos, organization.repositories);
+
+          if (organization.repositories !== 0) {
+            maxRatio = Math.max(maxRatio, (organization.stars / organization.repositories));
+          }
+        }
+
         const tableElement = document.createElement("table");
         tableElement.className = "table is-fullwidth is-striped";
 
         tableElement.innerHTML = "<thead><tr>" +
           "<th class=\"has-text-centered\">Icon</th>" +
           "<th>Municipality</th>" +
-          "<th class=\"has-text-right\">Stars</th>" +
-          "<th class=\"has-text-right\">Public Repos</th>" +
+          "<th class=\"has-text-right\" style=\"width:6em\">Stars</th>" +
+          "<th class=\"has-text-right\" style=\"width:6em\">Public Repos</th>" +
+          "<th class=\"has-text-right\" style=\"width:6em\">Quality Ratio</th>" +
           "</tr></thead>" +
           "<tbody></tbody>";
 
@@ -64,8 +98,17 @@
             "<a href=\"https://github.com/" + organization.handle + "\" rel=\"noopener\" target=\"_blank\">" + organization.handle + "</a><br />" +
             organization.title +
             "</td>" +
-            "<td class=\"has-text-right\">" + organization.stars + "</td>" +
-            "<td class=\"has-text-right\">" + organization.repositories + "</td>";
+            "<td class=\"has-text-right" + (organization.stars === maxStars ? " has-background-success-light" : "") + "\">" +
+              organization.stars +
+            "</td>" +
+            "<td class=\"has-text-right" + (organization.repositories === maxRepos ? " has-background-success-light" : "") + "\">" +
+              organization.repositories +
+            "</td>" +
+            "<td class=\"has-text-right" + (organization.repositories !== 0 && (organization.stars / organization.repositories) >= maxRatio ? " has-background-success-light" : "") + "\">" +
+              (organization.repositories === 0
+              ? ""
+              : (organization.stars / organization.repositories).toPrecision(2)) + 
+            "</td>";
 
           tableElement.querySelector("tbody").append(trElement);
         }
