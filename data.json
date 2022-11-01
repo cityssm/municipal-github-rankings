@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 149,
       "forks": 90,
-      "issues": 162,
-      "lastUpdate": "2022-10-31T18:39:48Z",
+      "issues": 161,
+      "lastUpdate": "2022-11-01T12:41:41Z",
       "languages": {
         "null": 17,
         "TypeScript": 18,
@@ -34,7 +34,7 @@
       "stars": 107,
       "forks": 27,
       "issues": 329,
-      "lastUpdate": "2022-11-01T02:45:33Z",
+      "lastUpdate": "2022-11-01T12:22:35Z",
       "languages": {
         "Markdown": 1,
         "Java": 4,
@@ -55,7 +55,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 344,
-      "lastUpdate": "2022-10-29T06:47:46Z",
+      "lastUpdate": "2022-11-01T13:39:50Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -115,8 +115,8 @@
       "repositories": 30,
       "stars": 8,
       "forks": 6,
-      "issues": 18,
-      "lastUpdate": "2022-10-19T17:29:38Z",
+      "issues": 19,
+      "lastUpdate": "2022-11-01T13:12:40Z",
       "languages": {
         "PHP": 10,
         "SCSS": 1,
@@ -220,6 +220,16 @@
       }
     },
     {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
+    },
+    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -238,17 +248,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1667273190748
+  "refreshMillis": 1667310029605
 }
