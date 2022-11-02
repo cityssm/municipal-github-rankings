@@ -4,13 +4,13 @@
       "handle": "VilledeMontreal",
       "title": "Montreal, Quebec",
       "repositories": 77,
-      "stars": 149,
+      "stars": 150,
       "forks": 90,
       "issues": 161,
-      "lastUpdate": "2022-11-01T12:41:41Z",
+      "lastUpdate": "2022-11-01T18:59:39Z",
       "languages": {
-        "null": 17,
         "TypeScript": 18,
+        "null": 17,
         "JavaScript": 6,
         "Mustache": 1,
         "HTML": 2,
@@ -33,13 +33,13 @@
       "repositories": 83,
       "stars": 107,
       "forks": 27,
-      "issues": 329,
-      "lastUpdate": "2022-11-01T12:22:35Z",
+      "issues": 330,
+      "lastUpdate": "2022-11-02T02:31:08Z",
       "languages": {
+        "HTML": 14,
         "Markdown": 1,
         "Java": 4,
-        "JavaScript": 21,
-        "HTML": 13,
+        "JavaScript": 20,
         "TypeScript": 26,
         "SCSS": 7,
         "null": 8,
@@ -55,7 +55,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 344,
-      "lastUpdate": "2022-11-01T13:39:50Z",
+      "lastUpdate": "2022-11-02T00:51:51Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -179,6 +179,20 @@
       }
     },
     {
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-11-01T22:32:30Z",
+      "languages": {
+        "Shell": 1,
+        "Go": 1,
+        "Java": 1
+      }
+    },
+    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -207,31 +221,8 @@
       }
     },
     {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
-      "repositories": 2,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2019-12-12T00:57:46Z",
-      "languages": {
-        "Go": 1,
-        "Java": 1
-      }
-    },
-    {
       "handle": "cityofkamloops",
       "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -248,7 +239,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1667310029605
+  "refreshMillis": 1667359018774
 }
