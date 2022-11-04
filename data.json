@@ -7,7 +7,7 @@
       "stars": 150,
       "forks": 90,
       "issues": 161,
-      "lastUpdate": "2022-11-03T09:00:59Z",
+      "lastUpdate": "2022-11-03T16:13:46Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 84,
-      "stars": 108,
+      "stars": 109,
       "forks": 27,
-      "issues": 323,
-      "lastUpdate": "2022-11-03T14:10:56Z",
+      "issues": 303,
+      "lastUpdate": "2022-11-04T02:21:23Z",
       "languages": {
         "TypeScript": 27,
         "HTML": 14,
@@ -55,7 +55,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 344,
-      "lastUpdate": "2022-11-02T20:29:49Z",
+      "lastUpdate": "2022-11-03T21:47:59Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -78,7 +78,7 @@
       "repositories": 32,
       "stars": 85,
       "forks": 66,
-      "issues": 46,
+      "issues": 47,
       "lastUpdate": "2022-10-26T22:08:24Z",
       "languages": {
         "Python": 9,
@@ -100,7 +100,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 78,
-      "lastUpdate": "2022-10-05T15:58:31Z",
+      "lastUpdate": "2022-11-03T18:24:39Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -231,16 +231,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -249,7 +239,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1667484731529
+  "refreshMillis": 1667530978592
 }
