@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 84,
-      "stars": 110,
+      "stars": 111,
       "forks": 27,
       "issues": 304,
-      "lastUpdate": "2022-11-06T02:18:37Z",
+      "lastUpdate": "2022-11-06T09:49:49Z",
       "languages": {
         "HTML": 14,
         "TypeScript": 27,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -176,6 +163,19 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -193,20 +193,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityofRichmond",
       "title": "Richmond, British Columbia",
       "repositories": 3,
@@ -218,6 +204,20 @@
         "Shell": 1,
         "Go": 1,
         "Java": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -251,5 +251,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1667703354491
+  "refreshMillis": 1667740903334
 }
