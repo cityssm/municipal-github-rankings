@@ -34,7 +34,7 @@
       "stars": 110,
       "forks": 27,
       "issues": 304,
-      "lastUpdate": "2022-11-05T07:28:41Z",
+      "lastUpdate": "2022-11-06T02:18:37Z",
       "languages": {
         "HTML": 14,
         "TypeScript": 27,
@@ -179,20 +179,6 @@
       }
     },
     {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2022-11-05T00:41:04Z",
-      "languages": {
-        "Shell": 1,
-        "Go": 1,
-        "Java": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -218,6 +204,20 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
+      }
+    },
+    {
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-11-05T00:41:04Z",
+      "languages": {
+        "Shell": 1,
+        "Go": 1,
+        "Java": 1
       }
     },
     {
@@ -251,5 +251,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1667654440126
+  "refreshMillis": 1667703354491
 }
