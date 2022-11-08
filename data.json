@@ -7,7 +7,7 @@
       "stars": 150,
       "forks": 90,
       "issues": 160,
-      "lastUpdate": "2022-11-07T23:33:20Z",
+      "lastUpdate": "2022-11-08T09:23:36Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -33,8 +33,8 @@
       "repositories": 84,
       "stars": 111,
       "forks": 27,
-      "issues": 308,
-      "lastUpdate": "2022-11-08T02:08:08Z",
+      "issues": 316,
+      "lastUpdate": "2022-11-08T12:13:10Z",
       "languages": {
         "HTML": 14,
         "TypeScript": 27,
@@ -53,7 +53,7 @@
       "title": "Edmonton, Alberta",
       "repositories": 32,
       "stars": 87,
-      "forks": 66,
+      "forks": 67,
       "issues": 46,
       "lastUpdate": "2022-11-07T19:32:36Z",
       "languages": {
@@ -153,6 +153,19 @@
       }
     },
     {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
+      }
+    },
+    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -166,15 +179,16 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
       "languages": {
-        "C#": 1,
+        "Hack": 1,
+        "PHP": 1,
         "HTML": 1
       }
     },
@@ -193,20 +207,6 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -221,8 +221,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -241,8 +241,8 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -251,5 +251,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1667876034264
+  "refreshMillis": 1667914457823
 }
