@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 150,
       "forks": 90,
-      "issues": 161,
-      "lastUpdate": "2022-11-07T13:29:18Z",
+      "issues": 160,
+      "lastUpdate": "2022-11-07T23:33:20Z",
       "languages": {
         "TypeScript": 18,
         "null": 17,
@@ -33,8 +33,8 @@
       "repositories": 84,
       "stars": 111,
       "forks": 27,
-      "issues": 305,
-      "lastUpdate": "2022-11-07T10:01:23Z",
+      "issues": 308,
+      "lastUpdate": "2022-11-08T02:08:08Z",
       "languages": {
         "HTML": 14,
         "TypeScript": 27,
@@ -52,10 +52,10 @@
       "handle": "CityOfEdmonton",
       "title": "Edmonton, Alberta",
       "repositories": 32,
-      "stars": 86,
+      "stars": 87,
       "forks": 66,
       "issues": 46,
-      "lastUpdate": "2022-11-04T20:22:26Z",
+      "lastUpdate": "2022-11-07T19:32:36Z",
       "languages": {
         "R": 2,
         "Python": 9,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 346,
-      "lastUpdate": "2022-11-06T23:38:45Z",
+      "issues": 347,
+      "lastUpdate": "2022-11-07T19:31:47Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -179,6 +179,20 @@
       }
     },
     {
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-11-05T00:41:04Z",
+      "languages": {
+        "Shell": 1,
+        "Go": 1,
+        "Java": 1
+      }
+    },
+    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -204,20 +218,6 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
-      }
-    },
-    {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2022-11-05T00:41:04Z",
-      "languages": {
-        "Shell": 1,
-        "Go": 1,
-        "Java": 1
       }
     },
     {
@@ -251,5 +251,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1667828199533
+  "refreshMillis": 1667876034264
 }
