@@ -7,12 +7,12 @@
       "stars": 150,
       "forks": 90,
       "issues": 160,
-      "lastUpdate": "2022-11-08T09:23:36Z",
+      "lastUpdate": "2022-11-09T00:34:45Z",
       "languages": {
+        "Mustache": 1,
         "TypeScript": 18,
         "null": 17,
         "JavaScript": 6,
-        "Mustache": 1,
         "HTML": 2,
         "Python": 8,
         "Go": 6,
@@ -34,7 +34,7 @@
       "stars": 111,
       "forks": 27,
       "issues": 316,
-      "lastUpdate": "2022-11-08T12:13:10Z",
+      "lastUpdate": "2022-11-09T02:22:22Z",
       "languages": {
         "HTML": 14,
         "TypeScript": 27,
@@ -54,8 +54,8 @@
       "repositories": 32,
       "stars": 87,
       "forks": 67,
-      "issues": 46,
-      "lastUpdate": "2022-11-07T19:32:36Z",
+      "issues": 45,
+      "lastUpdate": "2022-11-08T22:28:59Z",
       "languages": {
         "R": 2,
         "Python": 9,
@@ -76,7 +76,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 347,
-      "lastUpdate": "2022-11-07T19:31:47Z",
+      "lastUpdate": "2022-11-08T19:59:29Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -176,6 +163,19 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -193,20 +193,6 @@
       }
     },
     {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2022-11-05T00:41:04Z",
-      "languages": {
-        "Shell": 1,
-        "Go": 1,
-        "Java": 1
-      }
-    },
-    {
       "handle": "Guelph-Digital-Service",
       "title": "Guelph, Ontario",
       "repositories": 3,
@@ -219,6 +205,30 @@
         "HTML": 1,
         "PHP": 1
       }
+    },
+    {
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-11-08T19:49:53Z",
+      "languages": {
+        "Shell": 1,
+        "Go": 1,
+        "Java": 1
+      }
+    },
+    {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     },
     {
       "handle": "Ville-La-Tuque",
@@ -239,17 +249,7 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
-    },
-    {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
     }
   ],
-  "refreshMillis": 1667914457823
+  "refreshMillis": 1667962894143
 }
