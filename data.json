@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 85,
-      "stars": 112,
+      "stars": 113,
       "forks": 27,
       "issues": 320,
-      "lastUpdate": "2022-11-10T11:18:17Z",
+      "lastUpdate": "2022-11-10T14:41:56Z",
       "languages": {
         "TypeScript": 28,
         "HTML": 14,
@@ -55,7 +55,7 @@
       "stars": 87,
       "forks": 67,
       "issues": 45,
-      "lastUpdate": "2022-11-08T22:28:59Z",
+      "lastUpdate": "2022-11-10T15:59:50Z",
       "languages": {
         "R": 2,
         "Python": 9,
@@ -76,7 +76,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 347,
-      "lastUpdate": "2022-11-10T05:59:02Z",
+      "lastUpdate": "2022-11-10T16:11:31Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -179,17 +179,17 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
       "repositories": 3,
       "stars": 0,
-      "forks": 1,
-      "issues": 24,
-      "lastUpdate": "2022-07-20T14:43:40Z",
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-11-08T19:49:53Z",
       "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
+        "Shell": 1,
+        "Go": 1,
+        "Java": 1
       }
     },
     {
@@ -207,17 +207,17 @@
       }
     },
     {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
       "repositories": 3,
       "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2022-11-08T19:49:53Z",
+      "forks": 1,
+      "issues": 24,
+      "lastUpdate": "2022-07-20T14:43:40Z",
       "languages": {
-        "Shell": 1,
-        "Go": 1,
-        "Java": 1
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -251,5 +251,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1668087708902
+  "refreshMillis": 1668097831693
 }
