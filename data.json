@@ -33,8 +33,8 @@
       "repositories": 85,
       "stars": 113,
       "forks": 27,
-      "issues": 320,
-      "lastUpdate": "2022-11-10T14:41:56Z",
+      "issues": 322,
+      "lastUpdate": "2022-11-11T02:11:46Z",
       "languages": {
         "TypeScript": 28,
         "HTML": 14,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 347,
-      "lastUpdate": "2022-11-10T16:11:31Z",
+      "issues": 348,
+      "lastUpdate": "2022-11-10T21:34:11Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -179,17 +166,16 @@
       }
     },
     {
-      "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
-      "repositories": 3,
-      "stars": 0,
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "2022-11-08T19:49:53Z",
+      "lastUpdate": "2016-10-11T19:39:48Z",
       "languages": {
-        "Shell": 1,
-        "Go": 1,
-        "Java": 1
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -221,18 +207,21 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
+      "handle": "CityofRichmond",
+      "title": "Richmond, British Columbia",
+      "repositories": 2,
       "stars": 0,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
+      "lastUpdate": "2019-12-12T00:57:46Z",
+      "languages": {
+        "Go": 1,
+        "Java": 1
+      }
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -249,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1668097831693
+  "refreshMillis": 1668135389435
 }
