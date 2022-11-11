@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 85,
-      "stars": 113,
-      "forks": 27,
-      "issues": 322,
-      "lastUpdate": "2022-11-11T02:11:46Z",
+      "stars": 114,
+      "forks": 28,
+      "issues": 326,
+      "lastUpdate": "2022-11-11T12:39:26Z",
       "languages": {
         "TypeScript": 28,
         "HTML": 14,
@@ -179,20 +179,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -204,6 +190,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1668135389435
+  "refreshMillis": 1668173667809
 }
