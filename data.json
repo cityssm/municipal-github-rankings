@@ -6,11 +6,11 @@
       "repositories": 77,
       "stars": 151,
       "forks": 90,
-      "issues": 169,
-      "lastUpdate": "2022-11-12T12:25:14Z",
+      "issues": 178,
+      "lastUpdate": "2022-11-12T21:49:27Z",
       "languages": {
-        "TypeScript": 18,
         "Mustache": 1,
+        "TypeScript": 18,
         "null": 17,
         "JavaScript": 6,
         "HTML": 2,
@@ -34,7 +34,7 @@
       "stars": 114,
       "forks": 28,
       "issues": 327,
-      "lastUpdate": "2022-11-12T07:35:32Z",
+      "lastUpdate": "2022-11-13T02:06:51Z",
       "languages": {
         "TypeScript": 28,
         "HTML": 14,
@@ -179,20 +179,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
-      "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
-      }
-    },
-    {
       "handle": "CityOfSarnia",
       "title": "Sarnia, Ontario",
       "repositories": 3,
@@ -204,6 +190,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -240,8 +240,8 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1668259306397
+  "refreshMillis": 1668307932030
 }
