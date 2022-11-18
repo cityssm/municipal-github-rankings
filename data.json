@@ -7,7 +7,7 @@
       "stars": 151,
       "forks": 92,
       "issues": 182,
-      "lastUpdate": "2022-11-18T00:44:42Z",
+      "lastUpdate": "2022-11-18T10:43:07Z",
       "languages": {
         "Mustache": 1,
         "TypeScript": 18,
@@ -34,7 +34,7 @@
       "stars": 116,
       "forks": 28,
       "issues": 333,
-      "lastUpdate": "2022-11-18T02:07:47Z",
+      "lastUpdate": "2022-11-18T02:47:34Z",
       "languages": {
         "TypeScript": 28,
         "HTML": 14,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -176,6 +163,19 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1668739654174
+  "refreshMillis": 1668777999976
 }
