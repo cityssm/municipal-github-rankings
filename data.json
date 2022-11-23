@@ -34,7 +34,7 @@
       "stars": 117,
       "forks": 29,
       "issues": 337,
-      "lastUpdate": "2022-11-23T01:53:18Z",
+      "lastUpdate": "2022-11-23T08:33:57Z",
       "languages": {
         "TypeScript": 28,
         "null": 8,
@@ -153,6 +153,19 @@
       }
     },
     {
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
+      }
+    },
+    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -166,15 +179,16 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 25,
+      "lastUpdate": "2022-11-18T19:33:19Z",
       "languages": {
-        "C#": 1,
+        "Hack": 1,
+        "PHP": 1,
         "HTML": 1
       }
     },
@@ -190,20 +204,6 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
-      }
-    },
-    {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 25,
-      "lastUpdate": "2022-11-18T19:33:19Z",
-      "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
       }
     },
     {
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1669170518930
+  "refreshMillis": 1669209755333
 }
