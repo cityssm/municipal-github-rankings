@@ -34,7 +34,7 @@
       "stars": 118,
       "forks": 29,
       "issues": 338,
-      "lastUpdate": "2022-11-25T01:52:32Z",
+      "lastUpdate": "2022-11-25T08:34:04Z",
       "languages": {
         "TypeScript": 28,
         "null": 8,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1669343109211
+  "refreshMillis": 1669382318127
 }
