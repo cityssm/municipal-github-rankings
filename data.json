@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 85,
-      "stars": 117,
+      "stars": 118,
       "forks": 29,
       "issues": 338,
-      "lastUpdate": "2022-11-24T07:01:34Z",
+      "lastUpdate": "2022-11-25T01:52:32Z",
       "languages": {
         "TypeScript": 28,
         "null": 8,
@@ -76,7 +76,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 347,
-      "lastUpdate": "2022-11-23T15:25:34Z",
+      "lastUpdate": "2022-11-24T20:00:32Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -116,12 +116,12 @@
       "stars": 8,
       "forks": 6,
       "issues": 18,
-      "lastUpdate": "2022-11-23T14:14:07Z",
+      "lastUpdate": "2022-11-24T16:55:17Z",
       "languages": {
+        "JavaScript": 8,
         "PHP": 10,
         "SCSS": 1,
         "null": 5,
-        "JavaScript": 8,
         "Ruby": 1,
         "Java": 1,
         "CSS": 4
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -240,8 +240,8 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1669296053068
+  "refreshMillis": 1669343109211
 }
