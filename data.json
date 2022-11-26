@@ -6,7 +6,7 @@
       "repositories": 77,
       "stars": 151,
       "forks": 93,
-      "issues": 186,
+      "issues": 185,
       "lastUpdate": "2022-11-22T21:03:58Z",
       "languages": {
         "Mustache": 1,
@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 85,
-      "stars": 118,
+      "stars": 119,
       "forks": 29,
       "issues": 338,
-      "lastUpdate": "2022-11-25T08:34:04Z",
+      "lastUpdate": "2022-11-26T01:47:48Z",
       "languages": {
         "TypeScript": 28,
         "null": 8,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 347,
-      "lastUpdate": "2022-11-24T20:00:32Z",
+      "issues": 348,
+      "lastUpdate": "2022-11-25T21:40:30Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "soreltracy",
       "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1669382318127
+  "refreshMillis": 1669429058741
 }
