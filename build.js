@@ -71,8 +71,8 @@ data.sort((organizationA, organizationB) => {
     else if (organizationA.repositories !== organizationB.repositories) {
         return organizationB.repositories - organizationA.repositories;
     }
-    else if (organizationA.handle < organizationB.handle) {
-        return 1;
+    else if (organizationA.handle.toLowerCase() < organizationB.handle.toLowerCase()) {
+        return -1;
     }
     else {
         return 1;
