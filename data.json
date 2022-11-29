@@ -33,8 +33,8 @@
       "repositories": 85,
       "stars": 120,
       "forks": 29,
-      "issues": 340,
-      "lastUpdate": "2022-11-29T02:02:14Z",
+      "issues": 342,
+      "lastUpdate": "2022-11-29T12:05:12Z",
       "languages": {
         "TypeScript": 28,
         "null": 8,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "villelaval",
-      "title": "Laval, Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "CityOfLangford",
       "title": "Langford, British Columbia",
       "repositories": 2,
@@ -179,17 +166,16 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2022-10-20T12:56:01Z",
+      "handle": "villelaval",
+      "title": "Laval, Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2016-10-11T19:39:48Z",
       "languages": {
-        "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -204,6 +190,20 @@
         "Hack": 1,
         "PHP": 1,
         "HTML": 1
+      }
+    },
+    {
+      "handle": "Guelph-Digital-Service",
+      "title": "Guelph, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 3,
+      "lastUpdate": "2022-10-20T12:56:01Z",
+      "languages": {
+        "JavaScript": 1,
+        "HTML": 1,
+        "PHP": 1
       }
     },
     {
@@ -230,16 +230,6 @@
       "languages": {}
     },
     {
-      "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
-      "repositories": 0,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
-    },
-    {
       "handle": "Ville-La-Tuque",
       "title": "La Tuque, Quebec",
       "repositories": 0,
@@ -248,7 +238,17 @@
       "issues": 0,
       "lastUpdate": "",
       "languages": {}
+    },
+    {
+      "handle": "cityofkamloops",
+      "title": "Kamloops, British Columbia",
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
     }
   ],
-  "refreshMillis": 1669688466859
+  "refreshMillis": 1669728022541
 }
