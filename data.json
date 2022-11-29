@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 151,
       "forks": 93,
-      "issues": 185,
-      "lastUpdate": "2022-11-22T21:03:58Z",
+      "issues": 187,
+      "lastUpdate": "2022-11-29T17:38:09Z",
       "languages": {
         "Mustache": 1,
         "TypeScript": 18,
@@ -33,12 +33,12 @@
       "repositories": 85,
       "stars": 120,
       "forks": 29,
-      "issues": 342,
-      "lastUpdate": "2022-11-29T12:05:12Z",
+      "issues": 333,
+      "lastUpdate": "2022-11-29T20:08:25Z",
       "languages": {
+        "HTML": 14,
         "TypeScript": 28,
         "null": 8,
-        "HTML": 14,
         "Markdown": 1,
         "Java": 4,
         "JavaScript": 20,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 352,
-      "lastUpdate": "2022-11-28T20:05:05Z",
+      "issues": 351,
+      "lastUpdate": "2022-11-29T16:23:10Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -153,19 +153,6 @@
       }
     },
     {
-      "handle": "CityOfLangford",
-      "title": "Langford, British Columbia",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 1,
-      "issues": 1,
-      "lastUpdate": "2022-11-28T01:02:41Z",
-      "languages": {
-        "TypeScript": 1,
-        "null": 1
-      }
-    },
-    {
       "handle": "villelaval",
       "title": "Laval, Quebec",
       "repositories": 2,
@@ -179,17 +166,16 @@
       }
     },
     {
-      "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
-      "repositories": 3,
-      "stars": 0,
+      "handle": "CityOfLangford",
+      "title": "Langford, British Columbia",
+      "repositories": 2,
+      "stars": 1,
       "forks": 1,
-      "issues": 25,
-      "lastUpdate": "2022-11-23T17:15:23Z",
+      "issues": 1,
+      "lastUpdate": "2022-11-28T01:02:41Z",
       "languages": {
-        "Hack": 1,
-        "PHP": 1,
-        "HTML": 1
+        "TypeScript": 1,
+        "null": 1
       }
     },
     {
@@ -207,6 +193,20 @@
       }
     },
     {
+      "handle": "CityOfSarnia",
+      "title": "Sarnia, Ontario",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 1,
+      "issues": 25,
+      "lastUpdate": "2022-11-23T17:15:23Z",
+      "languages": {
+        "Hack": 1,
+        "PHP": 1,
+        "HTML": 1
+      }
+    },
+    {
       "handle": "CityofRichmond",
       "title": "Richmond, British Columbia",
       "repositories": 2,
@@ -220,8 +220,8 @@
       }
     },
     {
-      "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "handle": "Ville-La-Tuque",
+      "title": "La Tuque, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -230,8 +230,8 @@
       "languages": {}
     },
     {
-      "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "handle": "soreltracy",
+      "title": "Sorel-Tracy, Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1669728022541
+  "refreshMillis": 1669753255677
 }
