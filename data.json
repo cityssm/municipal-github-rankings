@@ -30,15 +30,15 @@
     {
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
-      "repositories": 85,
-      "stars": 122,
+      "repositories": 86,
+      "stars": 123,
       "forks": 29,
       "issues": 326,
-      "lastUpdate": "2022-12-01T11:10:42Z",
+      "lastUpdate": "2022-12-02T01:43:28Z",
       "languages": {
+        "null": 9,
         "TypeScript": 28,
         "HTML": 14,
-        "null": 8,
         "Markdown": 1,
         "Java": 4,
         "JavaScript": 20,
@@ -76,7 +76,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 351,
-      "lastUpdate": "2022-11-30T21:12:40Z",
+      "lastUpdate": "2022-12-01T22:41:13Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -100,7 +100,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 78,
-      "lastUpdate": "2022-11-03T18:24:39Z",
+      "lastUpdate": "2022-12-01T22:19:07Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1669901252644
+  "refreshMillis": 1669947253845
 }
