@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 151,
       "forks": 93,
-      "issues": 185,
-      "lastUpdate": "2022-12-02T19:49:50Z",
+      "issues": 186,
+      "lastUpdate": "2022-12-02T21:10:01Z",
       "languages": {
         "Mustache": 1,
         "TypeScript": 18,
@@ -34,7 +34,7 @@
       "stars": 125,
       "forks": 29,
       "issues": 328,
-      "lastUpdate": "2022-12-02T19:07:45Z",
+      "lastUpdate": "2022-12-03T01:38:46Z",
       "languages": {
         "TypeScript": 28,
         "Markdown": 1,
@@ -54,8 +54,8 @@
       "repositories": 32,
       "stars": 88,
       "forks": 68,
-      "issues": 43,
-      "lastUpdate": "2022-11-22T05:25:45Z",
+      "issues": 44,
+      "lastUpdate": "2022-12-03T01:43:14Z",
       "languages": {
         "Makefile": 1,
         "R": 2,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1670011585909
+  "refreshMillis": 1670033148548
 }
