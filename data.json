@@ -31,10 +31,10 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 87,
-      "stars": 125,
+      "stars": 126,
       "forks": 29,
       "issues": 328,
-      "lastUpdate": "2022-12-03T08:31:23Z",
+      "lastUpdate": "2022-12-04T01:45:15Z",
       "languages": {
         "TypeScript": 28,
         "Markdown": 1,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1670073120691
+  "refreshMillis": 1670119985563
 }
