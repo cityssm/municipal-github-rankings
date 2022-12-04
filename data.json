@@ -6,8 +6,8 @@
       "repositories": 77,
       "stars": 151,
       "forks": 93,
-      "issues": 186,
-      "lastUpdate": "2022-12-02T21:10:01Z",
+      "issues": 187,
+      "lastUpdate": "2022-12-04T07:47:30Z",
       "languages": {
         "Mustache": 1,
         "TypeScript": 18,
@@ -34,7 +34,7 @@
       "stars": 126,
       "forks": 29,
       "issues": 328,
-      "lastUpdate": "2022-12-04T01:45:15Z",
+      "lastUpdate": "2022-12-04T08:31:04Z",
       "languages": {
         "TypeScript": 28,
         "Markdown": 1,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 85,
       "forks": 40,
-      "issues": 351,
-      "lastUpdate": "2022-12-02T17:13:43Z",
+      "issues": 352,
+      "lastUpdate": "2022-12-04T11:28:09Z",
       "languages": {
         "R": 3,
         "Jupyter Notebook": 11,
@@ -184,8 +184,8 @@
       "repositories": 3,
       "stars": 0,
       "forks": 1,
-      "issues": 25,
-      "lastUpdate": "2022-11-23T17:15:23Z",
+      "issues": 26,
+      "lastUpdate": "2022-12-04T11:41:19Z",
       "languages": {
         "Hack": 1,
         "PHP": 1,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1670119985563
+  "refreshMillis": 1670159584759
 }
