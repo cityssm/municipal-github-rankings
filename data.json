@@ -7,7 +7,7 @@
       "stars": 151,
       "forks": 93,
       "issues": 187,
-      "lastUpdate": "2022-12-04T07:47:30Z",
+      "lastUpdate": "2022-12-05T01:40:54Z",
       "languages": {
         "Mustache": 1,
         "TypeScript": 18,
@@ -32,9 +32,9 @@
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 87,
       "stars": 126,
-      "forks": 29,
+      "forks": 30,
       "issues": 328,
-      "lastUpdate": "2022-12-04T08:31:04Z",
+      "lastUpdate": "2022-12-05T01:44:00Z",
       "languages": {
         "TypeScript": 28,
         "Markdown": 1,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1670159584759
+  "refreshMillis": 1670206259658
 }
