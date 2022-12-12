@@ -4,15 +4,15 @@
       "handle": "VilledeMontreal",
       "title": "Montreal, Quebec",
       "repositories": 77,
-      "stars": 152,
+      "stars": 153,
       "forks": 93,
-      "issues": 224,
-      "lastUpdate": "2022-12-12T02:01:28Z",
+      "issues": 226,
+      "lastUpdate": "2022-12-12T07:18:45Z",
       "languages": {
+        "JavaScript": 6,
         "TypeScript": 18,
         "Mustache": 1,
         "null": 17,
-        "JavaScript": 6,
         "HTML": 2,
         "Python": 8,
         "Go": 6,
@@ -33,8 +33,8 @@
       "repositories": 87,
       "stars": 127,
       "forks": 30,
-      "issues": 358,
-      "lastUpdate": "2022-12-12T01:47:07Z",
+      "issues": 361,
+      "lastUpdate": "2022-12-12T10:03:37Z",
       "languages": {
         "JavaScript": 21,
         "TypeScript": 28,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1670811284169
+  "refreshMillis": 1670851052498
 }
