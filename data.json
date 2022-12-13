@@ -5,9 +5,9 @@
       "title": "Montreal, Quebec",
       "repositories": 77,
       "stars": 153,
-      "forks": 93,
-      "issues": 226,
-      "lastUpdate": "2022-12-12T07:18:45Z",
+      "forks": 94,
+      "issues": 228,
+      "lastUpdate": "2022-12-12T22:11:22Z",
       "languages": {
         "JavaScript": 6,
         "TypeScript": 18,
@@ -34,7 +34,7 @@
       "stars": 127,
       "forks": 30,
       "issues": 361,
-      "lastUpdate": "2022-12-12T10:03:37Z",
+      "lastUpdate": "2022-12-13T02:01:51Z",
       "languages": {
         "JavaScript": 21,
         "TypeScript": 28,
@@ -75,8 +75,8 @@
       "repositories": 68,
       "stars": 86,
       "forks": 40,
-      "issues": 357,
-      "lastUpdate": "2022-12-10T02:05:36Z",
+      "issues": 358,
+      "lastUpdate": "2022-12-12T22:06:52Z",
       "languages": {
         "JavaScript": 19,
         "R": 3,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1670851052498
+  "refreshMillis": 1670897960203
 }
