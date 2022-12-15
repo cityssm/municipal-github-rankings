@@ -4,13 +4,13 @@
       "handle": "VilledeMontreal",
       "title": "Montreal, Quebec",
       "repositories": 77,
-      "stars": 154,
+      "stars": 153,
       "forks": 94,
       "issues": 226,
-      "lastUpdate": "2022-12-13T20:12:40Z",
+      "lastUpdate": "2022-12-14T23:24:30Z",
       "languages": {
-        "HTML": 2,
         "JavaScript": 6,
+        "HTML": 2,
         "TypeScript": 18,
         "Mustache": 1,
         "null": 17,
@@ -31,16 +31,16 @@
       "handle": "cityssm",
       "title": "Sault Ste. Marie, Ontario",
       "repositories": 87,
-      "stars": 127,
+      "stars": 123,
       "forks": 30,
-      "issues": 367,
-      "lastUpdate": "2022-12-14T12:03:36Z",
+      "issues": 368,
+      "lastUpdate": "2022-12-15T01:47:53Z",
       "languages": {
         "JavaScript": 21,
-        "TypeScript": 28,
-        "Markdown": 1,
-        "null": 9,
         "HTML": 14,
+        "Markdown": 1,
+        "TypeScript": 28,
+        "null": 9,
         "Java": 4,
         "SCSS": 7,
         "Classic ASP": 1,
@@ -73,10 +73,10 @@
       "handle": "CityofToronto",
       "title": "Toronto, Ontario",
       "repositories": 68,
-      "stars": 86,
+      "stars": 85,
       "forks": 40,
       "issues": 358,
-      "lastUpdate": "2022-12-12T22:06:52Z",
+      "lastUpdate": "2022-12-14T22:55:05Z",
       "languages": {
         "JavaScript": 19,
         "R": 3,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1671023806566
+  "refreshMillis": 1671070618248
 }
