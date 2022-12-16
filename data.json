@@ -7,7 +7,7 @@
       "stars": 153,
       "forks": 94,
       "issues": 226,
-      "lastUpdate": "2022-12-14T23:24:30Z",
+      "lastUpdate": "2022-12-15T18:02:00Z",
       "languages": {
         "JavaScript": 6,
         "HTML": 2,
@@ -34,7 +34,7 @@
       "stars": 123,
       "forks": 30,
       "issues": 368,
-      "lastUpdate": "2022-12-15T02:16:58Z",
+      "lastUpdate": "2022-12-16T01:37:19Z",
       "languages": {
         "JavaScript": 21,
         "HTML": 14,
@@ -76,7 +76,7 @@
       "stars": 85,
       "forks": 40,
       "issues": 358,
-      "lastUpdate": "2022-12-14T22:55:05Z",
+      "lastUpdate": "2022-12-15T23:12:04Z",
       "languages": {
         "JavaScript": 19,
         "R": 3,
@@ -250,5 +250,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1671110228069
+  "refreshMillis": 1671156168058
 }
