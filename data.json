@@ -33,8 +33,8 @@
       "repositories": 87,
       "stars": 124,
       "forks": 30,
-      "issues": 368,
-      "lastUpdate": "2022-12-23T02:12:16Z",
+      "issues": 357,
+      "lastUpdate": "2022-12-23T17:53:50Z",
       "languages": {
         "TypeScript": 28,
         "JavaScript": 21,
@@ -75,8 +75,8 @@
       "repositories": 65,
       "stars": 83,
       "forks": 40,
-      "issues": 358,
-      "lastUpdate": "2022-12-23T05:23:46Z",
+      "issues": 360,
+      "lastUpdate": "2022-12-23T17:53:58Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 19,
@@ -124,6 +124,19 @@
         "Ruby": 1,
         "Java": 1,
         "CSS": 4
+      }
+    },
+    {
+      "handle": "rocky-view-county",
+      "title": "Rocky View County, Alberta",
+      "repositories": 2,
+      "stars": 2,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-09-09T05:14:58Z",
+      "languages": {
+        "C#": 1,
+        "null": 1
       }
     },
     {
@@ -219,6 +232,18 @@
       }
     },
     {
+      "handle": "RegionofPeel",
+      "title": "Region of Peel, Ontario",
+      "repositories": 2,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2022-09-19T14:18:17Z",
+      "languages": {
+        "null": 2
+      }
+    },
+    {
       "handle": "cityofkamloops",
       "title": "Kamloops, British Columbia",
       "repositories": 0,
@@ -249,5 +274,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1671801181455
+  "refreshMillis": 1671820134110
 }

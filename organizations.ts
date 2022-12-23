@@ -41,6 +41,12 @@ export const organizations: Organization[] = [
     handle: "Guelph-Digital-Service",
     title: "Guelph, Ontario"
   }, {
+    handle: "rocky-view-county",
+    title: "Rocky View County, Alberta"  
+  }, {
+    handle: "RegionofPeel",
+    title: "Region of Peel, Ontario"
+  }, {
     handle: "soreltracy",
     title: "Sorel-Tracy, Quebec"
   }, {
