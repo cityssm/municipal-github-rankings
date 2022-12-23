@@ -33,6 +33,9 @@ export const organizations = [
         handle: "cityssm",
         title: "Sault Ste. Marie, Ontario"
     }, {
+        handle: "Clearwater-County",
+        title: "Clearwater County, Alberta"
+    }, {
         handle: "Guelph-Digital-Service",
         title: "Guelph, Ontario"
     }, {
