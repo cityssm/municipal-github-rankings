@@ -2,7 +2,8 @@
 
 To motivate us to continuously improve our GitHub presence,
 the table below shows how [The City of Sault Ste. Marie](https://saultstemarie.ca)
-compares to other Canadian cities that are releasing their open source code on GitHub.
+compares to other Canadian cities, towns, regions, and counties
+that are releasing their open source code on GitHub.
 
 [View the Table](https://cityssm.github.io/municipal-github-rankings)
 
