@@ -1,60 +1,79 @@
 export const organizations = [
     {
         handle: "CityOfEdmonton",
-        title: "Edmonton, Alberta"
+        municipality: "City of Edmonton",
+        province: "Alberta"
     }, {
         handle: "cityofgreatersudbury",
-        title: "Greater Sudbury, Ontario"
+        municipality: "City of Greater Sudbury",
+        province: "Ontario",
     }, {
         handle: "cityofkamloops",
-        title: "Kamloops, British Columbia"
+        municipality: "City of Kamloops",
+        province: "British Columbia"
     }, {
         handle: "CityOfLangford",
-        title: "Langford, British Columbia"
+        municipality: "City of Langford",
+        province: "British Columbia"
     }, {
         handle: "cityofottawa",
-        title: "Ottawa, Ontario"
+        municipality: "City of Ottawa",
+        province: "Ontario"
     }, {
         handle: "CityofRichmond",
-        title: "Richmond, British Columbia"
+        municipality: "City of Richmond",
+        province: "British Columbia"
     }, {
         handle: "CityOfSarnia",
-        title: "Sarnia, Ontario"
+        municipality: "City of Sarnia",
+        province: "Ontario"
     }, {
         handle: "cityofsurrey",
-        title: "Surrey, British Columbia"
+        municipality: "City of Surrey",
+        province: "British Columbia"
     }, {
         handle: "CityofToronto",
-        title: "Toronto, Ontario"
+        municipality: "City of Toronto",
+        province: "Ontario"
     }, {
         handle: "CityOfVictoria",
-        title: "Victoria, British Columbia"
+        municipality: "City of Victoria",
+        province: "British Columbia"
     }, {
         handle: "cityssm",
-        title: "Sault Ste. Marie, Ontario"
+        municipality: "City of Sault Ste. Marie",
+        province: "Ontario"
     }, {
         handle: "Clearwater-County",
-        title: "Clearwater County, Alberta"
+        municipality: "Clearwater County",
+        province: "Alberta"
     }, {
         handle: "Guelph-Digital-Service",
-        title: "Guelph, Ontario"
+        municipality: "City of Guelph",
+        province: "Ontario"
     }, {
         handle: "rocky-view-county",
-        title: "Rocky View County, Alberta"
+        municipality: "Rocky View County",
+        province: "Alberta"
     }, {
         handle: "RegionofPeel",
-        title: "Region of Peel, Ontario"
+        municipality: "Region of Peel",
+        province: "Ontario"
     }, {
         handle: "soreltracy",
-        title: "Sorel-Tracy, Quebec"
+        municipality: "Ville de Sorel-Tracy",
+        province: "Quebec"
     }, {
         handle: "Ville-La-Tuque",
-        title: "La Tuque, Quebec"
+        municipality: "Ville de La Tuque",
+        province: "Quebec"
     }, {
         handle: "villelaval",
-        title: "Laval, Quebec"
+        municipality: "Ville de Laval",
+        province: "Quebec"
     }, {
         handle: "VilledeMontreal",
-        title: "Montreal, Quebec"
+        municipality: "Ville de Montréal",
+        province: "Quebec"
     }
 ];

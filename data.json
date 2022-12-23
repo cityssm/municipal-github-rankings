@@ -2,7 +2,8 @@
   "organizations": [
     {
       "handle": "VilledeMontreal",
-      "title": "Montreal, Quebec",
+      "municipality": "Ville de Montréal",
+      "province": "Quebec",
       "repositories": 77,
       "stars": 153,
       "forks": 94,
@@ -29,12 +30,13 @@
     },
     {
       "handle": "cityssm",
-      "title": "Sault Ste. Marie, Ontario",
+      "municipality": "City of Sault Ste. Marie",
+      "province": "Ontario",
       "repositories": 87,
       "stars": 124,
       "forks": 30,
       "issues": 357,
-      "lastUpdate": "2022-12-23T18:30:14Z",
+      "lastUpdate": "2022-12-23T18:40:36Z",
       "languages": {
         "TypeScript": 28,
         "JavaScript": 21,
@@ -50,7 +52,8 @@
     },
     {
       "handle": "CityOfEdmonton",
-      "title": "Edmonton, Alberta",
+      "municipality": "City of Edmonton",
+      "province": "Alberta",
       "repositories": 32,
       "stars": 89,
       "forks": 68,
@@ -71,12 +74,13 @@
     },
     {
       "handle": "CityofToronto",
-      "title": "Toronto, Ontario",
+      "municipality": "City of Toronto",
+      "province": "Ontario",
       "repositories": 65,
       "stars": 83,
       "forks": 40,
-      "issues": 360,
-      "lastUpdate": "2022-12-23T17:53:58Z",
+      "issues": 358,
+      "lastUpdate": "2022-12-23T18:42:41Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 19,
@@ -94,7 +98,8 @@
     },
     {
       "handle": "cityofsurrey",
-      "title": "Surrey, British Columbia",
+      "municipality": "City of Surrey",
+      "province": "British Columbia",
       "repositories": 20,
       "stars": 10,
       "forks": 14,
@@ -110,7 +115,8 @@
     },
     {
       "handle": "cityofottawa",
-      "title": "Ottawa, Ontario",
+      "municipality": "City of Ottawa",
+      "province": "Ontario",
       "repositories": 30,
       "stars": 8,
       "forks": 6,
@@ -128,7 +134,8 @@
     },
     {
       "handle": "rocky-view-county",
-      "title": "Rocky View County, Alberta",
+      "municipality": "Rocky View County",
+      "province": "Alberta",
       "repositories": 2,
       "stars": 2,
       "forks": 0,
@@ -141,7 +148,8 @@
     },
     {
       "handle": "cityofgreatersudbury",
-      "title": "Greater Sudbury, Ontario",
+      "municipality": "City of Greater Sudbury",
+      "province": "Ontario",
       "repositories": 1,
       "stars": 2,
       "forks": 0,
@@ -153,7 +161,8 @@
     },
     {
       "handle": "CityOfVictoria",
-      "title": "Victoria, British Columbia",
+      "municipality": "City of Victoria",
+      "province": "British Columbia",
       "repositories": 3,
       "stars": 1,
       "forks": 0,
@@ -166,7 +175,8 @@
     },
     {
       "handle": "CityOfLangford",
-      "title": "Langford, British Columbia",
+      "municipality": "City of Langford",
+      "province": "British Columbia",
       "repositories": 2,
       "stars": 1,
       "forks": 1,
@@ -179,7 +189,8 @@
     },
     {
       "handle": "villelaval",
-      "title": "Laval, Quebec",
+      "municipality": "Ville de Laval",
+      "province": "Quebec",
       "repositories": 2,
       "stars": 1,
       "forks": 0,
@@ -192,7 +203,8 @@
     },
     {
       "handle": "CityOfSarnia",
-      "title": "Sarnia, Ontario",
+      "municipality": "City of Sarnia",
+      "province": "Ontario",
       "repositories": 3,
       "stars": 0,
       "forks": 1,
@@ -206,7 +218,8 @@
     },
     {
       "handle": "Guelph-Digital-Service",
-      "title": "Guelph, Ontario",
+      "municipality": "City of Guelph",
+      "province": "Ontario",
       "repositories": 3,
       "stars": 0,
       "forks": 1,
@@ -220,7 +233,8 @@
     },
     {
       "handle": "CityofRichmond",
-      "title": "Richmond, British Columbia",
+      "municipality": "City of Richmond",
+      "province": "British Columbia",
       "repositories": 2,
       "stars": 0,
       "forks": 0,
@@ -233,7 +247,8 @@
     },
     {
       "handle": "RegionofPeel",
-      "title": "Region of Peel, Ontario",
+      "municipality": "Region of Peel",
+      "province": "Ontario",
       "repositories": 2,
       "stars": 0,
       "forks": 0,
@@ -245,7 +260,8 @@
     },
     {
       "handle": "cityofkamloops",
-      "title": "Kamloops, British Columbia",
+      "municipality": "City of Kamloops",
+      "province": "British Columbia",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -255,7 +271,8 @@
     },
     {
       "handle": "Clearwater-County",
-      "title": "Clearwater County, Alberta",
+      "municipality": "Clearwater County",
+      "province": "Alberta",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -265,7 +282,8 @@
     },
     {
       "handle": "soreltracy",
-      "title": "Sorel-Tracy, Quebec",
+      "municipality": "Ville de Sorel-Tracy",
+      "province": "Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -275,7 +293,8 @@
     },
     {
       "handle": "Ville-La-Tuque",
-      "title": "La Tuque, Quebec",
+      "municipality": "Ville de La Tuque",
+      "province": "Quebec",
       "repositories": 0,
       "stars": 0,
       "forks": 0,
@@ -284,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1671820819671
+  "refreshMillis": 1671821787106
 }

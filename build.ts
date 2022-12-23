@@ -30,7 +30,7 @@ let outstandingCount = 0;
 
 for (const organization of organizations) {
 
-  console.log("Processing " + organization.title + " (" + organization.handle + ")...");
+  console.log("Processing " + organization.municipality + ", " + organization.province + " (" + organization.handle + ")...");
 
   const ghOrganization = gh.getOrganization(organization.handle);
 
@@ -45,7 +45,8 @@ for (const organization of organizations) {
 
     const organizationData = {
       handle: organization.handle,
-      title: organization.title,
+      municipality: organization.municipality,
+      province: organization.province,
       followers: ghOrganization.followers,
       repositories: 0,
       stars: 0,

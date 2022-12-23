@@ -1,65 +1,85 @@
 interface Organization {
   handle: string;
-  title: string;
+  municipality: string;
+  province: "Alberta" | "British Columbia" | "Ontario" | "Quebec";
 }
 
 export const organizations: Organization[] = [
   {
-    handle: "CityOfEdmonton",
-    title: "Edmonton, Alberta"
+      handle: "CityOfEdmonton",
+      municipality: "City of Edmonton",
+      province: "Alberta"
   }, {
-    handle: "cityofgreatersudbury",
-    title: "Greater Sudbury, Ontario"
+      handle: "cityofgreatersudbury",
+      municipality: "City of Greater Sudbury",
+      province: "Ontario",
   }, {
-    handle: "cityofkamloops",
-    title: "Kamloops, British Columbia"
+      handle: "cityofkamloops",
+      municipality: "City of Kamloops",
+      province: "British Columbia"
   }, {
-    handle: "CityOfLangford",
-    title: "Langford, British Columbia"
+      handle: "CityOfLangford",
+      municipality: "City of Langford",
+      province: "British Columbia"
   }, {
-    handle: "cityofottawa",
-    title: "Ottawa, Ontario"
+      handle: "cityofottawa",
+      municipality: "City of Ottawa",
+      province: "Ontario"
   }, {
-    handle: "CityofRichmond",
-    title: "Richmond, British Columbia"
+      handle: "CityofRichmond",
+      municipality: "City of Richmond",
+      province: "British Columbia"
   }, {
-    handle: "CityOfSarnia",
-    title: "Sarnia, Ontario"
+      handle: "CityOfSarnia",
+      municipality: "City of Sarnia",
+      province: "Ontario"
   }, {
-    handle: "cityofsurrey",
-    title: "Surrey, British Columbia"
+      handle: "cityofsurrey",
+      municipality: "City of Surrey",
+      province: "British Columbia"
   }, {
-    handle: "CityofToronto",
-    title: "Toronto, Ontario"
+      handle: "CityofToronto",
+      municipality: "City of Toronto",
+      province: "Ontario"
   }, {
-    handle: "CityOfVictoria",
-    title: "Victoria, British Columbia"
+      handle: "CityOfVictoria",
+      municipality: "City of Victoria",
+      province: "British Columbia"
   }, {
-    handle: "cityssm",
-    title: "Sault Ste. Marie, Ontario"
+      handle: "cityssm",
+      municipality: "City of Sault Ste. Marie",
+      province: "Ontario"
   }, {
-    handle: "Clearwater-County",
-    title: "Clearwater County, Alberta"
+      handle: "Clearwater-County",
+      municipality: "Clearwater County",
+      province: "Alberta"
   }, {
-    handle: "Guelph-Digital-Service",
-    title: "Guelph, Ontario"
+      handle: "Guelph-Digital-Service",
+      municipality: "City of Guelph",
+      province: "Ontario"
   }, {
-    handle: "rocky-view-county",
-    title: "Rocky View County, Alberta"  
+      handle: "rocky-view-county",
+      municipality: "Rocky View County",
+      province: "Alberta"
   }, {
-    handle: "RegionofPeel",
-    title: "Region of Peel, Ontario"
+      handle: "RegionofPeel",
+      municipality: "Region of Peel",
+      province: "Ontario"
   }, {
-    handle: "soreltracy",
-    title: "Sorel-Tracy, Quebec"
+      handle: "soreltracy",
+      municipality: "Ville de Sorel-Tracy",
+      province: "Quebec"
   }, {
-    handle: "Ville-La-Tuque",
-    title: "La Tuque, Quebec"
+      handle: "Ville-La-Tuque",
+      municipality: "Ville de La Tuque",
+      province: "Quebec"
   }, {
-    handle: "villelaval",
-    title: "Laval, Quebec"
+      handle: "villelaval",
+      municipality: "Ville de Laval",
+      province: "Quebec"
   }, {
-    handle: "VilledeMontreal",
-    title: "Montreal, Quebec"
+      handle: "VilledeMontreal",
+      municipality: "Ville de Montréal",
+      province: "Quebec"
   }
 ];
