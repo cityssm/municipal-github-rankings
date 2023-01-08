@@ -7,8 +7,8 @@
       "repositories": 77,
       "stars": 154,
       "forks": 94,
-      "issues": 238,
-      "lastUpdate": "2023-01-07T08:48:45Z",
+      "issues": 243,
+      "lastUpdate": "2023-01-07T22:45:19Z",
       "languages": {
         "TypeScript": 18,
         "JavaScript": 6,
@@ -35,8 +35,8 @@
       "repositories": 87,
       "stars": 124,
       "forks": 30,
-      "issues": 353,
-      "lastUpdate": "2023-01-07T06:42:23Z",
+      "issues": 369,
+      "lastUpdate": "2023-01-08T01:48:35Z",
       "languages": {
         "Java": 4,
         "JavaScript": 22,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1673097010074
+  "refreshMillis": 1673144081101
 }
