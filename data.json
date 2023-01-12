@@ -5,10 +5,10 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 77,
-      "stars": 154,
+      "stars": 155,
       "forks": 94,
-      "issues": 259,
-      "lastUpdate": "2023-01-11T01:19:12Z",
+      "issues": 261,
+      "lastUpdate": "2023-01-12T13:07:48Z",
       "languages": {
         "TypeScript": 18,
         "JavaScript": 6,
@@ -35,8 +35,8 @@
       "repositories": 87,
       "stars": 125,
       "forks": 30,
-      "issues": 402,
-      "lastUpdate": "2023-01-12T02:01:42Z",
+      "issues": 406,
+      "lastUpdate": "2023-01-12T11:01:43Z",
       "languages": {
         "TypeScript": 27,
         "Java": 4,
@@ -80,7 +80,7 @@
       "stars": 83,
       "forks": 40,
       "issues": 359,
-      "lastUpdate": "2023-01-11T14:10:04Z",
+      "lastUpdate": "2023-01-12T07:08:15Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 19,
@@ -103,8 +103,8 @@
       "repositories": 20,
       "stars": 10,
       "forks": 14,
-      "issues": 79,
-      "lastUpdate": "2023-01-05T20:04:26Z",
+      "issues": 80,
+      "lastUpdate": "2023-01-12T10:37:50Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1673489454160
+  "refreshMillis": 1673529671157
 }
