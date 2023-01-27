@@ -8,7 +8,7 @@
       "stars": 155,
       "forks": 94,
       "issues": 277,
-      "lastUpdate": "2023-01-26T02:34:41Z",
+      "lastUpdate": "2023-01-26T16:12:56Z",
       "languages": {
         "TypeScript": 18,
         "JavaScript": 6,
@@ -36,7 +36,7 @@
       "stars": 130,
       "forks": 30,
       "issues": 408,
-      "lastUpdate": "2023-01-26T02:11:56Z",
+      "lastUpdate": "2023-01-27T01:45:29Z",
       "languages": {
         "JavaScript": 22,
         "TypeScript": 28,
@@ -57,8 +57,8 @@
       "repositories": 32,
       "stars": 90,
       "forks": 69,
-      "issues": 49,
-      "lastUpdate": "2023-01-24T17:49:39Z",
+      "issues": 48,
+      "lastUpdate": "2023-01-26T20:32:22Z",
       "languages": {
         "R": 2,
         "Makefile": 1,
@@ -80,7 +80,7 @@
       "stars": 82,
       "forks": 39,
       "issues": 339,
-      "lastUpdate": "2023-01-25T19:55:07Z",
+      "lastUpdate": "2023-01-26T17:52:03Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 18,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1674739000044
+  "refreshMillis": 1674785570115
 }
