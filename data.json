@@ -5,16 +5,16 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 77,
-      "stars": 154,
-      "forks": 94,
+      "stars": 155,
+      "forks": 95,
       "issues": 276,
-      "lastUpdate": "2023-01-31T18:39:21Z",
+      "lastUpdate": "2023-02-01T18:35:35Z",
       "languages": {
+        "null": 17,
         "TypeScript": 18,
         "JavaScript": 6,
         "HTML": 2,
         "Mustache": 1,
-        "null": 17,
         "Python": 8,
         "Go": 6,
         "C#": 1,
@@ -35,15 +35,15 @@
       "repositories": 88,
       "stars": 130,
       "forks": 29,
-      "issues": 414,
-      "lastUpdate": "2023-02-01T10:01:26Z",
+      "issues": 416,
+      "lastUpdate": "2023-02-02T01:46:24Z",
       "languages": {
+        "JavaScript": 22,
+        "HTML": 14,
         "TypeScript": 28,
         "SCSS": 7,
-        "JavaScript": 22,
         "ASP": 1,
         "null": 9,
-        "HTML": 14,
         "Java": 4,
         "Markdown": 1,
         "Classic ASP": 1,
@@ -80,7 +80,7 @@
       "stars": 82,
       "forks": 39,
       "issues": 339,
-      "lastUpdate": "2023-01-31T01:05:15Z",
+      "lastUpdate": "2023-02-01T15:37:36Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1675257397027
+  "refreshMillis": 1675304075291
 }
