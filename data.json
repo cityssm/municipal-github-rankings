@@ -7,8 +7,8 @@
       "repositories": 77,
       "stars": 155,
       "forks": 95,
-      "issues": 276,
-      "lastUpdate": "2023-02-01T18:35:35Z",
+      "issues": 277,
+      "lastUpdate": "2023-02-02T22:59:24Z",
       "languages": {
         "null": 17,
         "TypeScript": 18,
@@ -34,9 +34,9 @@
       "province": "Ontario",
       "repositories": 88,
       "stars": 130,
-      "forks": 29,
+      "forks": 28,
       "issues": 416,
-      "lastUpdate": "2023-02-02T08:34:10Z",
+      "lastUpdate": "2023-02-03T01:47:42Z",
       "languages": {
         "JavaScript": 22,
         "HTML": 14,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 82,
       "forks": 39,
-      "issues": 339,
-      "lastUpdate": "2023-02-01T15:37:36Z",
+      "issues": 340,
+      "lastUpdate": "2023-02-02T22:00:01Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -104,7 +104,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 80,
-      "lastUpdate": "2023-01-12T10:37:50Z",
+      "lastUpdate": "2023-02-02T21:04:43Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1675343807807
+  "refreshMillis": 1675390659336
 }
