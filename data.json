@@ -6,9 +6,9 @@
       "province": "Quebec",
       "repositories": 77,
       "stars": 155,
-      "forks": 97,
-      "issues": 276,
-      "lastUpdate": "2023-02-14T21:08:58Z",
+      "forks": 98,
+      "issues": 292,
+      "lastUpdate": "2023-02-15T19:31:14Z",
       "languages": {
         "null": 17,
         "TypeScript": 18,
@@ -36,7 +36,7 @@
       "stars": 136,
       "forks": 29,
       "issues": 443,
-      "lastUpdate": "2023-02-15T08:34:30Z",
+      "lastUpdate": "2023-02-16T01:48:15Z",
       "languages": {
         "TypeScript": 32,
         "Java": 4,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 82,
       "forks": 39,
-      "issues": 339,
-      "lastUpdate": "2023-02-14T19:22:26Z",
+      "issues": 340,
+      "lastUpdate": "2023-02-15T19:49:18Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1676467090916
+  "refreshMillis": 1676513746916
 }
