@@ -6,7 +6,7 @@
       "province": "Quebec",
       "repositories": 77,
       "stars": 155,
-      "forks": 98,
+      "forks": 99,
       "issues": 292,
       "lastUpdate": "2023-02-16T18:07:57Z",
       "languages": {
@@ -32,19 +32,19 @@
       "handle": "cityssm",
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
-      "repositories": 92,
+      "repositories": 93,
       "stars": 136,
       "forks": 29,
-      "issues": 443,
-      "lastUpdate": "2023-02-17T02:20:11Z",
+      "issues": 438,
+      "lastUpdate": "2023-02-18T01:45:49Z",
       "languages": {
+        "null": 9,
+        "HTML": 15,
         "TypeScript": 32,
         "Java": 4,
         "JavaScript": 22,
-        "HTML": 14,
         "SCSS": 7,
         "ASP": 1,
-        "null": 9,
         "Markdown": 1,
         "Classic ASP": 1,
         "CSS": 1
@@ -79,7 +79,7 @@
       "repositories": 64,
       "stars": 82,
       "forks": 39,
-      "issues": 340,
+      "issues": 341,
       "lastUpdate": "2023-02-16T20:04:30Z",
       "languages": {
         "null": 14,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1676639768297
+  "refreshMillis": 1676686354510
 }
