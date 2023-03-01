@@ -5,17 +5,17 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 77,
-      "stars": 155,
+      "stars": 156,
       "forks": 100,
       "issues": 280,
-      "lastUpdate": "2023-02-27T18:17:47Z",
+      "lastUpdate": "2023-02-28T18:58:43Z",
       "languages": {
+        "Python": 8,
         "null": 17,
         "TypeScript": 18,
         "JavaScript": 6,
         "HTML": 2,
         "Mustache": 1,
-        "Python": 8,
         "Go": 6,
         "C#": 1,
         "Shell": 1,
@@ -35,8 +35,8 @@
       "repositories": 93,
       "stars": 138,
       "forks": 29,
-      "issues": 432,
-      "lastUpdate": "2023-02-28T12:58:27Z",
+      "issues": 434,
+      "lastUpdate": "2023-03-01T01:58:53Z",
       "languages": {
         "JavaScript": 22,
         "null": 9,
@@ -55,17 +55,17 @@
       "municipality": "City of Edmonton",
       "province": "Alberta",
       "repositories": 32,
-      "stars": 91,
+      "stars": 92,
       "forks": 69,
       "issues": 48,
-      "lastUpdate": "2023-02-25T18:09:02Z",
+      "lastUpdate": "2023-03-01T01:46:44Z",
       "languages": {
+        "C#": 3,
         "R": 2,
         "Makefile": 1,
         "Python": 9,
         "JavaScript": 8,
         "Smarty": 1,
-        "C#": 3,
         "null": 5,
         "HTML": 1,
         "Java": 1,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 82,
       "forks": 39,
-      "issues": 339,
-      "lastUpdate": "2023-02-27T22:28:34Z",
+      "issues": 342,
+      "lastUpdate": "2023-02-28T21:03:20Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1677590309502
+  "refreshMillis": 1677637633840
 }
