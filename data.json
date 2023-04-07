@@ -36,7 +36,7 @@
       "stars": 140,
       "forks": 32,
       "issues": 450,
-      "lastUpdate": "2023-04-06T07:21:28Z",
+      "lastUpdate": "2023-04-07T01:22:47Z",
       "languages": {
         "TypeScript": 36,
         "HTML": 15,
@@ -79,8 +79,8 @@
       "repositories": 65,
       "stars": 81,
       "forks": 39,
-      "issues": 337,
-      "lastUpdate": "2023-04-05T23:59:40Z",
+      "issues": 340,
+      "lastUpdate": "2023-04-06T21:42:40Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 18,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1680786593281
+  "refreshMillis": 1680832456247
 }
