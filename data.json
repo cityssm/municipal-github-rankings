@@ -36,7 +36,7 @@
       "stars": 140,
       "forks": 32,
       "issues": 455,
-      "lastUpdate": "2023-04-12T01:58:24Z",
+      "lastUpdate": "2023-04-13T01:25:44Z",
       "languages": {
         "TypeScript": 36,
         "HTML": 15,
@@ -77,13 +77,13 @@
       "municipality": "City of Toronto",
       "province": "Ontario",
       "repositories": 65,
-      "stars": 81,
+      "stars": 82,
       "forks": 39,
-      "issues": 342,
-      "lastUpdate": "2023-04-12T12:28:14Z",
+      "issues": 344,
+      "lastUpdate": "2023-04-13T00:50:48Z",
       "languages": {
-        "Jupyter Notebook": 11,
         "JavaScript": 18,
+        "Jupyter Notebook": 11,
         "Python": 10,
         "null": 14,
         "R": 3,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1681305045492
+  "refreshMillis": 1681351012594
 }
