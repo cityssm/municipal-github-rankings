@@ -7,8 +7,8 @@
       "repositories": 77,
       "stars": 159,
       "forks": 105,
-      "issues": 288,
-      "lastUpdate": "2023-04-17T13:14:05Z",
+      "issues": 292,
+      "lastUpdate": "2023-04-22T08:17:09Z",
       "languages": {
         "Mustache": 1,
         "Python": 8,
@@ -36,7 +36,7 @@
       "stars": 141,
       "forks": 32,
       "issues": 449,
-      "lastUpdate": "2023-04-22T01:31:03Z",
+      "lastUpdate": "2023-04-22T07:23:44Z",
       "languages": {
         "HTML": 15,
         "TypeScript": 36,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1682128758682
+  "refreshMillis": 1682168880791
 }
