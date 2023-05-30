@@ -7,8 +7,8 @@
       "repositories": 81,
       "stars": 161,
       "forks": 106,
-      "issues": 291,
-      "lastUpdate": "2023-05-26T18:38:14Z",
+      "issues": 290,
+      "lastUpdate": "2023-05-30T12:34:14Z",
       "languages": {
         "null": 21,
         "HTML": 2,
@@ -36,7 +36,7 @@
       "stars": 144,
       "forks": 31,
       "issues": 456,
-      "lastUpdate": "2023-05-30T01:41:16Z",
+      "lastUpdate": "2023-05-30T07:21:08Z",
       "languages": {
         "TypeScript": 37,
         "HTML": 15,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1685412366663
+  "refreshMillis": 1685452211788
 }
