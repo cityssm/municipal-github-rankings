@@ -7,8 +7,8 @@
       "repositories": 81,
       "stars": 161,
       "forks": 107,
-      "issues": 292,
-      "lastUpdate": "2023-06-14T19:19:22Z",
+      "issues": 294,
+      "lastUpdate": "2023-06-16T18:28:10Z",
       "languages": {
         "TypeScript": 18,
         "JavaScript": 6,
@@ -36,7 +36,7 @@
       "stars": 146,
       "forks": 31,
       "issues": 450,
-      "lastUpdate": "2023-06-16T02:09:07Z",
+      "lastUpdate": "2023-06-17T01:42:08Z",
       "languages": {
         "TypeScript": 38,
         "null": 9,
@@ -79,11 +79,11 @@
       "repositories": 65,
       "stars": 83,
       "forks": 39,
-      "issues": 359,
-      "lastUpdate": "2023-06-15T22:48:08Z",
+      "issues": 360,
+      "lastUpdate": "2023-06-16T22:39:27Z",
       "languages": {
-        "PLpgSQL": 3,
         "Jupyter Notebook": 11,
+        "PLpgSQL": 3,
         "JavaScript": 18,
         "Python": 10,
         "null": 14,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1686920975956
+  "refreshMillis": 1686967461831
 }
