@@ -5,10 +5,10 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 81,
-      "stars": 163,
+      "stars": 164,
       "forks": 109,
       "issues": 298,
-      "lastUpdate": "2023-07-16T22:53:06Z",
+      "lastUpdate": "2023-07-18T18:19:50Z",
       "languages": {
         "TypeScript": 18,
         "JavaScript": 6,
@@ -36,7 +36,7 @@
       "stars": 150,
       "forks": 32,
       "issues": 467,
-      "lastUpdate": "2023-07-18T09:26:43Z",
+      "lastUpdate": "2023-07-19T02:56:06Z",
       "languages": {
         "TypeScript": 38,
         "Markdown": 1,
@@ -79,8 +79,8 @@
       "repositories": 65,
       "stars": 84,
       "forks": 39,
-      "issues": 354,
-      "lastUpdate": "2023-07-17T21:21:32Z",
+      "issues": 355,
+      "lastUpdate": "2023-07-18T16:57:42Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1689686075602
+  "refreshMillis": 1689736630560
 }
