@@ -7,8 +7,8 @@
       "repositories": 81,
       "stars": 164,
       "forks": 109,
-      "issues": 298,
-      "lastUpdate": "2023-07-18T18:19:50Z",
+      "issues": 297,
+      "lastUpdate": "2023-07-19T23:27:54Z",
       "languages": {
         "TypeScript": 18,
         "JavaScript": 6,
@@ -32,13 +32,13 @@
       "handle": "cityssm",
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
-      "repositories": 124,
+      "repositories": 125,
       "stars": 150,
       "forks": 32,
       "issues": 468,
-      "lastUpdate": "2023-07-19T03:59:37Z",
+      "lastUpdate": "2023-07-20T01:38:23Z",
       "languages": {
-        "TypeScript": 38,
+        "TypeScript": 39,
         "Markdown": 1,
         "JavaScript": 26,
         "null": 29,
@@ -80,7 +80,7 @@
       "stars": 84,
       "forks": 39,
       "issues": 355,
-      "lastUpdate": "2023-07-18T16:57:42Z",
+      "lastUpdate": "2023-07-19T21:31:50Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1689772277588
+  "refreshMillis": 1689818437877
 }
