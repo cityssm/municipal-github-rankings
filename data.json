@@ -7,14 +7,14 @@
       "repositories": 81,
       "stars": 164,
       "forks": 109,
-      "issues": 297,
-      "lastUpdate": "2023-07-19T23:27:54Z",
+      "issues": 300,
+      "lastUpdate": "2023-07-25T16:09:13Z",
       "languages": {
         "TypeScript": 18,
+        "Mustache": 1,
         "JavaScript": 6,
         "null": 21,
         "HTML": 2,
-        "Mustache": 1,
         "Python": 8,
         "Go": 6,
         "C#": 1,
@@ -36,12 +36,12 @@
       "stars": 150,
       "forks": 32,
       "issues": 474,
-      "lastUpdate": "2023-07-25T02:14:08Z",
+      "lastUpdate": "2023-07-26T01:47:03Z",
       "languages": {
-        "null": 30,
-        "TypeScript": 39,
+        "TypeScript": 40,
         "Markdown": 1,
         "JavaScript": 26,
+        "null": 29,
         "HTML": 16,
         "Java": 4,
         "SCSS": 7,
@@ -79,8 +79,8 @@
       "repositories": 65,
       "stars": 84,
       "forks": 39,
-      "issues": 353,
-      "lastUpdate": "2023-07-24T20:23:43Z",
+      "issues": 355,
+      "lastUpdate": "2023-07-25T21:00:07Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -104,7 +104,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 80,
-      "lastUpdate": "2023-07-05T05:16:46Z",
+      "lastUpdate": "2023-07-25T21:53:58Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1690290831639
+  "refreshMillis": 1690337083065
 }
