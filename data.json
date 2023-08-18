@@ -6,7 +6,7 @@
       "province": "Quebec",
       "repositories": 81,
       "stars": 164,
-      "forks": 113,
+      "forks": 114,
       "issues": 302,
       "lastUpdate": "2023-08-16T14:58:02Z",
       "languages": {
@@ -36,7 +36,7 @@
       "stars": 153,
       "forks": 32,
       "issues": 477,
-      "lastUpdate": "2023-08-17T04:35:35Z",
+      "lastUpdate": "2023-08-18T01:13:10Z",
       "languages": {
         "HTML": 16,
         "TypeScript": 41,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 85,
       "forks": 39,
-      "issues": 361,
-      "lastUpdate": "2023-08-15T18:02:52Z",
+      "issues": 359,
+      "lastUpdate": "2023-08-17T21:18:18Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1692277670672
+  "refreshMillis": 1692322664634
 }
