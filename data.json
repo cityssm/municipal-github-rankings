@@ -33,10 +33,10 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 128,
-      "stars": 156,
+      "stars": 157,
       "forks": 32,
       "issues": 480,
-      "lastUpdate": "2023-09-03T02:26:53Z",
+      "lastUpdate": "2023-09-04T01:16:06Z",
       "languages": {
         "TypeScript": 42,
         "JavaScript": 26,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1693746375569
+  "refreshMillis": 1693791664710
 }
