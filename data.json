@@ -33,10 +33,10 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 128,
-      "stars": 157,
+      "stars": 158,
       "forks": 32,
       "issues": 482,
-      "lastUpdate": "2023-09-07T01:40:08Z",
+      "lastUpdate": "2023-09-08T01:16:00Z",
       "languages": {
         "TypeScript": 42,
         "JavaScript": 26,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 86,
       "forks": 39,
-      "issues": 364,
-      "lastUpdate": "2023-09-06T21:13:39Z",
+      "issues": 365,
+      "lastUpdate": "2023-09-07T20:59:15Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -104,7 +104,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 80,
-      "lastUpdate": "2023-08-03T20:23:14Z",
+      "lastUpdate": "2023-09-07T20:28:28Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1694092158350
+  "refreshMillis": 1694137239050
 }
