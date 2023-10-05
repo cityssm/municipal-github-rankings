@@ -6,9 +6,9 @@
       "province": "Quebec",
       "repositories": 81,
       "stars": 166,
-      "forks": 116,
-      "issues": 314,
-      "lastUpdate": "2023-10-04T12:53:20Z",
+      "forks": 117,
+      "issues": 315,
+      "lastUpdate": "2023-10-04T21:51:16Z",
       "languages": {
         "TypeScript": 18,
         "Mustache": 1,
@@ -33,10 +33,10 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 129,
-      "stars": 159,
+      "stars": 160,
       "forks": 32,
-      "issues": 481,
-      "lastUpdate": "2023-10-04T01:52:13Z",
+      "issues": 478,
+      "lastUpdate": "2023-10-05T01:17:17Z",
       "languages": {
         "HTML": 16,
         "JavaScript": 26,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 86,
       "forks": 39,
-      "issues": 368,
-      "lastUpdate": "2023-10-03T23:30:35Z",
+      "issues": 369,
+      "lastUpdate": "2023-10-04T20:56:31Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -303,5 +303,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1696425106284
+  "refreshMillis": 1696470275005
 }
