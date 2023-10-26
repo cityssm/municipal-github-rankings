@@ -6,9 +6,9 @@
       "province": "Quebec",
       "repositories": 81,
       "stars": 168,
-      "forks": 117,
-      "issues": 316,
-      "lastUpdate": "2023-10-20T14:47:50Z",
+      "forks": 118,
+      "issues": 317,
+      "lastUpdate": "2023-10-25T20:22:08Z",
       "languages": {
         "null": 21,
         "SCSS": 1,
@@ -36,7 +36,7 @@
       "stars": 162,
       "forks": 32,
       "issues": 492,
-      "lastUpdate": "2023-10-25T10:45:52Z",
+      "lastUpdate": "2023-10-26T01:15:19Z",
       "languages": {
         "TypeScript": 43,
         "JavaScript": 26,
@@ -58,7 +58,7 @@
       "stars": 93,
       "forks": 74,
       "issues": 50,
-      "lastUpdate": "2023-10-18T11:24:09Z",
+      "lastUpdate": "2023-10-25T18:42:44Z",
       "languages": {
         "Makefile": 1,
         "Python": 10,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 86,
       "forks": 40,
-      "issues": 368,
-      "lastUpdate": "2023-10-24T21:49:13Z",
+      "issues": 365,
+      "lastUpdate": "2023-10-25T19:56:22Z",
       "languages": {
         "JavaScript": 18,
         "Jupyter Notebook": 11,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1698239357272
+  "refreshMillis": 1698284394199
 }
