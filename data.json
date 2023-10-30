@@ -36,7 +36,7 @@
       "stars": 163,
       "forks": 32,
       "issues": 494,
-      "lastUpdate": "2023-10-29T02:29:12Z",
+      "lastUpdate": "2023-10-30T01:17:31Z",
       "languages": {
         "HTML": 16,
         "TypeScript": 43,
@@ -80,7 +80,7 @@
       "stars": 86,
       "forks": 40,
       "issues": 368,
-      "lastUpdate": "2023-10-27T21:05:04Z",
+      "lastUpdate": "2023-10-29T17:44:30Z",
       "languages": {
         "JavaScript": 18,
         "Jupyter Notebook": 11,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1698584822374
+  "refreshMillis": 1698630178060
 }
