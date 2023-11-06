@@ -35,8 +35,8 @@
       "repositories": 129,
       "stars": 163,
       "forks": 32,
-      "issues": 460,
-      "lastUpdate": "2023-11-06T01:30:42Z",
+      "issues": 468,
+      "lastUpdate": "2023-11-06T09:41:48Z",
       "languages": {
         "TypeScript": 45,
         "HTML": 16,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1699235193007
+  "refreshMillis": 1699276279668
 }
