@@ -8,7 +8,7 @@
       "stars": 170,
       "forks": 118,
       "issues": 316,
-      "lastUpdate": "2023-11-07T10:06:58Z",
+      "lastUpdate": "2023-11-09T20:42:35Z",
       "languages": {
         "TypeScript": 18,
         "null": 21,
@@ -36,7 +36,7 @@
       "stars": 166,
       "forks": 32,
       "issues": 479,
-      "lastUpdate": "2023-11-09T01:43:44Z",
+      "lastUpdate": "2023-11-10T01:18:08Z",
       "languages": {
         "TypeScript": 45,
         "HTML": 16,
@@ -80,7 +80,7 @@
       "stars": 87,
       "forks": 40,
       "issues": 377,
-      "lastUpdate": "2023-11-09T01:54:05Z",
+      "lastUpdate": "2023-11-09T20:24:50Z",
       "languages": {
         "JavaScript": 18,
         "Jupyter Notebook": 11,
@@ -104,7 +104,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 80,
-      "lastUpdate": "2023-10-05T16:41:32Z",
+      "lastUpdate": "2023-11-09T18:41:21Z",
       "languages": {
         "Dockerfile": 4,
         "null": 6,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1699535349091
+  "refreshMillis": 1699580603579
 }
