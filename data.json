@@ -8,7 +8,7 @@
       "stars": 170,
       "forks": 118,
       "issues": 316,
-      "lastUpdate": "2023-11-15T17:04:42Z",
+      "lastUpdate": "2023-11-16T21:19:52Z",
       "languages": {
         "TypeScript": 18,
         "null": 21,
@@ -35,8 +35,8 @@
       "repositories": 129,
       "stars": 167,
       "forks": 32,
-      "issues": 481,
-      "lastUpdate": "2023-11-16T01:49:28Z",
+      "issues": 480,
+      "lastUpdate": "2023-11-17T01:20:38Z",
       "languages": {
         "TypeScript": 45,
         "HTML": 16,
@@ -58,7 +58,7 @@
       "stars": 95,
       "forks": 74,
       "issues": 50,
-      "lastUpdate": "2023-11-15T12:55:35Z",
+      "lastUpdate": "2023-11-16T21:52:13Z",
       "languages": {
         "Makefile": 1,
         "Python": 10,
@@ -77,10 +77,10 @@
       "municipality": "City of Toronto",
       "province": "Ontario",
       "repositories": 64,
-      "stars": 87,
+      "stars": 88,
       "forks": 40,
-      "issues": 372,
-      "lastUpdate": "2023-11-15T23:09:23Z",
+      "issues": 371,
+      "lastUpdate": "2023-11-16T20:48:26Z",
       "languages": {
         "JavaScript": 18,
         "Jupyter Notebook": 11,
@@ -121,7 +121,7 @@
       "stars": 8,
       "forks": 6,
       "issues": 18,
-      "lastUpdate": "2023-10-11T13:34:10Z",
+      "lastUpdate": "2023-11-16T20:39:05Z",
       "languages": {
         "JavaScript": 8,
         "PHP": 10,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1700140241687
+  "refreshMillis": 1700185743640
 }
