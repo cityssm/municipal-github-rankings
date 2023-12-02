@@ -36,7 +36,7 @@
       "stars": 169,
       "forks": 32,
       "issues": 462,
-      "lastUpdate": "2023-12-02T01:17:46Z",
+      "lastUpdate": "2023-12-02T01:42:11Z",
       "languages": {
         "TypeScript": 46,
         "HTML": 16,
@@ -55,14 +55,14 @@
       "municipality": "City of Edmonton",
       "province": "Alberta",
       "repositories": 33,
-      "stars": 96,
+      "stars": 97,
       "forks": 75,
       "issues": 50,
-      "lastUpdate": "2023-11-24T17:40:05Z",
+      "lastUpdate": "2023-12-02T09:31:24Z",
       "languages": {
+        "JavaScript": 8,
         "Makefile": 1,
         "Python": 10,
-        "JavaScript": 8,
         "C#": 3,
         "R": 2,
         "Smarty": 1,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1701481331426
+  "refreshMillis": 1701522437018
 }
