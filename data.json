@@ -1,6 +1,28 @@
 {
   "organizations": [
     {
+      "handle": "cityssm",
+      "municipality": "City of Sault Ste. Marie",
+      "province": "Ontario",
+      "repositories": 129,
+      "stars": 170,
+      "forks": 32,
+      "issues": 462,
+      "lastUpdate": "2023-12-03T01:24:28Z",
+      "languages": {
+        "Java": 4,
+        "TypeScript": 46,
+        "HTML": 16,
+        "JavaScript": 23,
+        "Markdown": 1,
+        "null": 29,
+        "SCSS": 7,
+        "ASP": 1,
+        "Classic ASP": 1,
+        "CSS": 1
+      }
+    },
+    {
       "handle": "VilledeMontreal",
       "municipality": "Ville de Montréal",
       "province": "Quebec",
@@ -26,28 +48,6 @@
         "CSS": 1,
         "Swift": 1,
         "Dockerfile": 1
-      }
-    },
-    {
-      "handle": "cityssm",
-      "municipality": "City of Sault Ste. Marie",
-      "province": "Ontario",
-      "repositories": 129,
-      "stars": 169,
-      "forks": 32,
-      "issues": 462,
-      "lastUpdate": "2023-12-02T01:42:11Z",
-      "languages": {
-        "TypeScript": 46,
-        "HTML": 16,
-        "JavaScript": 23,
-        "Markdown": 1,
-        "null": 29,
-        "Java": 4,
-        "SCSS": 7,
-        "ASP": 1,
-        "Classic ASP": 1,
-        "CSS": 1
       }
     },
     {
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1701522437018
+  "refreshMillis": 1701568344924
 }
