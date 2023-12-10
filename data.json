@@ -8,7 +8,7 @@
       "stars": 171,
       "forks": 32,
       "issues": 463,
-      "lastUpdate": "2023-12-09T01:44:12Z",
+      "lastUpdate": "2023-12-10T01:26:00Z",
       "languages": {
         "TypeScript": 45,
         "HTML": 16,
@@ -30,7 +30,7 @@
       "stars": 170,
       "forks": 118,
       "issues": 279,
-      "lastUpdate": "2023-12-08T15:06:17Z",
+      "lastUpdate": "2023-12-10T00:20:21Z",
       "languages": {
         "TypeScript": 18,
         "null": 21,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1702127240184
+  "refreshMillis": 1702173234062
 }
