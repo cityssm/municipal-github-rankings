@@ -7,12 +7,12 @@
       "repositories": 129,
       "stars": 171,
       "forks": 32,
-      "issues": 467,
-      "lastUpdate": "2023-12-11T09:43:28Z",
+      "issues": 464,
+      "lastUpdate": "2023-12-12T01:21:40Z",
       "languages": {
-        "TypeScript": 45,
+        "TypeScript": 46,
         "HTML": 16,
-        "JavaScript": 24,
+        "JavaScript": 23,
         "Java": 4,
         "Markdown": 1,
         "null": 29,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 89,
       "forks": 42,
-      "issues": 374,
-      "lastUpdate": "2023-12-08T22:25:36Z",
+      "issues": 375,
+      "lastUpdate": "2023-12-11T21:28:16Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1702300268326
+  "refreshMillis": 1702345888955
 }
