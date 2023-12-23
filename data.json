@@ -5,14 +5,14 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 131,
-      "stars": 171,
+      "stars": 172,
       "forks": 32,
       "issues": 474,
-      "lastUpdate": "2023-12-22T01:44:24Z",
+      "lastUpdate": "2023-12-23T01:16:40Z",
       "languages": {
+        "HTML": 16,
         "TypeScript": 47,
         "SCSS": 8,
-        "HTML": 16,
         "JavaScript": 23,
         "Java": 4,
         "Markdown": 1,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 89,
       "forks": 42,
-      "issues": 387,
-      "lastUpdate": "2023-12-21T22:25:07Z",
+      "issues": 391,
+      "lastUpdate": "2023-12-22T16:44:56Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1703250520699
+  "refreshMillis": 1703295678807
 }
