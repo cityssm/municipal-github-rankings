@@ -5,15 +5,15 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 131,
-      "stars": 178,
+      "stars": 179,
       "forks": 33,
       "issues": 470,
-      "lastUpdate": "2024-01-12T01:22:22Z",
+      "lastUpdate": "2024-01-12T12:40:35Z",
       "languages": {
+        "JavaScript": 23,
         "TypeScript": 47,
         "SCSS": 8,
         "HTML": 16,
-        "JavaScript": 23,
         "Java": 4,
         "Markdown": 1,
         "null": 29,
@@ -27,14 +27,14 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 81,
-      "stars": 171,
+      "stars": 172,
       "forks": 118,
       "issues": 275,
-      "lastUpdate": "2024-01-11T05:21:05Z",
+      "lastUpdate": "2024-01-12T03:50:03Z",
       "languages": {
+        "TypeScript": 18,
         "Python": 8,
         "JavaScript": 6,
-        "TypeScript": 18,
         "null": 21,
         "SCSS": 1,
         "HTML": 2,
@@ -55,16 +55,16 @@
       "municipality": "City of Edmonton",
       "province": "Alberta",
       "repositories": 33,
-      "stars": 98,
+      "stars": 99,
       "forks": 75,
       "issues": 50,
-      "lastUpdate": "2023-12-31T13:09:24Z",
+      "lastUpdate": "2024-01-12T10:23:41Z",
       "languages": {
+        "R": 2,
         "C#": 3,
         "JavaScript": 8,
         "Makefile": 1,
         "Python": 10,
-        "R": 2,
         "Smarty": 1,
         "null": 5,
         "HTML": 1,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1705024327833
+  "refreshMillis": 1705064994893
 }
