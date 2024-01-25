@@ -8,7 +8,7 @@
       "stars": 179,
       "forks": 34,
       "issues": 485,
-      "lastUpdate": "2024-01-24T09:54:46Z",
+      "lastUpdate": "2024-01-25T01:23:45Z",
       "languages": {
         "TypeScript": 48,
         "JavaScript": 23,
@@ -27,10 +27,10 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 81,
-      "stars": 172,
-      "forks": 123,
-      "issues": 280,
-      "lastUpdate": "2024-01-23T20:46:04Z",
+      "stars": 173,
+      "forks": 124,
+      "issues": 282,
+      "lastUpdate": "2024-01-24T22:40:15Z",
       "languages": {
         "TypeScript": 18,
         "Python": 8,
@@ -80,7 +80,7 @@
       "stars": 89,
       "forks": 42,
       "issues": 398,
-      "lastUpdate": "2024-01-23T21:25:05Z",
+      "lastUpdate": "2024-01-24T22:10:51Z",
       "languages": {
         "null": 14,
         "JavaScript": 18,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1706101854328
+  "refreshMillis": 1706147633052
 }
