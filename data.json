@@ -8,7 +8,7 @@
       "stars": 179,
       "forks": 34,
       "issues": 472,
-      "lastUpdate": "2024-02-23T09:25:10Z",
+      "lastUpdate": "2024-02-24T01:12:44Z",
       "languages": {
         "null": 30,
         "HTML": 17,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 92,
       "forks": 42,
-      "issues": 406,
-      "lastUpdate": "2024-02-22T21:26:30Z",
+      "issues": 402,
+      "lastUpdate": "2024-02-23T19:42:31Z",
       "languages": {
         "Jupyter Notebook": 11,
         "null": 14,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1708693659287
+  "refreshMillis": 1708738557682
 }
