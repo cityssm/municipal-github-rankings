@@ -8,7 +8,7 @@
       "stars": 179,
       "forks": 34,
       "issues": 472,
-      "lastUpdate": "2024-02-25T01:19:59Z",
+      "lastUpdate": "2024-02-25T02:27:21Z",
       "languages": {
         "null": 30,
         "HTML": 17,
@@ -55,10 +55,10 @@
       "municipality": "City of Edmonton",
       "province": "Alberta",
       "repositories": 33,
-      "stars": 96,
+      "stars": 97,
       "forks": 75,
       "issues": 50,
-      "lastUpdate": "2024-02-02T15:48:24Z",
+      "lastUpdate": "2024-02-25T09:11:28Z",
       "languages": {
         "Makefile": 1,
         "R": 2,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1708825365473
+  "refreshMillis": 1708866443813
 }
