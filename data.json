@@ -8,7 +8,7 @@
       "stars": 180,
       "forks": 34,
       "issues": 476,
-      "lastUpdate": "2024-03-13T01:42:05Z",
+      "lastUpdate": "2024-03-14T01:15:35Z",
       "languages": {
         "HTML": 17,
         "JavaScript": 22,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 93,
       "forks": 42,
-      "issues": 389,
-      "lastUpdate": "2024-03-12T23:08:01Z",
+      "issues": 392,
+      "lastUpdate": "2024-03-13T20:13:17Z",
       "languages": {
         "R": 3,
         "JavaScript": 18,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1710335223882
+  "refreshMillis": 1710380357385
 }
