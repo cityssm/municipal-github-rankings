@@ -4,13 +4,13 @@
       "handle": "cityssm",
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
-      "repositories": 141,
+      "repositories": 142,
       "stars": 188,
       "forks": 34,
-      "issues": 465,
-      "lastUpdate": "2024-04-05T09:17:21Z",
+      "issues": 458,
+      "lastUpdate": "2024-04-06T01:15:16Z",
       "languages": {
-        "TypeScript": 56,
+        "TypeScript": 57,
         "Java": 4,
         "HTML": 17,
         "JavaScript": 22,
@@ -30,7 +30,7 @@
       "stars": 178,
       "forks": 127,
       "issues": 286,
-      "lastUpdate": "2024-04-04T16:58:55Z",
+      "lastUpdate": "2024-04-05T17:58:21Z",
       "languages": {
         "null": 21,
         "TypeScript": 18,
@@ -55,13 +55,13 @@
       "municipality": "City of Edmonton",
       "province": "Alberta",
       "repositories": 33,
-      "stars": 97,
+      "stars": 98,
       "forks": 75,
       "issues": 50,
-      "lastUpdate": "2024-04-04T16:00:46Z",
+      "lastUpdate": "2024-04-06T00:26:57Z",
       "languages": {
-        "Python": 10,
         "Makefile": 1,
+        "Python": 10,
         "R": 2,
         "C#": 3,
         "JavaScript": 8,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 93,
       "forks": 42,
-      "issues": 393,
-      "lastUpdate": "2024-04-04T22:37:48Z",
+      "issues": 394,
+      "lastUpdate": "2024-04-05T21:20:57Z",
       "languages": {
         "R": 3,
         "JavaScript": 18,
@@ -314,5 +314,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1712322493192
+  "refreshMillis": 1712367529295
 }
