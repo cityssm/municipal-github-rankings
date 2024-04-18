@@ -8,7 +8,7 @@
       "stars": 189,
       "forks": 35,
       "issues": 483,
-      "lastUpdate": "2024-04-17T01:41:39Z",
+      "lastUpdate": "2024-04-18T01:17:21Z",
       "languages": {
         "TypeScript": 58,
         "Java": 4,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 93,
       "forks": 42,
-      "issues": 400,
-      "lastUpdate": "2024-04-17T12:56:48Z",
+      "issues": 397,
+      "lastUpdate": "2024-04-17T23:28:24Z",
       "languages": {
         "R": 3,
         "JavaScript": 18,
@@ -202,6 +202,21 @@
       }
     },
     {
+      "handle": "CityofRichmond",
+      "municipality": "City of Richmond",
+      "province": "British Columbia",
+      "repositories": 3,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2024-04-17T21:16:22Z",
+      "languages": {
+        "null": 1,
+        "Go": 1,
+        "Java": 1
+      }
+    },
+    {
       "handle": "CityOfSarnia",
       "municipality": "City of Sarnia",
       "province": "Ontario",
@@ -229,20 +244,6 @@
         "JavaScript": 1,
         "HTML": 1,
         "PHP": 1
-      }
-    },
-    {
-      "handle": "CityofRichmond",
-      "municipality": "City of Richmond",
-      "province": "British Columbia",
-      "repositories": 2,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2019-12-12T00:57:46Z",
-      "languages": {
-        "Go": 1,
-        "Java": 1
       }
     },
     {
@@ -314,5 +315,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1713359256472
+  "refreshMillis": 1713404470730
 }
