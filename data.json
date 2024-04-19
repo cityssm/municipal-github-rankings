@@ -4,16 +4,16 @@
       "handle": "cityssm",
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
-      "repositories": 143,
+      "repositories": 144,
       "stars": 189,
       "forks": 35,
-      "issues": 483,
-      "lastUpdate": "2024-04-18T01:41:11Z",
+      "issues": 481,
+      "lastUpdate": "2024-04-19T01:18:44Z",
       "languages": {
+        "JavaScript": 23,
         "TypeScript": 58,
         "Java": 4,
         "HTML": 17,
-        "JavaScript": 22,
         "null": 30,
         "SCSS": 8,
         "Markdown": 1,
@@ -27,14 +27,14 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 81,
-      "stars": 178,
+      "stars": 179,
       "forks": 126,
       "issues": 285,
-      "lastUpdate": "2024-04-16T22:21:05Z",
+      "lastUpdate": "2024-04-18T19:58:52Z",
       "languages": {
+        "TypeScript": 18,
         "SCSS": 1,
         "null": 21,
-        "TypeScript": 18,
         "Python": 8,
         "JavaScript": 6,
         "HTML": 2,
@@ -79,8 +79,8 @@
       "repositories": 64,
       "stars": 93,
       "forks": 42,
-      "issues": 397,
-      "lastUpdate": "2024-04-17T23:28:24Z",
+      "issues": 399,
+      "lastUpdate": "2024-04-18T21:08:09Z",
       "languages": {
         "R": 3,
         "JavaScript": 18,
@@ -263,12 +263,14 @@
       "handle": "cityofkamloops",
       "municipality": "City of Kamloops",
       "province": "British Columbia",
-      "repositories": 0,
+      "repositories": 1,
       "stars": 0,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "",
-      "languages": {}
+      "lastUpdate": "2024-04-18T22:19:47Z",
+      "languages": {
+        "Dockerfile": 1
+      }
     },
     {
       "handle": "cityofvancouver",
@@ -315,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1713445658739
+  "refreshMillis": 1713490949028
 }
