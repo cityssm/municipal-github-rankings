@@ -7,11 +7,11 @@
       "repositories": 149,
       "stars": 195,
       "forks": 36,
-      "issues": 473,
-      "lastUpdate": "2024-05-28T01:22:40Z",
+      "issues": 474,
+      "lastUpdate": "2024-05-28T09:32:33Z",
       "languages": {
-        "Markdown": 1,
         "HTML": 18,
+        "Markdown": 1,
         "TypeScript": 62,
         "JavaScript": 23,
         "SCSS": 8,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1716861155432
+  "refreshMillis": 1716901788897
 }
