@@ -5,16 +5,16 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 149,
-      "stars": 195,
+      "stars": 196,
       "forks": 36,
       "issues": 474,
-      "lastUpdate": "2024-05-28T09:32:33Z",
+      "lastUpdate": "2024-05-29T01:26:24Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "TypeScript": 62,
-        "JavaScript": 23,
         "SCSS": 8,
+        "JavaScript": 23,
         "Java": 4,
         "null": 30,
         "ASP": 1,
@@ -30,10 +30,10 @@
       "stars": 181,
       "forks": 127,
       "issues": 279,
-      "lastUpdate": "2024-05-18T22:58:31Z",
+      "lastUpdate": "2024-05-28T19:33:21Z",
       "languages": {
-        "TypeScript": 18,
         "SCSS": 1,
+        "TypeScript": 18,
         "null": 26,
         "Python": 9,
         "JavaScript": 6,
@@ -57,8 +57,8 @@
       "repositories": 33,
       "stars": 98,
       "forks": 75,
-      "issues": 50,
-      "lastUpdate": "2024-04-06T00:26:57Z",
+      "issues": 51,
+      "lastUpdate": "2024-05-28T21:48:08Z",
       "languages": {
         "Makefile": 1,
         "Python": 10,
@@ -79,8 +79,8 @@
       "repositories": 63,
       "stars": 94,
       "forks": 43,
-      "issues": 387,
-      "lastUpdate": "2024-05-27T22:04:36Z",
+      "issues": 392,
+      "lastUpdate": "2024-05-28T21:07:07Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1716901788897
+  "refreshMillis": 1716947686565
 }
