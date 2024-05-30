@@ -8,10 +8,10 @@
       "stars": 196,
       "forks": 36,
       "issues": 474,
-      "lastUpdate": "2024-05-29T01:54:50Z",
+      "lastUpdate": "2024-05-30T01:23:08Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "TypeScript": 62,
         "SCSS": 8,
         "JavaScript": 23,
@@ -30,7 +30,7 @@
       "stars": 181,
       "forks": 127,
       "issues": 279,
-      "lastUpdate": "2024-05-28T19:33:21Z",
+      "lastUpdate": "2024-05-29T20:59:06Z",
       "languages": {
         "SCSS": 1,
         "TypeScript": 18,
@@ -57,12 +57,12 @@
       "repositories": 33,
       "stars": 98,
       "forks": 75,
-      "issues": 51,
-      "lastUpdate": "2024-05-28T21:48:08Z",
+      "issues": 50,
+      "lastUpdate": "2024-05-29T14:33:19Z",
       "languages": {
+        "R": 2,
         "Makefile": 1,
         "Python": 10,
-        "R": 2,
         "C#": 3,
         "JavaScript": 8,
         "Smarty": 1,
@@ -79,11 +79,11 @@
       "repositories": 63,
       "stars": 94,
       "forks": 43,
-      "issues": 392,
-      "lastUpdate": "2024-05-28T21:07:07Z",
+      "issues": 389,
+      "lastUpdate": "2024-05-29T17:55:15Z",
       "languages": {
-        "JavaScript": 17,
         "Jupyter Notebook": 11,
+        "JavaScript": 17,
         "null": 14,
         "TSQL": 1,
         "Python": 9,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1716988187773
+  "refreshMillis": 1717034006710
 }
