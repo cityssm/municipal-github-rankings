@@ -8,12 +8,12 @@
       "stars": 205,
       "forks": 38,
       "issues": 523,
-      "lastUpdate": "2024-07-09T09:46:48Z",
+      "lastUpdate": "2024-07-10T01:34:02Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
-        "null": 31,
         "TypeScript": 66,
+        "HTML": 18,
+        "null": 31,
         "JavaScript": 21,
         "SCSS": 8,
         "Java": 4,
@@ -29,8 +29,8 @@
       "repositories": 87,
       "stars": 181,
       "forks": 128,
-      "issues": 288,
-      "lastUpdate": "2024-07-08T19:55:45Z",
+      "issues": 289,
+      "lastUpdate": "2024-07-09T18:24:28Z",
       "languages": {
         "TypeScript": 18,
         "null": 26,
@@ -78,9 +78,9 @@
       "province": "Ontario",
       "repositories": 63,
       "stars": 96,
-      "forks": 43,
-      "issues": 366,
-      "lastUpdate": "2024-07-09T12:01:25Z",
+      "forks": 44,
+      "issues": 370,
+      "lastUpdate": "2024-07-09T22:07:42Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1720530732407
+  "refreshMillis": 1720576644551
 }
