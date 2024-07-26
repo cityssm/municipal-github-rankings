@@ -8,14 +8,14 @@
       "stars": 209,
       "forks": 38,
       "issues": 515,
-      "lastUpdate": "2024-07-25T01:58:11Z",
+      "lastUpdate": "2024-07-26T01:34:07Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 19,
         "TypeScript": 68,
         "JavaScript": 21,
         "null": 31,
-        "SCSS": 8,
+        "SCSS": 7,
         "Java": 4,
         "ASP": 1,
         "Classic ASP": 1,
@@ -79,11 +79,11 @@
       "repositories": 63,
       "stars": 96,
       "forks": 44,
-      "issues": 354,
-      "lastUpdate": "2024-07-24T21:04:57Z",
+      "issues": 352,
+      "lastUpdate": "2024-07-25T21:06:16Z",
       "languages": {
-        "JavaScript": 17,
         "Jupyter Notebook": 11,
+        "JavaScript": 17,
         "null": 14,
         "TSQL": 1,
         "Python": 9,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1721913124553
+  "refreshMillis": 1721959060932
 }
