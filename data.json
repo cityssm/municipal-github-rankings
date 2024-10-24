@@ -4,15 +4,15 @@
       "handle": "cityssm",
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
-      "repositories": 161,
+      "repositories": 162,
       "stars": 213,
       "forks": 40,
-      "issues": 522,
-      "lastUpdate": "2024-10-23T02:12:00Z",
+      "issues": 515,
+      "lastUpdate": "2024-10-24T01:47:04Z",
       "languages": {
-        "HTML": 19,
         "Markdown": 1,
-        "TypeScript": 70,
+        "TypeScript": 71,
+        "HTML": 19,
         "JavaScript": 24,
         "null": 33,
         "Java": 4,
@@ -55,10 +55,10 @@
       "municipality": "City of Edmonton",
       "province": "Alberta",
       "repositories": 34,
-      "stars": 105,
+      "stars": 106,
       "forks": 76,
       "issues": 50,
-      "lastUpdate": "2024-10-20T12:36:19Z",
+      "lastUpdate": "2024-10-23T14:55:20Z",
       "languages": {
         "Makefile": 1,
         "R": 2,
@@ -318,5 +318,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1729689512997
+  "refreshMillis": 1729735927909
 }
