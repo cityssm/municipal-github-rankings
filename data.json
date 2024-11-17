@@ -8,12 +8,12 @@
       "stars": 213,
       "forks": 40,
       "issues": 507,
-      "lastUpdate": "2024-11-17T01:57:35Z",
+      "lastUpdate": "2024-11-17T03:05:46Z",
       "languages": {
-        "Markdown": 1,
-        "HTML": 19,
-        "TypeScript": 72,
         "JavaScript": 25,
+        "HTML": 19,
+        "Markdown": 1,
+        "TypeScript": 72,
         "null": 33,
         "Java": 4,
         "SCSS": 7,
@@ -318,5 +318,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1731810114665
+  "refreshMillis": 1731849341412
 }
