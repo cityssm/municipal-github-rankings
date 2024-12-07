@@ -7,13 +7,13 @@
       "repositories": 166,
       "stars": 215,
       "forks": 40,
-      "issues": 523,
-      "lastUpdate": "2024-12-06T02:22:02Z",
+      "issues": 515,
+      "lastUpdate": "2024-12-07T01:54:49Z",
       "languages": {
-        "HTML": 19,
         "Markdown": 1,
-        "TypeScript": 72,
-        "JavaScript": 26,
+        "TypeScript": 71,
+        "JavaScript": 27,
+        "HTML": 19,
         "SCSS": 8,
         "Java": 4,
         "null": 33,
@@ -28,7 +28,7 @@
       "province": "Quebec",
       "repositories": 87,
       "stars": 187,
-      "forks": 132,
+      "forks": 133,
       "issues": 300,
       "lastUpdate": "2024-12-03T21:49:14Z",
       "languages": {
@@ -80,7 +80,7 @@
       "stars": 100,
       "forks": 45,
       "issues": 345,
-      "lastUpdate": "2024-12-05T21:22:44Z",
+      "lastUpdate": "2024-12-06T22:46:29Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -318,5 +318,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1733491264186
+  "refreshMillis": 1733538019098
 }
