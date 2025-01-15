@@ -4,16 +4,16 @@
       "handle": "cityssm",
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
-      "repositories": 166,
+      "repositories": 167,
       "stars": 224,
       "forks": 40,
-      "issues": 496,
-      "lastUpdate": "2025-01-15T02:08:34Z",
+      "issues": 495,
+      "lastUpdate": "2025-01-15T18:01:39Z",
       "languages": {
+        "TypeScript": 67,
+        "JavaScript": 32,
         "HTML": 19,
         "Markdown": 1,
-        "JavaScript": 30,
-        "TypeScript": 68,
         "SCSS": 8,
         "Java": 4,
         "null": 33,
@@ -29,8 +29,8 @@
       "repositories": 87,
       "stars": 187,
       "forks": 133,
-      "issues": 301,
-      "lastUpdate": "2025-01-06T20:59:00Z",
+      "issues": 300,
+      "lastUpdate": "2025-01-15T17:26:52Z",
       "languages": {
         "SCSS": 1,
         "null": 26,
@@ -79,12 +79,12 @@
       "repositories": 63,
       "stars": 102,
       "forks": 45,
-      "issues": 343,
-      "lastUpdate": "2025-01-15T06:22:55Z",
+      "issues": 345,
+      "lastUpdate": "2025-01-15T15:55:04Z",
       "languages": {
+        "JavaScript": 17,
         "null": 14,
         "Jupyter Notebook": 11,
-        "JavaScript": 17,
         "PLpgSQL": 3,
         "TSQL": 1,
         "Python": 9,
@@ -318,5 +318,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1736946952186
+  "refreshMillis": 1736964505340
 }
