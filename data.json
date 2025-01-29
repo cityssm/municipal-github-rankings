@@ -5,14 +5,14 @@
       "municipality": "City of Sault Ste. Marie",
       "province": "Ontario",
       "repositories": 167,
-      "stars": 223,
+      "stars": 224,
       "forks": 40,
       "issues": 504,
-      "lastUpdate": "2025-01-28T08:33:29Z",
+      "lastUpdate": "2025-01-29T01:44:06Z",
       "languages": {
-        "HTML": 19,
         "Markdown": 1,
         "TypeScript": 67,
+        "HTML": 19,
         "JavaScript": 32,
         "null": 33,
         "SCSS": 8,
@@ -80,7 +80,7 @@
       "stars": 102,
       "forks": 45,
       "issues": 348,
-      "lastUpdate": "2025-01-27T16:20:12Z",
+      "lastUpdate": "2025-01-28T14:31:15Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 17,
@@ -100,16 +100,15 @@
       "handle": "cityofsurrey",
       "municipality": "City of Surrey",
       "province": "British Columbia",
-      "repositories": 20,
+      "repositories": 17,
       "stars": 10,
       "forks": 14,
-      "issues": 80,
+      "issues": 30,
       "lastUpdate": "2025-01-09T02:16:13Z",
       "languages": {
         "Dockerfile": 4,
-        "null": 6,
-        "JavaScript": 8,
-        "Python": 1,
+        "null": 5,
+        "JavaScript": 7,
         "Makefile": 1
       }
     },
@@ -318,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1738070145577
+  "refreshMillis": 1738116453373
 }
