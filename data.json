@@ -8,12 +8,12 @@
       "stars": 224,
       "forks": 40,
       "issues": 504,
-      "lastUpdate": "2025-01-29T02:07:38Z",
+      "lastUpdate": "2025-01-30T01:43:09Z",
       "languages": {
-        "HTML": 19,
         "Markdown": 1,
         "TypeScript": 67,
         "JavaScript": 32,
+        "HTML": 19,
         "null": 33,
         "SCSS": 8,
         "Java": 4,
@@ -30,7 +30,7 @@
       "stars": 187,
       "forks": 128,
       "issues": 302,
-      "lastUpdate": "2025-01-27T18:37:29Z",
+      "lastUpdate": "2025-01-29T13:21:33Z",
       "languages": {
         "SCSS": 1,
         "null": 26,
@@ -79,8 +79,8 @@
       "repositories": 63,
       "stars": 102,
       "forks": 45,
-      "issues": 348,
-      "lastUpdate": "2025-01-28T14:31:15Z",
+      "issues": 350,
+      "lastUpdate": "2025-01-29T18:47:40Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 17,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1738156584906
+  "refreshMillis": 1738202790883
 }
