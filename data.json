@@ -8,7 +8,7 @@
       "stars": 228,
       "forks": 43,
       "issues": 515,
-      "lastUpdate": "2025-03-10T11:58:59Z",
+      "lastUpdate": "2025-03-11T01:52:54Z",
       "languages": {
         "Markdown": 1,
         "HTML": 19,
@@ -26,15 +26,15 @@
       "handle": "VilledeMontreal",
       "municipality": "Ville de Montréal",
       "province": "Quebec",
-      "repositories": 87,
+      "repositories": 88,
       "stars": 188,
       "forks": 130,
       "issues": 308,
-      "lastUpdate": "2025-03-08T01:39:03Z",
+      "lastUpdate": "2025-03-10T15:14:20Z",
       "languages": {
+        "null": 27,
         "SCSS": 1,
         "TypeScript": 18,
-        "null": 26,
         "Python": 9,
         "JavaScript": 6,
         "HTML": 2,
@@ -79,8 +79,8 @@
       "repositories": 63,
       "stars": 104,
       "forks": 45,
-      "issues": 362,
-      "lastUpdate": "2025-03-07T22:02:56Z",
+      "issues": 368,
+      "lastUpdate": "2025-03-10T20:11:11Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 17,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1741612805593
+  "refreshMillis": 1741659430867
 }
