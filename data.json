@@ -7,12 +7,12 @@
       "repositories": 170,
       "stars": 229,
       "forks": 43,
-      "issues": 512,
-      "lastUpdate": "2025-03-20T02:17:36Z",
+      "issues": 511,
+      "lastUpdate": "2025-03-21T01:54:58Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
         "TypeScript": 69,
+        "HTML": 18,
         "CSS": 2,
         "JavaScript": 33,
         "SCSS": 8,
@@ -78,7 +78,7 @@
       "province": "Ontario",
       "repositories": 63,
       "stars": 104,
-      "forks": 45,
+      "forks": 44,
       "issues": 377,
       "lastUpdate": "2025-03-19T16:31:13Z",
       "languages": {
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1742476753174
+  "refreshMillis": 1742523574510
 }
