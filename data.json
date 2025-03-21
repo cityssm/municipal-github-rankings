@@ -8,11 +8,11 @@
       "stars": 229,
       "forks": 43,
       "issues": 511,
-      "lastUpdate": "2025-03-21T01:54:58Z",
+      "lastUpdate": "2025-03-21T13:13:37Z",
       "languages": {
-        "Markdown": 1,
         "TypeScript": 69,
         "HTML": 18,
+        "Markdown": 1,
         "CSS": 2,
         "JavaScript": 33,
         "SCSS": 8,
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1742523574510
+  "refreshMillis": 1742563158704
 }
