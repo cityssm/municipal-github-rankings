@@ -8,10 +8,10 @@
       "stars": 234,
       "forks": 44,
       "issues": 530,
-      "lastUpdate": "2025-05-11T09:54:44Z",
+      "lastUpdate": "2025-05-12T02:06:30Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "TypeScript": 70,
         "JavaScript": 33,
         "Java": 4,
@@ -28,7 +28,7 @@
       "province": "Quebec",
       "repositories": 88,
       "stars": 189,
-      "forks": 129,
+      "forks": 131,
       "issues": 305,
       "lastUpdate": "2025-05-10T00:44:05Z",
       "languages": {
@@ -317,5 +317,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1746969488592
+  "refreshMillis": 1747017566443
 }
