@@ -8,10 +8,10 @@
       "stars": 235,
       "forks": 42,
       "issues": 526,
-      "lastUpdate": "2025-05-28T02:38:24Z",
+      "lastUpdate": "2025-05-29T02:04:49Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "TypeScript": 70,
         "JavaScript": 33,
         "CSS": 2,
@@ -80,7 +80,7 @@
       "stars": 103,
       "forks": 44,
       "issues": 374,
-      "lastUpdate": "2025-05-28T13:10:35Z",
+      "lastUpdate": "2025-05-28T15:50:37Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 17,
@@ -260,6 +260,20 @@
       }
     },
     {
+      "handle": "cityofvancouver",
+      "municipality": "City of Vancouver",
+      "province": "British Columbia",
+      "repositories": 2,
+      "stars": 0,
+      "forks": 0,
+      "issues": 1,
+      "lastUpdate": "2025-05-28T19:34:16Z",
+      "languages": {
+        "JavaScript": 1,
+        "null": 1
+      }
+    },
+    {
       "handle": "RegionofPeel",
       "municipality": "Region of Peel",
       "province": "Ontario",
@@ -270,19 +284,6 @@
       "lastUpdate": "2022-09-19T14:18:17Z",
       "languages": {
         "null": 2
-      }
-    },
-    {
-      "handle": "cityofvancouver",
-      "municipality": "City of Vancouver",
-      "province": "British Columbia",
-      "repositories": 1,
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2025-05-20T23:19:33Z",
-      "languages": {
-        "null": 1
       }
     },
     {
@@ -319,5 +320,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1748438778470
+  "refreshMillis": 1748486289103
 }
