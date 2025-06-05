@@ -8,10 +8,10 @@
       "stars": 237,
       "forks": 44,
       "issues": 528,
-      "lastUpdate": "2025-06-04T02:40:59Z",
+      "lastUpdate": "2025-06-05T02:05:44Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "TypeScript": 69,
         "JavaScript": 34,
         "CSS": 2,
@@ -28,7 +28,7 @@
       "province": "Quebec",
       "repositories": 88,
       "stars": 190,
-      "forks": 131,
+      "forks": 132,
       "issues": 304,
       "lastUpdate": "2025-05-26T18:49:44Z",
       "languages": {
@@ -58,7 +58,7 @@
       "stars": 109,
       "forks": 76,
       "issues": 50,
-      "lastUpdate": "2025-06-03T20:43:59Z",
+      "lastUpdate": "2025-06-04T19:34:32Z",
       "languages": {
         "Jupyter Notebook": 1,
         "Makefile": 1,
@@ -81,10 +81,10 @@
       "stars": 103,
       "forks": 44,
       "issues": 351,
-      "lastUpdate": "2025-06-03T22:05:26Z",
+      "lastUpdate": "2025-06-04T20:25:05Z",
       "languages": {
-        "Jupyter Notebook": 11,
         "JavaScript": 17,
+        "Jupyter Notebook": 11,
         "null": 14,
         "PLpgSQL": 3,
         "TSQL": 1,
@@ -321,5 +321,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1749043678340
+  "refreshMillis": 1749091200179
 }
