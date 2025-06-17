@@ -8,10 +8,10 @@
       "stars": 238,
       "forks": 44,
       "issues": 529,
-      "lastUpdate": "2025-06-16T08:11:08Z",
+      "lastUpdate": "2025-06-17T02:08:14Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "JavaScript": 35,
         "TypeScript": 68,
         "CSS": 2,
@@ -28,7 +28,7 @@
       "province": "Quebec",
       "repositories": 88,
       "stars": 190,
-      "forks": 132,
+      "forks": 131,
       "issues": 305,
       "lastUpdate": "2025-06-12T13:28:33Z",
       "languages": {
@@ -80,8 +80,8 @@
       "repositories": 63,
       "stars": 103,
       "forks": 44,
-      "issues": 351,
-      "lastUpdate": "2025-06-16T12:54:21Z",
+      "issues": 352,
+      "lastUpdate": "2025-06-16T19:57:01Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -321,5 +321,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1750080454600
+  "refreshMillis": 1750128150288
 }
