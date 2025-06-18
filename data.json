@@ -8,10 +8,10 @@
       "stars": 238,
       "forks": 44,
       "issues": 529,
-      "lastUpdate": "2025-06-17T02:42:34Z",
+      "lastUpdate": "2025-06-18T02:07:04Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
+        "HTML": 18,
         "JavaScript": 35,
         "TypeScript": 68,
         "CSS": 2,
@@ -29,8 +29,8 @@
       "repositories": 88,
       "stars": 190,
       "forks": 131,
-      "issues": 305,
-      "lastUpdate": "2025-06-12T13:28:33Z",
+      "issues": 302,
+      "lastUpdate": "2025-06-17T21:54:43Z",
       "languages": {
         "TypeScript": 19,
         "Python": 9,
@@ -77,18 +77,18 @@
       "handle": "CityofToronto",
       "municipality": "City of Toronto",
       "province": "Ontario",
-      "repositories": 63,
+      "repositories": 64,
       "stars": 103,
       "forks": 44,
-      "issues": 353,
-      "lastUpdate": "2025-06-17T13:25:36Z",
+      "issues": 354,
+      "lastUpdate": "2025-06-17T18:52:27Z",
       "languages": {
+        "Python": 10,
         "JavaScript": 17,
         "Jupyter Notebook": 11,
         "null": 14,
         "PLpgSQL": 3,
         "TSQL": 1,
-        "Python": 9,
         "R": 3,
         "Apex": 1,
         "TypeScript": 1,
@@ -321,5 +321,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1750166792969
+  "refreshMillis": 1750214477456
 }
