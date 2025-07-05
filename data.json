@@ -8,11 +8,11 @@
       "stars": 240,
       "forks": 44,
       "issues": 528,
-      "lastUpdate": "2025-07-04T02:43:19Z",
+      "lastUpdate": "2025-07-05T02:04:13Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
         "TypeScript": 68,
+        "HTML": 18,
         "JavaScript": 36,
         "CSS": 2,
         "SCSS": 8,
@@ -30,7 +30,7 @@
       "stars": 195,
       "forks": 131,
       "issues": 300,
-      "lastUpdate": "2025-07-04T11:34:43Z",
+      "lastUpdate": "2025-07-04T19:54:37Z",
       "languages": {
         "null": 26,
         "TypeScript": 19,
@@ -81,7 +81,7 @@
       "stars": 103,
       "forks": 44,
       "issues": 351,
-      "lastUpdate": "2025-07-03T19:49:03Z",
+      "lastUpdate": "2025-07-04T19:21:01Z",
       "languages": {
         "Jupyter Notebook": 11,
         "Python": 10,
@@ -267,8 +267,8 @@
       "repositories": 2,
       "stars": 0,
       "forks": 0,
-      "issues": 1,
-      "lastUpdate": "2025-06-05T16:43:21Z",
+      "issues": 2,
+      "lastUpdate": "2025-07-04T21:58:55Z",
       "languages": {
         "JavaScript": 1,
         "null": 1
@@ -321,5 +321,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1751635518305
+  "refreshMillis": 1751683061957
 }
