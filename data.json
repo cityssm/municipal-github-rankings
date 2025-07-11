@@ -7,12 +7,12 @@
       "repositories": 174,
       "stars": 241,
       "forks": 44,
-      "issues": 526,
-      "lastUpdate": "2025-07-10T13:22:19Z",
+      "issues": 521,
+      "lastUpdate": "2025-07-11T02:19:54Z",
       "languages": {
+        "Markdown": 1,
         "TypeScript": 69,
         "HTML": 18,
-        "Markdown": 1,
         "JavaScript": 36,
         "CSS": 2,
         "SCSS": 8,
@@ -58,7 +58,7 @@
       "stars": 109,
       "forks": 76,
       "issues": 50,
-      "lastUpdate": "2025-06-10T00:27:45Z",
+      "lastUpdate": "2025-07-10T19:41:46Z",
       "languages": {
         "Jupyter Notebook": 1,
         "Makefile": 1,
@@ -81,7 +81,7 @@
       "stars": 103,
       "forks": 44,
       "issues": 356,
-      "lastUpdate": "2025-07-09T22:00:24Z",
+      "lastUpdate": "2025-07-10T20:53:01Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -137,13 +137,13 @@
       "municipality": "City of Kamloops",
       "province": "British Columbia",
       "repositories": 2,
-      "stars": 2,
+      "stars": 4,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "2025-06-27T22:16:15Z",
+      "lastUpdate": "2025-07-10T17:45:37Z",
       "languages": {
-        "Python": 1,
-        "Dockerfile": 1
+        "Dockerfile": 1,
+        "Python": 1
       }
     },
     {
@@ -253,11 +253,11 @@
       "stars": 0,
       "forks": 1,
       "issues": 3,
-      "lastUpdate": "2023-04-12T04:48:18Z",
+      "lastUpdate": "2025-07-10T15:20:04Z",
       "languages": {
         "JavaScript": 1,
-        "HTML": 1,
-        "PHP": 1
+        "PHP": 1,
+        "HTML": 1
       }
     },
     {
@@ -321,5 +321,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1752154091425
+  "refreshMillis": 1752202181946
 }
