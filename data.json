@@ -7,13 +7,13 @@
       "repositories": 174,
       "stars": 241,
       "forks": 44,
-      "issues": 526,
-      "lastUpdate": "2025-07-14T12:06:20Z",
+      "issues": 528,
+      "lastUpdate": "2025-07-15T02:23:40Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
-        "JavaScript": 37,
         "TypeScript": 68,
+        "HTML": 18,
+        "JavaScript": 37,
         "CSS": 2,
         "SCSS": 8,
         "Java": 4,
@@ -29,7 +29,7 @@
       "repositories": 88,
       "stars": 194,
       "forks": 131,
-      "issues": 300,
+      "issues": 301,
       "lastUpdate": "2025-07-05T18:43:02Z",
       "languages": {
         "TypeScript": 19,
@@ -81,13 +81,13 @@
       "stars": 103,
       "forks": 44,
       "issues": 354,
-      "lastUpdate": "2025-07-11T20:54:41Z",
+      "lastUpdate": "2025-07-14T20:38:14Z",
       "languages": {
+        "PLpgSQL": 3,
         "JavaScript": 17,
         "Jupyter Notebook": 11,
         "Python": 10,
         "null": 14,
-        "PLpgSQL": 3,
         "TSQL": 1,
         "R": 3,
         "Apex": 1,
@@ -151,13 +151,27 @@
       "municipality": "Rocky View County",
       "province": "Alberta",
       "repositories": 2,
-      "stars": 2,
+      "stars": 4,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "2022-09-09T05:14:58Z",
+      "lastUpdate": "2025-07-14T21:57:57Z",
       "languages": {
-        "C#": 1,
-        "null": 1
+        "null": 1,
+        "C#": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "municipality": "Ville de Laval",
+      "province": "Quebec",
+      "repositories": 2,
+      "stars": 3,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2025-07-14T17:38:25Z",
+      "languages": {
+        "HTML": 1,
+        "C#": 1
       }
     },
     {
@@ -199,20 +213,6 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
-      }
-    },
-    {
-      "handle": "villelaval",
-      "municipality": "Ville de Laval",
-      "province": "Quebec",
-      "repositories": 2,
-      "stars": 1,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2016-10-11T19:39:48Z",
-      "languages": {
-        "C#": 1,
-        "HTML": 1
       }
     },
     {
@@ -321,5 +321,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1752499791618
+  "refreshMillis": 1752548029653
 }
