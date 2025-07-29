@@ -7,13 +7,13 @@
       "repositories": 176,
       "stars": 244,
       "forks": 45,
-      "issues": 532,
-      "lastUpdate": "2025-07-29T02:33:49Z",
+      "issues": 534,
+      "lastUpdate": "2025-07-29T09:30:13Z",
       "languages": {
+        "HTML": 18,
         "Markdown": 1,
         "TypeScript": 70,
         "EJS": 1,
-        "HTML": 18,
         "JavaScript": 37,
         "CSS": 2,
         "SCSS": 8,
@@ -82,7 +82,7 @@
       "stars": 103,
       "forks": 44,
       "issues": 363,
-      "lastUpdate": "2025-07-28T18:19:16Z",
+      "lastUpdate": "2025-07-29T13:05:12Z",
       "languages": {
         "JavaScript": 17,
         "PLpgSQL": 3,
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1753758243635
+  "refreshMillis": 1753796072643
 }
