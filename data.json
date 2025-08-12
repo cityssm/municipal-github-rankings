@@ -8,12 +8,12 @@
       "stars": 250,
       "forks": 46,
       "issues": 549,
-      "lastUpdate": "2025-08-12T02:25:52Z",
+      "lastUpdate": "2025-08-12T13:23:38Z",
       "languages": {
-        "Markdown": 1,
         "TypeScript": 71,
-        "JavaScript": 37,
         "HTML": 18,
+        "Markdown": 1,
+        "JavaScript": 37,
         "null": 33,
         "EJS": 1,
         "CSS": 2,
@@ -59,7 +59,7 @@
       "stars": 110,
       "forks": 76,
       "issues": 50,
-      "lastUpdate": "2025-08-05T16:39:08Z",
+      "lastUpdate": "2025-08-12T05:05:03Z",
       "languages": {
         "Makefile": 1,
         "Jupyter Notebook": 1,
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1754966521864
+  "refreshMillis": 1755005283880
 }
