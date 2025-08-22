@@ -8,11 +8,11 @@
       "stars": 251,
       "forks": 47,
       "issues": 550,
-      "lastUpdate": "2025-08-21T02:24:38Z",
+      "lastUpdate": "2025-08-22T02:01:04Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
         "TypeScript": 72,
+        "HTML": 18,
         "EJS": 1,
         "JavaScript": 36,
         "null": 33,
@@ -28,13 +28,13 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 88,
-      "stars": 194,
+      "stars": 195,
       "forks": 131,
       "issues": 302,
-      "lastUpdate": "2025-08-21T12:10:02Z",
+      "lastUpdate": "2025-08-21T16:48:06Z",
       "languages": {
-        "TypeScript": 19,
         "null": 26,
+        "TypeScript": 19,
         "SCSS": 1,
         "Python": 9,
         "JavaScript": 6,
@@ -81,8 +81,8 @@
       "repositories": 64,
       "stars": 104,
       "forks": 44,
-      "issues": 360,
-      "lastUpdate": "2025-08-17T14:28:45Z",
+      "issues": 361,
+      "lastUpdate": "2025-08-21T16:51:43Z",
       "languages": {
         "null": 14,
         "Jupyter Notebook": 11,
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1755782597206
+  "refreshMillis": 1755829529713
 }
