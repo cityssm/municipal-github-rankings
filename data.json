@@ -8,11 +8,11 @@
       "stars": 251,
       "forks": 47,
       "issues": 554,
-      "lastUpdate": "2025-08-25T13:21:32Z",
+      "lastUpdate": "2025-08-26T02:02:21Z",
       "languages": {
+        "Markdown": 1,
         "TypeScript": 72,
         "HTML": 18,
-        "Markdown": 1,
         "EJS": 1,
         "JavaScript": 36,
         "null": 33,
@@ -28,10 +28,10 @@
       "municipality": "Ville de Montréal",
       "province": "Quebec",
       "repositories": 88,
-      "stars": 195,
+      "stars": 188,
       "forks": 132,
       "issues": 302,
-      "lastUpdate": "2025-08-25T13:23:27Z",
+      "lastUpdate": "2025-08-25T16:58:56Z",
       "languages": {
         "null": 26,
         "TypeScript": 19,
@@ -81,11 +81,11 @@
       "repositories": 64,
       "stars": 104,
       "forks": 44,
-      "issues": 361,
-      "lastUpdate": "2025-08-21T16:51:43Z",
+      "issues": 359,
+      "lastUpdate": "2025-08-25T17:17:49Z",
       "languages": {
-        "null": 14,
         "Jupyter Notebook": 11,
+        "null": 14,
         "Python": 10,
         "JavaScript": 17,
         "PLpgSQL": 3,
@@ -138,10 +138,10 @@
       "municipality": "City of Kamloops",
       "province": "British Columbia",
       "repositories": 2,
-      "stars": 4,
+      "stars": 2,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "2025-07-10T17:45:37Z",
+      "lastUpdate": "2025-08-25T17:19:07Z",
       "languages": {
         "Dockerfile": 1,
         "Python": 1
@@ -152,27 +152,13 @@
       "municipality": "Rocky View County",
       "province": "Alberta",
       "repositories": 2,
-      "stars": 4,
+      "stars": 2,
       "forks": 0,
       "issues": 0,
-      "lastUpdate": "2025-07-14T21:57:57Z",
+      "lastUpdate": "2025-08-25T17:01:04Z",
       "languages": {
-        "null": 1,
-        "C#": 1
-      }
-    },
-    {
-      "handle": "villelaval",
-      "municipality": "Ville de Laval",
-      "province": "Quebec",
-      "repositories": 2,
-      "stars": 3,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2025-07-14T17:38:25Z",
-      "languages": {
-        "HTML": 1,
-        "C#": 1
+        "C#": 1,
+        "null": 1
       }
     },
     {
@@ -214,6 +200,20 @@
       "languages": {
         "TypeScript": 1,
         "null": 1
+      }
+    },
+    {
+      "handle": "villelaval",
+      "municipality": "Ville de Laval",
+      "province": "Quebec",
+      "repositories": 2,
+      "stars": 1,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "2025-08-25T16:35:31Z",
+      "languages": {
+        "C#": 1,
+        "HTML": 1
       }
     },
     {
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1756128283954
+  "refreshMillis": 1756175193978
 }
