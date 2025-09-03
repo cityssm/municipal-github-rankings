@@ -7,13 +7,13 @@
       "repositories": 177,
       "stars": 255,
       "forks": 47,
-      "issues": 543,
-      "lastUpdate": "2025-09-02T13:17:06Z",
+      "issues": 534,
+      "lastUpdate": "2025-09-03T01:50:59Z",
       "languages": {
-        "TypeScript": 73,
-        "HTML": 18,
         "Markdown": 1,
+        "TypeScript": 73,
         "JavaScript": 35,
+        "HTML": 18,
         "EJS": 1,
         "null": 33,
         "CSS": 2,
@@ -82,7 +82,7 @@
       "stars": 104,
       "forks": 44,
       "issues": 365,
-      "lastUpdate": "2025-08-29T21:08:19Z",
+      "lastUpdate": "2025-09-02T13:27:07Z",
       "languages": {
         "Jupyter Notebook": 11,
         "null": 14,
@@ -106,7 +106,7 @@
       "stars": 10,
       "forks": 14,
       "issues": 30,
-      "lastUpdate": "2025-01-09T02:16:13Z",
+      "lastUpdate": "2025-09-03T01:23:12Z",
       "languages": {
         "Dockerfile": 4,
         "null": 5,
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1756819384099
+  "refreshMillis": 1756865633133
 }
