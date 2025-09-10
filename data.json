@@ -8,11 +8,11 @@
       "stars": 255,
       "forks": 47,
       "issues": 537,
-      "lastUpdate": "2025-09-09T02:19:09Z",
+      "lastUpdate": "2025-09-10T01:52:25Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
         "TypeScript": 74,
+        "HTML": 18,
         "JavaScript": 35,
         "EJS": 1,
         "null": 33,
@@ -81,8 +81,8 @@
       "repositories": 64,
       "stars": 104,
       "forks": 44,
-      "issues": 370,
-      "lastUpdate": "2025-09-09T13:02:59Z",
+      "issues": 368,
+      "lastUpdate": "2025-09-09T22:19:15Z",
       "languages": {
         "JavaScript": 17,
         "Python": 10,
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1757424267309
+  "refreshMillis": 1757470471401
 }
