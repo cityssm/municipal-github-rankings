@@ -7,12 +7,12 @@
       "repositories": 178,
       "stars": 255,
       "forks": 47,
-      "issues": 538,
-      "lastUpdate": "2025-09-11T02:18:13Z",
+      "issues": 537,
+      "lastUpdate": "2025-09-12T01:50:29Z",
       "languages": {
-        "HTML": 18,
         "Markdown": 1,
         "TypeScript": 74,
+        "HTML": 18,
         "JavaScript": 35,
         "EJS": 1,
         "null": 33,
@@ -82,11 +82,11 @@
       "stars": 104,
       "forks": 44,
       "issues": 369,
-      "lastUpdate": "2025-09-10T17:34:19Z",
+      "lastUpdate": "2025-09-11T19:02:15Z",
       "languages": {
+        "PLpgSQL": 3,
         "JavaScript": 17,
         "Python": 10,
-        "PLpgSQL": 3,
         "Jupyter Notebook": 11,
         "null": 14,
         "TSQL": 1,
@@ -322,5 +322,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1757596625299
+  "refreshMillis": 1757643210597
 }
