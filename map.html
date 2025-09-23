@@ -55,6 +55,15 @@
       </p>
     </div>
 
+    <div class="has-text-centered mb-4">
+      <a href="./index.html" class="button is-primary is-outlined">
+        <span class="icon">
+          <span>📊</span>
+        </span>
+        <span>Table Layout</span>
+      </a>
+    </div>
+
     <div class="box mt-4">
       <div id="map"></div>
     </div>
@@ -211,10 +220,13 @@
       return `
         <div class="popup-content">
           <img src="https://github.com/${organization.handle}.png?size=60" alt="${organization.handle}" class="popup-logo" loading="lazy" />
-          <h3 class="title is-6 mb-2">
-            <a href="https://github.com/${organization.handle}" target="_blank" rel="noopener">${organization.handle}</a>
-          </h3>
-          <p class="subtitle is-7 mb-2">${organization.municipality}, ${organization.province}</p>
+          <h3 class="title is-6 mb-1">${organization.municipality}</h3>
+          <p class="subtitle is-7 mb-2">${organization.province}</p>
+          <p class="is-size-7 has-text-grey mb-3">
+            <a href="https://github.com/${organization.handle}" target="_blank" rel="noopener" class="has-text-grey">
+              <strong>@${organization.handle}</strong>
+            </a>
+          </p>
           <div class="field is-grouped is-grouped-multiline">
             <div class="control">
               <div class="tags has-addons">
