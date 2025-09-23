@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+  <title>Canadian Municipal GitHub Rankings - Map</title>
+  <meta name="description" content="Interactive map showing Canadian cities releasing open source code on GitHub by their repository stars." />
+  <meta name="keywords" content="open source, open government, canada, city, cities, town, region, county, counties, municipality, municipalities, github, map" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@cityssm/bulma-a11y@0.4.0/bulma-a11y.min.css" integrity="sha256-YrqCMmMEmKYmLuLlI1phSUZA4V4V104f2CiZB1B1cvc=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="./lib/leaflet-2.0.0-alpha.1/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 600px;
+      width: 100%;
+    }
+    .custom-marker {
+      border-radius: 50%;
+      border: 3px solid #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      background-color: white;
+    }
+    .marker-high-stars {
+      border-color: #48c78e;
+      border-width: 4px;
+    }
+    .marker-medium-stars {
+      border-color: #ffe08a;
+      border-width: 3px;
+    }
+    .marker-low-stars {
+      border-color: #f5f5f5;
+      border-width: 2px;
+    }
+    .popup-content {
+      text-align: center;
+    }
+    .popup-logo {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container mt-4" style="max-width:1200px;margin:0 auto;">
+    <h1 class="title has-text-centered">Canadian Municipal GitHub Rankings - Map</h1>
+
+    <div class="message is-info">
+      <p class="message-body">
+        This interactive map shows the GitHub star rankings for Canadian municipalities. 
+        Larger pins and green borders indicate municipalities with higher star counts.
+        Click on any pin to see detailed information.
+      </p>
+    </div>
+
+    <div class="box mt-4">
+      <div id="map"></div>
+    </div>
+
+    <div class="content mt-4">
+      <h2 class="title is-5">Legend</h2>
+      <div class="columns">
+        <div class="column">
+          <div class="level">
+            <div class="level-item has-text-centered">
+              <div>
+                <div class="custom-marker marker-high-stars" style="width: 50px; height: 50px; display: inline-block; margin-bottom: 5px;"></div>
+                <p class="has-text-weight-bold">High Stars (100+)</p>
+              </div>
+            </div>
+            <div class="level-item has-text-centered">
+              <div>
+                <div class="custom-marker marker-medium-stars" style="width: 40px; height: 40px; display: inline-block; margin-bottom: 5px;"></div>
+                <p class="has-text-weight-bold">Medium Stars (10-99)</p>
+              </div>
+            </div>
+            <div class="level-item has-text-centered">
+              <div>
+                <div class="custom-marker marker-low-stars" style="width: 30px; height: 30px; display: inline-block; margin-bottom: 5px;"></div>
+                <p class="has-text-weight-bold">Low Stars (0-9)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer class="footer mt-4">
+    <p class="has-text-centered">
+      A friendly project by The City of Sault Ste. Marie.<br />
+      <a href="https://github.com/cityssm/municipal-github-rankings">View on GitHub</a>
+    </p>
+  </footer>
+  <script>
+    // Simple fetch-based replacement for axios when CDN is blocked
+    window.axios = {
+      get: function(url) {
+        return fetch(url).then(response => response.json()).then(data => ({ data }));
+      }
+    };
+  </script>
+  <script src="./lib/leaflet-2.0.0-alpha.1/dist/leaflet-global.js"></script>
+  <script>
+    // Initialize the map after DOM is loaded
+    document.addEventListener('DOMContentLoaded', function() {
+      console.log('Available globals:', Object.keys(window).filter(k => k.match(/[Ll]eaflet|[Ll]/)));
+      
+      // Try different possible global variables
+      const L = window.L || window.Leaflet || window.leaflet;
+      
+      if (!L) {
+        console.error('Leaflet not found in global scope');
+        document.getElementById('map').innerHTML = '<div class="notification is-danger">Leaflet library failed to load. Please refresh the page.</div>';
+        return;
+      }
+
+      console.log('Leaflet loaded:', L);
+      console.log('L properties:', Object.getOwnPropertyNames(L));
+      console.log('L.Map:', L.Map);
+      console.log('L.LeafletMap:', L.LeafletMap);
+      
+      // Try different ways to create the map based on Leaflet 2.0 API
+      let map;
+      try {
+        if (L.Map) {
+          map = new L.Map(document.getElementById('map'), {
+            center: [56.1304, -106.3468],
+            zoom: 4
+          });
+        } else if (L.LeafletMap) {
+          map = new L.LeafletMap(document.getElementById('map'), {
+            center: [56.1304, -106.3468],
+            zoom: 4
+          });
+        } else {
+          throw new Error('No map constructor found');
+        }
+      } catch (err) {
+        console.error('Error creating map:', err);
+        document.getElementById('map').innerHTML = '<div class="notification is-danger">Error creating map: ' + err.message + '</div>';
+        return;
+      }
+      
+      console.log('Map created:', map);
+      console.log('L.TileLayer:', L.TileLayer);
+      console.log('Tile layer related:', Object.getOwnPropertyNames(L).filter(name => name.toLowerCase().includes('tile')));
+
+      // Add OpenStreetMap tile layer with Leaflet 2.0 API
+      let tileLayer;
+      try {
+        if (L.TileLayer) {
+          tileLayer = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+          });
+          map.addLayer(tileLayer);
+        } else {
+          throw new Error('No tile layer constructor found');
+        }
+      } catch (err) {
+        console.error('Error creating tile layer:', err);
+      }
+
+    // Function to determine marker size and style based on star count
+    function getMarkerStyle(stars) {
+      let size, className;
+      
+      if (stars >= 100) {
+        size = 50;
+        className = 'marker-high-stars';
+      } else if (stars >= 10) {
+        size = 40;
+        className = 'marker-medium-stars';
+      } else {
+        size = 30;
+        className = 'marker-low-stars';
+      }
+      
+      return { size, className };
+    }
+
+    // Function to create custom marker with organization logo
+    function createCustomMarker(organization, markerStyle) {
+      const iconHtml = `
+        <div class="custom-marker ${markerStyle.className}" style="width: ${markerStyle.size}px; height: ${markerStyle.size}px; background-image: url('https://github.com/${organization.handle}.png?size=${markerStyle.size}'); background-size: cover; background-position: center;">
+        </div>
+      `;
+      
+      try {
+        if (L.DivIcon) {
+          return new L.DivIcon({
+            html: iconHtml,
+            iconSize: [markerStyle.size, markerStyle.size],
+            iconAnchor: [markerStyle.size / 2, markerStyle.size / 2],
+            popupAnchor: [0, -markerStyle.size / 2],
+            className: ''
+          });
+        } else {
+          console.error('L.DivIcon not available');
+          return null;
+        }
+      } catch (err) {
+        console.error('Error creating custom marker:', err);
+        return null;
+      }
+    }
+
+    // Function to create popup content
+    function createPopupContent(organization) {
+      return `
+        <div class="popup-content">
+          <img src="https://github.com/${organization.handle}.png?size=60" alt="${organization.handle}" class="popup-logo" loading="lazy" />
+          <h3 class="title is-6 mb-2">
+            <a href="https://github.com/${organization.handle}" target="_blank" rel="noopener">${organization.handle}</a>
+          </h3>
+          <p class="subtitle is-7 mb-2">${organization.municipality}, ${organization.province}</p>
+          <div class="field is-grouped is-grouped-multiline">
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag">Stars</span>
+                <span class="tag is-info">${organization.stars}</span>
+              </div>
+            </div>
+            <div class="control">
+              <div class="tags has-addons">
+                <span class="tag">Repos</span>
+                <span class="tag is-link">${organization.repositories}</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    // Load and display the data
+    axios.get("./data.json")
+      .then((response) => {
+        return response.data;
+      })
+      .then((data) => {
+        // Add markers for each organization
+        data.organizations.forEach((organization) => {
+          // Only add markers for organizations with valid coordinates
+          if (organization.latitude && organization.longitude) {
+            const markerStyle = getMarkerStyle(organization.stars);
+            const customIcon = createCustomMarker(organization, markerStyle);
+            const popupContent = createPopupContent(organization);
+            
+            try {
+              if (customIcon && L.Marker) {
+                const marker = new L.Marker([organization.latitude, organization.longitude], { icon: customIcon });
+                map.addLayer(marker);
+                marker.bindPopup(popupContent);
+              } else {
+                console.warn('Skipping marker for', organization.handle, 'due to icon or constructor issues');
+              }
+            } catch (err) {
+              console.error('Error creating marker for', organization.handle, ':', err);
+            }
+          }
+        });
+
+        // Add refresh info
+        const refreshInfo = document.createElement("div");
+        refreshInfo.className = "notification is-light mt-4";
+        refreshInfo.innerHTML = `
+          <p class="has-text-centered">
+            <strong>Data Updated:</strong> ${new Date(data.refreshMillis).toLocaleString()}<br>
+            <small>Map shows ${data.organizations.filter(org => org.latitude && org.longitude).length} municipalities with location data</small>
+          </p>
+        `;
+        
+        const main = document.querySelector("main");
+        main.appendChild(refreshInfo);
+      })
+      .catch((error) => {
+        console.error("Error loading data:", error);
+        const errorDiv = document.createElement("div");
+        errorDiv.className = "notification is-danger";
+        errorDiv.innerHTML = "<p>Error loading map data. Please try again later.</p>";
+        document.querySelector("#map").appendChild(errorDiv);
+      });
+    }); // End DOMContentLoaded
+  </script>
+</body>
+
+</html>
