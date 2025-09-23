@@ -143,18 +143,23 @@
       console.log('L.Map:', L.Map);
       console.log('L.LeafletMap:', L.LeafletMap);
       
+      // Determine appropriate zoom level based on screen size
+      // On smaller screens, use lower zoom to ensure British Columbia is visible
+      const screenWidth = window.innerWidth;
+      const zoomLevel = screenWidth < 768 ? 3 : 4;
+      
       // Try different ways to create the map based on Leaflet 2.0 API
       let map;
       try {
         if (L.Map) {
           map = new L.Map(document.getElementById('map'), {
             center: [56.1304, -106.3468],
-            zoom: 4
+            zoom: zoomLevel
           });
         } else if (L.LeafletMap) {
           map = new L.LeafletMap(document.getElementById('map'), {
             center: [56.1304, -106.3468],
-            zoom: 4
+            zoom: zoomLevel
           });
         } else {
           throw new Error('No map constructor found');
