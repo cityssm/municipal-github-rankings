@@ -47,6 +47,8 @@ for (const organization of organizations) {
       handle: organization.handle,
       municipality: organization.municipality,
       province: organization.province,
+      latitude: organization.latitude,
+      longitude: organization.longitude,
       followers: ghOrganization.followers,
       repositories: 0,
       stars: 0,
