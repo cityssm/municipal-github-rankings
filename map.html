@@ -251,6 +251,8 @@
         return response.data;
       })
       .then((data) => {
+        let cityssmMarker = null;
+        
         // Add markers for each organization
         data.organizations.forEach((organization) => {
           // Only add markers for organizations with valid coordinates
@@ -264,6 +266,11 @@
                 const marker = new L.Marker([organization.latitude, organization.longitude], { icon: customIcon });
                 map.addLayer(marker);
                 marker.bindPopup(popupContent);
+                
+                // Keep reference to cityssm marker to open its popup automatically
+                if (organization.handle === 'cityssm') {
+                  cityssmMarker = marker;
+                }
               } else {
                 console.warn('Skipping marker for', organization.handle, 'due to icon or constructor issues');
               }
@@ -272,6 +279,11 @@
             }
           }
         });
+        
+        // Automatically open the cityssm popup when map loads
+        if (cityssmMarker) {
+          cityssmMarker.openPopup();
+        }
 
         // Add refresh info
         const refreshInfo = document.createElement("div");
