@@ -92,13 +92,6 @@ export const organizations: Organization[] = [
     longitude: -84.3421,
   },
   {
-    handle: "CityOfKingstonCA",
-    municipality: "City of Kingston",
-    province: "Ontario",
-    latitude: 44.2312,
-    longitude: -76.4951,
-  },
-  {
     handle: "Clearwater-County",
     municipality: "Clearwater County",
     province: "Alberta",
@@ -125,13 +118,6 @@ export const organizations: Organization[] = [
     province: "Ontario",
     latitude: 43.6667,
     longitude: -79.7500,
-  },
-  {
-    handle: "RegionOfDurham",
-    municipality: "Regional Municipality of Durham",
-    province: "Ontario",
-    latitude: 43.8828,
-    longitude: -78.9419,
   },
   {
     handle: "soreltracy",
