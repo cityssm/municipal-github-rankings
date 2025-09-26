@@ -99,13 +99,6 @@ export const organizations: Organization[] = [
     longitude: -114.9211,
   },
   {
-    handle: "Guelph-Digital-Service",
-    municipality: "City of Guelph",
-    province: "Ontario",
-    latitude: 43.5448,
-    longitude: -80.2482,
-  },
-  {
     handle: "rocky-view-county",
     municipality: "Rocky View County",
     province: "Alberta",
