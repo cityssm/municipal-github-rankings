@@ -275,23 +275,6 @@
       }
     },
     {
-      "handle": "Guelph-Digital-Service",
-      "municipality": "City of Guelph",
-      "province": "Ontario",
-      "latitude": 43.5448,
-      "longitude": -80.2482,
-      "repositories": 3,
-      "stars": 0,
-      "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2025-07-10T15:20:04Z",
-      "languages": {
-        "JavaScript": 1,
-        "PHP": 1,
-        "HTML": 1
-      }
-    },
-    {
       "handle": "cityofvancouver",
       "municipality": "City of Vancouver",
       "province": "British Columbia",
