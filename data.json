@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 182,
-      "stars": 259,
+      "stars": 260,
       "forks": 49,
       "issues": 550,
-      "lastUpdate": "2025-10-14T01:55:10Z",
+      "lastUpdate": "2025-10-14T13:20:46Z",
       "languages": {
-        "Markdown": 1,
-        "JavaScript": 37,
         "TypeScript": 75,
+        "JavaScript": 37,
+        "Markdown": 1,
         "SCSS": 10,
         "HTML": 17,
         "EJS": 1,
@@ -65,7 +65,7 @@
       "stars": 111,
       "forks": 76,
       "issues": 51,
-      "lastUpdate": "2025-10-08T21:52:11Z",
+      "lastUpdate": "2025-10-14T05:55:45Z",
       "languages": {
         "Makefile": 1,
         "Jupyter Notebook": 1,
@@ -345,5 +345,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1760408288774
+  "refreshMillis": 1760448224135
 }
