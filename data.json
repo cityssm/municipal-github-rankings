@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 182,
-      "stars": 260,
+      "stars": 261,
       "forks": 49,
       "issues": 587,
-      "lastUpdate": "2025-11-17T02:04:52Z",
+      "lastUpdate": "2025-11-17T11:30:36Z",
       "languages": {
-        "Markdown": 1,
-        "JavaScript": 36,
         "TypeScript": 76,
+        "JavaScript": 36,
+        "Markdown": 1,
         "CSS": 2,
         "SCSS": 10,
         "HTML": 17,
@@ -345,5 +345,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1763346497551
+  "refreshMillis": 1763385961246
 }
