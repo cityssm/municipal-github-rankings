@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 183,
-      "stars": 261,
+      "stars": 262,
       "forks": 49,
       "issues": 579,
-      "lastUpdate": "2025-11-19T02:02:51Z",
+      "lastUpdate": "2025-11-19T11:38:13Z",
       "languages": {
+        "JavaScript": 36,
         "Markdown": 1,
         "TypeScript": 77,
-        "JavaScript": 36,
         "CSS": 2,
         "SCSS": 10,
         "HTML": 17,
@@ -34,8 +34,8 @@
       "repositories": 88,
       "stars": 190,
       "forks": 136,
-      "issues": 306,
-      "lastUpdate": "2025-11-18T17:57:16Z",
+      "issues": 307,
+      "lastUpdate": "2025-11-19T02:32:43Z",
       "languages": {
         "null": 26,
         "TypeScript": 19,
@@ -345,5 +345,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1763519185210
+  "refreshMillis": 1763558744660
 }
