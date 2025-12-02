@@ -9,12 +9,12 @@
       "repositories": 184,
       "stars": 265,
       "forks": 50,
-      "issues": 584,
-      "lastUpdate": "2025-12-01T13:28:40Z",
+      "issues": 592,
+      "lastUpdate": "2025-12-02T02:06:46Z",
       "languages": {
-        "JavaScript": 36,
         "Markdown": 1,
         "TypeScript": 78,
+        "JavaScript": 36,
         "CSS": 2,
         "SCSS": 10,
         "HTML": 17,
@@ -32,15 +32,15 @@
       "latitude": 45.5017,
       "longitude": -73.5673,
       "repositories": 88,
-      "stars": 192,
+      "stars": 193,
       "forks": 136,
-      "issues": 309,
-      "lastUpdate": "2025-12-01T00:31:07Z",
+      "issues": 311,
+      "lastUpdate": "2025-12-02T00:56:39Z",
       "languages": {
-        "null": 26,
         "TypeScript": 19,
-        "SCSS": 1,
         "Python": 9,
+        "null": 26,
+        "SCSS": 1,
         "JavaScript": 6,
         "HTML": 2,
         "Go": 6,
@@ -65,7 +65,7 @@
       "stars": 112,
       "forks": 75,
       "issues": 51,
-      "lastUpdate": "2025-11-24T19:03:14Z",
+      "lastUpdate": "2025-12-01T22:53:38Z",
       "languages": {
         "Jupyter Notebook": 1,
         "Makefile": 1,
@@ -89,11 +89,11 @@
       "repositories": 64,
       "stars": 105,
       "forks": 44,
-      "issues": 382,
-      "lastUpdate": "2025-11-27T12:06:06Z",
+      "issues": 381,
+      "lastUpdate": "2025-12-01T21:43:50Z",
       "languages": {
-        "Python": 10,
         "Jupyter Notebook": 11,
+        "Python": 10,
         "JavaScript": 17,
         "null": 14,
         "PLpgSQL": 3,
@@ -345,5 +345,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1764595733722
+  "refreshMillis": 1764643349005
 }
