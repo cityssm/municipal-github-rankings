@@ -7,19 +7,19 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 184,
-      "stars": 265,
+      "stars": 266,
       "forks": 50,
-      "issues": 588,
-      "lastUpdate": "2025-12-03T02:41:50Z",
+      "issues": 587,
+      "lastUpdate": "2025-12-04T02:07:17Z",
       "languages": {
-        "JavaScript": 36,
         "Markdown": 1,
         "TypeScript": 78,
+        "null": 33,
+        "JavaScript": 36,
         "CSS": 2,
         "SCSS": 10,
         "HTML": 17,
         "EJS": 1,
-        "null": 33,
         "Java": 4,
         "ASP": 1,
         "Classic ASP": 1
@@ -65,7 +65,7 @@
       "stars": 112,
       "forks": 75,
       "issues": 51,
-      "lastUpdate": "2025-12-01T22:53:38Z",
+      "lastUpdate": "2025-12-03T21:46:04Z",
       "languages": {
         "Jupyter Notebook": 1,
         "Makefile": 1,
@@ -90,10 +90,10 @@
       "stars": 105,
       "forks": 44,
       "issues": 375,
-      "lastUpdate": "2025-12-02T20:35:02Z",
+      "lastUpdate": "2025-12-03T14:55:15Z",
       "languages": {
-        "Jupyter Notebook": 11,
         "Python": 10,
+        "Jupyter Notebook": 11,
         "JavaScript": 17,
         "null": 14,
         "PLpgSQL": 3,
@@ -345,5 +345,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1764768563040
+  "refreshMillis": 1764816185594
 }
