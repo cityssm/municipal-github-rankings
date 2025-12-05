@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 184,
-      "stars": 266,
+      "stars": 267,
       "forks": 50,
-      "issues": 587,
-      "lastUpdate": "2025-12-04T02:43:10Z",
+      "issues": 592,
+      "lastUpdate": "2025-12-05T02:07:21Z",
       "languages": {
-        "JavaScript": 36,
         "Markdown": 1,
         "TypeScript": 78,
+        "JavaScript": 36,
         "null": 33,
         "CSS": 2,
         "SCSS": 10,
@@ -87,13 +87,13 @@
       "latitude": 43.6532,
       "longitude": -79.3832,
       "repositories": 64,
-      "stars": 105,
+      "stars": 106,
       "forks": 44,
       "issues": 375,
-      "lastUpdate": "2025-12-03T14:55:15Z",
+      "lastUpdate": "2025-12-04T21:57:52Z",
       "languages": {
-        "Python": 10,
         "Jupyter Notebook": 11,
+        "Python": 10,
         "JavaScript": 17,
         "null": 14,
         "PLpgSQL": 3,
@@ -345,5 +345,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1764855008927
+  "refreshMillis": 1764902613886
 }
