@@ -10,11 +10,11 @@
       "stars": 271,
       "forks": 50,
       "issues": 571,
-      "lastUpdate": "2026-01-09T02:52:53Z",
+      "lastUpdate": "2026-01-10T02:10:44Z",
       "languages": {
-        "JavaScript": 36,
         "Markdown": 1,
         "TypeScript": 78,
+        "JavaScript": 36,
         "null": 33,
         "CSS": 2,
         "Java": 4,
@@ -35,7 +35,7 @@
       "stars": 194,
       "forks": 136,
       "issues": 310,
-      "lastUpdate": "2026-01-08T21:41:13Z",
+      "lastUpdate": "2026-01-09T21:37:12Z",
       "languages": {
         "TypeScript": 19,
         "Python": 9,
@@ -89,11 +89,11 @@
       "repositories": 64,
       "stars": 106,
       "forks": 44,
-      "issues": 388,
-      "lastUpdate": "2026-01-08T19:07:26Z",
+      "issues": 390,
+      "lastUpdate": "2026-01-09T16:20:58Z",
       "languages": {
-        "Python": 10,
         "Jupyter Notebook": 11,
+        "Python": 10,
         "JavaScript": 17,
         "null": 14,
         "PLpgSQL": 3,
@@ -159,22 +159,6 @@
       "languages": {
         "Dockerfile": 1,
         "Python": 1
-      }
-    },
-    {
-      "handle": "rocky-view-county",
-      "municipality": "Rocky View County",
-      "province": "Alberta",
-      "latitude": 51.1784,
-      "longitude": -113.9066,
-      "repositories": 2,
-      "stars": 2,
-      "forks": 0,
-      "issues": 0,
-      "lastUpdate": "2025-08-25T17:01:04Z",
-      "languages": {
-        "C#": 1,
-        "null": 1
       }
     },
     {
@@ -319,6 +303,19 @@
       "languages": {}
     },
     {
+      "handle": "rocky-view-county",
+      "municipality": "Rocky View County",
+      "province": "Alberta",
+      "latitude": 51.1784,
+      "longitude": -113.9066,
+      "repositories": 0,
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "lastUpdate": "",
+      "languages": {}
+    },
+    {
       "handle": "soreltracy",
       "municipality": "Ville de Sorel-Tracy",
       "province": "Quebec",
@@ -345,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1767965498285
+  "refreshMillis": 1768013209245
 }
