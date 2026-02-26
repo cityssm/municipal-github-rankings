@@ -9,12 +9,12 @@
       "repositories": 187,
       "stars": 272,
       "forks": 51,
-      "issues": 612,
-      "lastUpdate": "2026-02-25T11:43:45Z",
+      "issues": 614,
+      "lastUpdate": "2026-02-26T02:45:00Z",
       "languages": {
-        "JavaScript": 37,
         "Markdown": 1,
         "TypeScript": 80,
+        "JavaScript": 37,
         "EJS": 1,
         "CSS": 2,
         "null": 33,
@@ -61,15 +61,15 @@
       "province": "Alberta",
       "latitude": 53.5461,
       "longitude": -113.4938,
-      "repositories": 34,
+      "repositories": 35,
       "stars": 113,
       "forks": 75,
       "issues": 51,
-      "lastUpdate": "2025-12-18T21:58:21Z",
+      "lastUpdate": "2026-02-25T15:44:35Z",
       "languages": {
+        "Python": 11,
         "Makefile": 1,
         "Jupyter Notebook": 1,
-        "Python": 10,
         "R": 2,
         "C#": 3,
         "JavaScript": 8,
@@ -89,8 +89,8 @@
       "repositories": 64,
       "stars": 106,
       "forks": 44,
-      "issues": 416,
-      "lastUpdate": "2026-02-24T19:08:38Z",
+      "issues": 415,
+      "lastUpdate": "2026-02-25T22:39:12Z",
       "languages": {
         "Jupyter Notebook": 11,
         "JavaScript": 17,
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1772028162902
+  "refreshMillis": 1772076450272
 }
