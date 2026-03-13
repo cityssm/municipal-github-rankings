@@ -9,12 +9,12 @@
       "repositories": 188,
       "stars": 272,
       "forks": 52,
-      "issues": 637,
-      "lastUpdate": "2026-03-12T13:35:54Z",
+      "issues": 634,
+      "lastUpdate": "2026-03-13T02:44:06Z",
       "languages": {
+        "Markdown": 1,
         "TypeScript": 81,
         "JavaScript": 37,
-        "Markdown": 1,
         "EJS": 1,
         "CSS": 2,
         "null": 33,
@@ -35,11 +35,11 @@
       "stars": 196,
       "forks": 138,
       "issues": 335,
-      "lastUpdate": "2026-02-28T22:46:55Z",
+      "lastUpdate": "2026-03-12T20:55:24Z",
       "languages": {
+        "SCSS": 1,
         "TypeScript": 19,
         "Python": 9,
-        "SCSS": 1,
         "null": 26,
         "JavaScript": 6,
         "HTML": 2,
@@ -89,8 +89,8 @@
       "repositories": 64,
       "stars": 107,
       "forks": 44,
-      "issues": 430,
-      "lastUpdate": "2026-03-11T21:09:23Z",
+      "issues": 428,
+      "lastUpdate": "2026-03-12T20:57:50Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -154,8 +154,8 @@
       "repositories": 2,
       "stars": 3,
       "forks": 0,
-      "issues": 1,
-      "lastUpdate": "2026-03-11T21:46:42Z",
+      "issues": 0,
+      "lastUpdate": "2026-03-12T17:49:17Z",
       "languages": {
         "Python": 1,
         "Dockerfile": 1
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1773323745451
+  "refreshMillis": 1773372192883
 }
