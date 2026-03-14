@@ -10,17 +10,17 @@
       "stars": 273,
       "forks": 52,
       "issues": 634,
-      "lastUpdate": "2026-03-13T12:08:17Z",
+      "lastUpdate": "2026-03-14T02:42:39Z",
       "languages": {
-        "JavaScript": 37,
         "Markdown": 1,
         "TypeScript": 81,
+        "HTML": 17,
+        "JavaScript": 37,
         "EJS": 1,
         "CSS": 2,
         "null": 33,
         "Java": 4,
         "SCSS": 10,
-        "HTML": 17,
         "ASP": 1,
         "Classic ASP": 1
       }
@@ -34,11 +34,11 @@
       "repositories": 88,
       "stars": 196,
       "forks": 138,
-      "issues": 335,
-      "lastUpdate": "2026-03-12T20:55:24Z",
+      "issues": 334,
+      "lastUpdate": "2026-03-13T19:01:55Z",
       "languages": {
-        "SCSS": 1,
         "TypeScript": 19,
+        "SCSS": 1,
         "Python": 9,
         "null": 26,
         "JavaScript": 6,
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1773409965082
+  "refreshMillis": 1773458485981
 }
