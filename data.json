@@ -9,12 +9,12 @@
       "repositories": 189,
       "stars": 283,
       "forks": 52,
-      "issues": 670,
-      "lastUpdate": "2026-03-31T14:16:15Z",
+      "issues": 667,
+      "lastUpdate": "2026-04-01T03:32:00Z",
       "languages": {
+        "Markdown": 1,
         "TypeScript": 81,
         "JavaScript": 38,
-        "Markdown": 1,
         "EJS": 1,
         "HTML": 17,
         "CSS": 2,
@@ -34,8 +34,8 @@
       "repositories": 88,
       "stars": 197,
       "forks": 139,
-      "issues": 335,
-      "lastUpdate": "2026-03-27T21:26:27Z",
+      "issues": 334,
+      "lastUpdate": "2026-03-31T19:04:01Z",
       "languages": {
         "TypeScript": 19,
         "SCSS": 1,
@@ -89,12 +89,12 @@
       "repositories": 64,
       "stars": 108,
       "forks": 45,
-      "issues": 436,
-      "lastUpdate": "2026-03-30T19:13:01Z",
+      "issues": 434,
+      "lastUpdate": "2026-03-31T19:55:55Z",
       "languages": {
         "JavaScript": 17,
-        "PLpgSQL": 3,
         "Jupyter Notebook": 11,
+        "PLpgSQL": 3,
         "Python": 10,
         "null": 14,
         "TSQL": 1,
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1774966931082
+  "refreshMillis": 1775015799642
 }
