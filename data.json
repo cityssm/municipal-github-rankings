@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 190,
-      "stars": 287,
-      "forks": 52,
-      "issues": 663,
-      "lastUpdate": "2026-04-28T15:14:19Z",
+      "stars": 288,
+      "forks": 53,
+      "issues": 653,
+      "lastUpdate": "2026-04-29T03:50:52Z",
       "languages": {
+        "Markdown": 1,
         "TypeScript": 80,
         "JavaScript": 40,
-        "Markdown": 1,
         "Java": 4,
         "null": 33,
         "EJS": 1,
@@ -89,8 +89,8 @@
       "repositories": 64,
       "stars": 108,
       "forks": 45,
-      "issues": 440,
-      "lastUpdate": "2026-04-28T13:02:30Z",
+      "issues": 441,
+      "lastUpdate": "2026-04-28T18:08:16Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -154,8 +154,8 @@
       "repositories": 2,
       "stars": 3,
       "forks": 1,
-      "issues": 3,
-      "lastUpdate": "2026-03-12T17:49:17Z",
+      "issues": 1,
+      "lastUpdate": "2026-04-28T16:15:54Z",
       "languages": {
         "Python": 1,
         "Dockerfile": 1
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1777389298968
+  "refreshMillis": 1777436636154
 }
