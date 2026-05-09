@@ -10,11 +10,11 @@
       "stars": 289,
       "forks": 53,
       "issues": 645,
-      "lastUpdate": "2026-05-09T03:43:50Z",
+      "lastUpdate": "2026-05-09T04:17:35Z",
       "languages": {
+        "JavaScript": 40,
         "Markdown": 1,
         "TypeScript": 80,
-        "JavaScript": 40,
         "Java": 4,
         "null": 33,
         "EJS": 1,
@@ -63,7 +63,7 @@
       "longitude": -113.4938,
       "repositories": 36,
       "stars": 115,
-      "forks": 75,
+      "forks": 76,
       "issues": 51,
       "lastUpdate": "2026-04-09T20:29:45Z",
       "languages": {
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1778300251137
+  "refreshMillis": 1778335971181
 }
