@@ -6,15 +6,15 @@
       "province": "Ontario",
       "latitude": 46.5197,
       "longitude": -84.3421,
-      "repositories": 190,
+      "repositories": 191,
       "stars": 292,
       "forks": 53,
       "issues": 646,
-      "lastUpdate": "2026-05-22T04:53:56Z",
+      "lastUpdate": "2026-05-23T02:53:56Z",
       "languages": {
-        "JavaScript": 40,
         "Markdown": 1,
-        "TypeScript": 80,
+        "TypeScript": 81,
+        "JavaScript": 40,
         "Java": 4,
         "null": 33,
         "EJS": 1,
@@ -342,5 +342,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1779464610515
+  "refreshMillis": 1779510694336
 }
