@@ -10,11 +10,11 @@
       "stars": 293,
       "forks": 53,
       "issues": 658,
-      "lastUpdate": "2026-06-01T04:56:03Z",
+      "lastUpdate": "2026-06-01T17:54:46Z",
       "languages": {
-        "Markdown": 1,
-        "JavaScript": 40,
         "TypeScript": 83,
+        "JavaScript": 40,
+        "Markdown": 1,
         "Java": 4,
         "null": 33,
         "EJS": 1,
@@ -89,8 +89,8 @@
       "repositories": 64,
       "stars": 108,
       "forks": 45,
-      "issues": 441,
-      "lastUpdate": "2026-05-29T21:11:57Z",
+      "issues": 439,
+      "lastUpdate": "2026-06-01T17:37:41Z",
       "languages": {
         "Jupyter Notebook": 11,
         "PLpgSQL": 3,
@@ -155,10 +155,10 @@
       "stars": 3,
       "forks": 1,
       "issues": 1,
-      "lastUpdate": "2026-04-28T16:15:54Z",
+      "lastUpdate": "2026-06-01T16:18:25Z",
       "languages": {
-        "Python": 1,
-        "Dockerfile": 1
+        "Dockerfile": 1,
+        "Python": 1
       }
     },
     {
@@ -259,22 +259,6 @@
       }
     },
     {
-      "handle": "cityofvancouver",
-      "municipality": "City of Vancouver",
-      "province": "British Columbia",
-      "latitude": 49.2827,
-      "longitude": -123.1207,
-      "repositories": 2,
-      "stars": 0,
-      "forks": 0,
-      "issues": 2,
-      "lastUpdate": "2026-03-29T17:30:00Z",
-      "languages": {
-        "JavaScript": 1,
-        "null": 1
-      }
-    },
-    {
       "handle": "RegionofPeel",
       "municipality": "Region of Peel",
       "province": "Ontario",
@@ -287,6 +271,21 @@
       "lastUpdate": "2022-09-19T14:18:17Z",
       "languages": {
         "null": 2
+      }
+    },
+    {
+      "handle": "cityofvancouver",
+      "municipality": "City of Vancouver",
+      "province": "British Columbia",
+      "latitude": 49.2827,
+      "longitude": -123.1207,
+      "repositories": 1,
+      "stars": 0,
+      "forks": 0,
+      "issues": 2,
+      "lastUpdate": "2026-03-29T17:30:00Z",
+      "languages": {
+        "JavaScript": 1
       }
     },
     {
@@ -342,5 +341,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1780293144425
+  "refreshMillis": 1780338700746
 }
