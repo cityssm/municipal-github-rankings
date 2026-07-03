@@ -9,12 +9,12 @@
       "repositories": 193,
       "stars": 301,
       "forks": 53,
-      "issues": 673,
-      "lastUpdate": "2026-07-02T04:52:13Z",
+      "issues": 672,
+      "lastUpdate": "2026-07-03T03:51:24Z",
       "languages": {
-        "JavaScript": 41,
         "Markdown": 1,
         "TypeScript": 82,
+        "JavaScript": 41,
         "Java": 4,
         "null": 33,
         "EJS": 1,
@@ -32,10 +32,10 @@
       "latitude": 45.5017,
       "longitude": -73.5673,
       "repositories": 88,
-      "stars": 199,
+      "stars": 200,
       "forks": 140,
       "issues": 345,
-      "lastUpdate": "2026-06-26T10:23:02Z",
+      "lastUpdate": "2026-07-02T19:37:29Z",
       "languages": {
         "TypeScript": 19,
         "SCSS": 1,
@@ -90,7 +90,7 @@
       "stars": 108,
       "forks": 45,
       "issues": 450,
-      "lastUpdate": "2026-07-02T13:37:47Z",
+      "lastUpdate": "2026-07-02T18:12:44Z",
       "languages": {
         "JavaScript": 17,
         "Jupyter Notebook": 11,
@@ -339,5 +339,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1783004663143
+  "refreshMillis": 1783053302774
 }
