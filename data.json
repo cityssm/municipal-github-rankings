@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 196,
-      "stars": 305,
+      "stars": 306,
       "forks": 55,
       "issues": 679,
-      "lastUpdate": "2026-08-05T03:19:31Z",
+      "lastUpdate": "2026-08-05T15:05:09Z",
       "languages": {
-        "Markdown": 1,
         "TypeScript": 86,
         "JavaScript": 40,
+        "Markdown": 1,
         "HTML": 17,
         "Java": 4,
         "null": 33,
@@ -62,14 +62,14 @@
       "latitude": 53.5461,
       "longitude": -113.4938,
       "repositories": 36,
-      "stars": 116,
+      "stars": 117,
       "forks": 76,
       "issues": 51,
-      "lastUpdate": "2026-07-19T07:48:39Z",
+      "lastUpdate": "2026-08-05T04:12:38Z",
       "languages": {
+        "Python": 11,
         "Makefile": 1,
         "R": 3,
-        "Python": 11,
         "Jupyter Notebook": 1,
         "C#": 3,
         "JavaScript": 8,
@@ -87,16 +87,16 @@
       "latitude": 43.6532,
       "longitude": -79.3832,
       "repositories": 64,
-      "stars": 108,
+      "stars": 109,
       "forks": 45,
       "issues": 459,
-      "lastUpdate": "2026-08-04T18:46:06Z",
+      "lastUpdate": "2026-08-05T04:12:18Z",
       "languages": {
+        "null": 14,
         "PLpgSQL": 3,
         "Jupyter Notebook": 11,
         "JavaScript": 17,
         "Python": 10,
-        "null": 14,
         "TSQL": 1,
         "R": 3,
         "Apex": 1,
@@ -338,5 +338,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1785901942417
+  "refreshMillis": 1785942411869
 }
