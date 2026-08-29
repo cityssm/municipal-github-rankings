@@ -10,10 +10,10 @@
       "stars": 310,
       "forks": 54,
       "issues": 625,
-      "lastUpdate": "2026-08-29T06:52:30Z",
+      "lastUpdate": "2026-08-29T07:31:58Z",
       "languages": {
-        "Markdown": 1,
         "JavaScript": 40,
+        "Markdown": 1,
         "EJS": 2,
         "TypeScript": 86,
         "HTML": 17,
@@ -338,5 +338,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1787988706993
+  "refreshMillis": 1788022486327
 }
