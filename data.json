@@ -9,12 +9,12 @@
       "repositories": 200,
       "stars": 311,
       "forks": 54,
-      "issues": 705,
-      "lastUpdate": "2026-10-05T20:24:25Z",
+      "issues": 707,
+      "lastUpdate": "2026-10-06T06:01:19Z",
       "languages": {
-        "TypeScript": 90,
-        "JavaScript": 39,
         "Markdown": 1,
+        "JavaScript": 39,
+        "TypeScript": 90,
         "null": 33,
         "EJS": 2,
         "HTML": 17,
@@ -90,7 +90,7 @@
       "stars": 109,
       "forks": 44,
       "issues": 453,
-      "lastUpdate": "2026-10-05T19:30:43Z",
+      "lastUpdate": "2026-10-06T05:06:52Z",
       "languages": {
         "JavaScript": 15,
         "PLpgSQL": 2,
@@ -338,5 +338,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1791234130551
+  "refreshMillis": 1791270025745
 }
