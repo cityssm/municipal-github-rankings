@@ -7,14 +7,14 @@
       "latitude": 46.5197,
       "longitude": -84.3421,
       "repositories": 200,
-      "stars": 312,
-      "forks": 54,
+      "stars": 313,
+      "forks": 55,
       "issues": 700,
-      "lastUpdate": "2026-10-07T17:07:59Z",
+      "lastUpdate": "2026-10-08T05:44:40Z",
       "languages": {
+        "Markdown": 1,
         "TypeScript": 90,
         "JavaScript": 39,
-        "Markdown": 1,
         "null": 33,
         "EJS": 2,
         "HTML": 17,
@@ -90,10 +90,10 @@
       "stars": 87,
       "forks": 33,
       "issues": 390,
-      "lastUpdate": "2026-10-06T22:48:27Z",
+      "lastUpdate": "2026-10-07T21:32:01Z",
       "languages": {
-        "PLpgSQL": 2,
         "Jupyter Notebook": 9,
+        "PLpgSQL": 2,
         "Python": 9,
         "null": 14,
         "TSQL": 1,
@@ -338,5 +338,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1791400061733
+  "refreshMillis": 1791442128994
 }
