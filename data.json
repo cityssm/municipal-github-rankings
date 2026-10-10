@@ -6,16 +6,16 @@
       "province": "Ontario",
       "latitude": 46.5197,
       "longitude": -84.3421,
-      "repositories": 201,
+      "repositories": 202,
       "stars": 313,
       "forks": 55,
       "issues": 703,
-      "lastUpdate": "2026-10-09T18:02:47Z",
+      "lastUpdate": "2026-10-10T05:32:05Z",
       "languages": {
-        "JavaScript": 39,
-        "HTML": 18,
-        "null": 34,
         "Markdown": 1,
+        "HTML": 18,
+        "null": 35,
+        "JavaScript": 39,
         "TypeScript": 89,
         "EJS": 2,
         "Java": 4,
@@ -62,14 +62,14 @@
       "latitude": 53.5461,
       "longitude": -113.4938,
       "repositories": 36,
-      "stars": 117,
+      "stars": 118,
       "forks": 76,
       "issues": 51,
-      "lastUpdate": "2026-08-05T04:12:38Z",
+      "lastUpdate": "2026-10-09T18:35:24Z",
       "languages": {
+        "R": 3,
         "Python": 11,
         "Makefile": 1,
-        "R": 3,
         "Jupyter Notebook": 1,
         "C#": 3,
         "JavaScript": 8,
@@ -89,8 +89,8 @@
       "repositories": 56,
       "stars": 87,
       "forks": 33,
-      "issues": 391,
-      "lastUpdate": "2026-10-09T17:24:02Z",
+      "issues": 389,
+      "lastUpdate": "2026-10-09T18:55:55Z",
       "languages": {
         "Jupyter Notebook": 9,
         "PLpgSQL": 2,
@@ -338,5 +338,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1791570874016
+  "refreshMillis": 1791613908120
 }
