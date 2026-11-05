@@ -10,11 +10,11 @@
       "stars": 318,
       "forks": 57,
       "issues": 696,
-      "lastUpdate": "2026-11-05T06:18:33Z",
+      "lastUpdate": "2026-11-05T16:58:17Z",
       "languages": {
-        "Markdown": 1,
         "TypeScript": 92,
         "JavaScript": 36,
+        "Markdown": 1,
         "HTML": 18,
         "null": 35,
         "EJS": 2,
@@ -90,8 +90,8 @@
       "repositories": 56,
       "stars": 87,
       "forks": 33,
-      "issues": 387,
-      "lastUpdate": "2026-11-05T03:22:43Z",
+      "issues": 386,
+      "lastUpdate": "2026-11-05T14:19:26Z",
       "languages": {
         "Jupyter Notebook": 9,
         "PLpgSQL": 2,
@@ -339,5 +339,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1793863909425
+  "refreshMillis": 1793910176292
 }
