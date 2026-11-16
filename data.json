@@ -9,8 +9,8 @@
       "repositories": 202,
       "stars": 321,
       "forks": 58,
-      "issues": 725,
-      "lastUpdate": "2026-11-16T07:11:11Z",
+      "issues": 703,
+      "lastUpdate": "2026-11-16T21:21:54Z",
       "languages": {
         "TypeScript": 92,
         "JavaScript": 36,
@@ -90,8 +90,8 @@
       "repositories": 56,
       "stars": 87,
       "forks": 33,
-      "issues": 388,
-      "lastUpdate": "2026-11-13T22:10:59Z",
+      "issues": 389,
+      "lastUpdate": "2026-11-16T21:58:48Z",
       "languages": {
         "Jupyter Notebook": 9,
         "PLpgSQL": 2,
@@ -339,5 +339,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1794814052304
+  "refreshMillis": 1794868685484
 }
