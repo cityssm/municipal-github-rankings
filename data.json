@@ -10,7 +10,7 @@
       "stars": 321,
       "forks": 58,
       "issues": 706,
-      "lastUpdate": "2026-11-17T21:22:45Z",
+      "lastUpdate": "2026-11-18T07:00:44Z",
       "languages": {
         "Java": 4,
         "TypeScript": 92,
@@ -63,15 +63,15 @@
       "latitude": 53.5461,
       "longitude": -113.4938,
       "repositories": 36,
-      "stars": 118,
+      "stars": 119,
       "forks": 76,
       "issues": 51,
-      "lastUpdate": "2026-10-09T18:35:24Z",
+      "lastUpdate": "2026-11-18T07:26:48Z",
       "languages": {
+        "Jupyter Notebook": 1,
         "R": 3,
         "Python": 11,
         "Makefile": 1,
-        "Jupyter Notebook": 1,
         "C#": 3,
         "JavaScript": 8,
         "Smarty": 1,
@@ -91,7 +91,7 @@
       "stars": 87,
       "forks": 33,
       "issues": 389,
-      "lastUpdate": "2026-11-17T19:48:21Z",
+      "lastUpdate": "2026-11-17T22:00:03Z",
       "languages": {
         "Jupyter Notebook": 9,
         "PLpgSQL": 2,
@@ -339,5 +339,5 @@
       "languages": {}
     }
   ],
-  "refreshMillis": 1794950771198
+  "refreshMillis": 1794988971942
 }
